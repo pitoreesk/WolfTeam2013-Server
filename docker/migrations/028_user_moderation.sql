@@ -1,0 +1,5 @@
+ALTER TABLE users
+    ADD COLUMN IF NOT EXISTS muted boolean NOT NULL DEFAULT false,
+    ADD COLUMN IF NOT EXISTS mute_reason varchar(255) NOT NULL DEFAULT '',
+    ADD COLUMN IF NOT EXISTS banned boolean NOT NULL DEFAULT false,
+    ADD COLUMN IF NOT EXISTS ban_reason varchar(255) NOT NULL DEFAULT '';

@@ -1,0 +1,1031 @@
+file_offset,record_index,item_id,name,icon_path,icon_w,icon_h,in_shopdata_2012,shop_rows,shop_family,shop_pricing_mode,shop_category,fits_u16
+0,0,1002,GLOC-17,WT_Interface\Item\Forge\GLOC-17.dtx,70,70,1,1,1,1,2,1
+96,1,1003,EM-1911A1,WT_Interface\Item\Forge\EM-1911 A1.dtx,70,70,1,1,1,1,2,1
+202,2,1004,USF-40,WT_Interface\Item\Forge\USF-40.dtx,70,70,1,1,1,1,2,1
+294,3,1006,DE-50,WT_Interface\Item\Forge\DE-50.dtx,70,70,1,1,1,1,2,1
+382,4,1008,PI-226 R,WT_Interface\Item\Forge\PI-226R.dtx,70,70,1,1,1,1,2,1
+480,5,1009,DE GOLD,WT_Interface\Item\Forge\DE GOLD.dtx,70,70,1,1,1,2,2,1
+576,6,1010,RUGER,WT_Interface\Item\Forge\PI-08.dtx,70,70,1,1,1,2,2,1
+664,7,1011,EM-500 C,WT_Interface\Item\Forge\EM-500.dtx,70,70,1,1,4,1,2,1
+760,8,1012,KARAKAL UAE,WT_Interface\Item\Forge\KARAKAL UAE.dtx,70,70,1,1,1,2,2,1
+872,9,1013,EM-500,WT_Interface\Item\Forge\EM-500_NO UP.dtx,70,70,1,1,4,1,2,1
+976,10,3002,AKEI-47 CLASSIC,WT_Interface\Item\Forge\AKEI-47.dtx,70,70,1,1,1,2,1,1
+1088,11,3004,ESA-80 ST,WT_Interface\Item\Forge\ESA-80 ST.dtx,70,70,1,1,1,2,1,1
+1192,12,3005,AKEI-47 PT,WT_Interface\Item\Forge\AKEIS-47 PT.dtx,70,70,1,1,1,2,1,1
+1302,13,3006,AKEI-47 PMC,WT_Interface\Item\Forge\AKEIS-47 PMC.dtx,70,70,1,1,1,1,1,1
+1416,14,3007,AUZ A2 PT,WT_Interface\Item\Forge\AUZ A2 PT.dtx,70,70,1,1,1,2,1,1
+1520,15,3008,EM-4 N,WT_Interface\Item\Forge\EM-4 N.dtx,70,70,1,1,1,1,1,1
+1612,16,3009,AUZ A2 COVRA,WT_Interface\Item\Forge\AUZ A2 COVRA.dtx,70,70,1,1,1,1,1,1
+1728,17,3010,SCAL SF,WT_Interface\Item\Forge\SCAL-SF.dtx,70,70,1,1,1,2,1,1
+1824,18,3011,SCAL WT,WT_Interface\Item\Forge\SCAL-WT.dtx,70,70,1,1,1,1,1,1
+1920,19,3012,Z-3 C,WT_Interface\Item\Forge\Z-3 C.dtx,70,70,1,1,1,2,1,1
+2008,20,3013,FANAS FFW,WT_Interface\Item\Forge\FANAS FFW.dtx,70,70,1,1,1,1,1,1
+2112,21,3014,Z-3 FB,WT_Interface\Item\Forge\Z-3 FB.dtx,70,70,1,1,1,1,1,1
+2204,22,3015,AKEIS-74U S,WT_Interface\Item\Forge\AKEIS-74U S.dtx,70,70,1,1,1,2,1,1
+2316,23,3016,AKEIS-74U F,WT_Interface\Item\Forge\AKEIS-74U F.dtx,70,70,1,1,1,1,1,1
+2428,24,3017,EM-14 WT,WT_Interface\Item\Forge\EM-14 WT.dtx,70,70,1,1,1,1,1,1
+2528,25,3018,EM-14 PT,WT_Interface\Item\Forge\EM-14 PT.dtx,70,70,1,1,1,2,1,1
+2628,26,3019,AKEI-47 ST,WT_Interface\Item\Forge\AKEIS-47 ST.dtx,70,70,1,1,1,1,1,1
+2738,27,3020,XEM-8 WT,WT_Interface\Item\Forge\AKEI-47 WT.dtx,70,70,1,1,1,1,1,1
+2842,28,3021,EF-2000 PT,WT_Interface\Item\Forge\EF-2000 PT.dtx,70,70,1,1,1,2,1,1
+2950,29,3022,EF-2000 WT,WT_Interface\Item\Forge\EF-2000 WT.dtx,70,70,1,1,1,1,1,1
+3058,30,3025,SZ-552 N,WT_Interface\Item\Forge\SZ-552 N.dtx,70,70,1,1,1,1,1,1
+3158,31,3026,SZ-552 PT,WT_Interface\Item\Forge\SZ-552 PT.dtx,70,70,1,1,1,2,1,1
+3262,32,3027,KEI-2 A1,WT_Interface\Item\Forge\KEI-2 A1.dtx,70,70,1,1,1,2,1,1
+3362,33,3028,KEI-2 T1,WT_Interface\Item\Forge\KEI-2 T1.dtx,70,70,1,1,1,1,1,1
+3462,34,3030,EM-4 PT,WT_Interface\Item\Forge\EM-4 PT.dtx,70,70,1,1,1,1,1,1
+3558,35,3031,EM-4 WT,WT_Interface\Item\Forge\EM-4 WT.dtx,70,70,1,1,1,2,1,1
+3654,36,3032,FANAS PT,WT_Interface\Item\Forge\FANAS PT.dtx,70,70,1,1,1,1,1,1
+3754,37,3033,XEM-8 PT,WT_Interface\Item\Forge\XEM-8 PT.dtx,70,70,1,1,1,1,1,1
+3854,38,3034,XEM-8 C,WT_Interface\Item\Forge\XEM-8 WT.dtx,70,70,1,1,1,2,1,1
+3952,39,3035,AKEI-47 GOLD,WT_Interface\Item\Forge\AKEI-47 GOLD CLASSIC.dtx,70,70,1,1,1,2,1,1
+4084,40,3036,Z-36C CS,WT_Interface\Item\Forge\Z-36C CS.dtx,70,70,1,1,1,1,1,1
+4184,41,3037,Z-36C WT,WT_Interface\Item\Forge\Z-36C WT.dtx,70,70,1,1,1,2,1,1
+4284,42,3038,J-89,WT_Interface\Item\Forge\J-89.dtx,70,70,1,1,4,1,1,1
+4368,43,3039,Z-36,WT_Interface\Item\Forge\Z-36.dtx,70,70,1,1,4,1,1,1
+4452,44,3040,EM-4C,WT_Interface\Item\Forge\EM-4 C.dtx,70,70,1,1,1,2,1,1
+4542,45,3041,C-95,WT_Interface\Item\Forge\C-95 BASE.dtx,70,70,1,1,4,1,1,1
+4636,46,3042,EF-2000T,WT_Interface\Item\Forge\EF-2000 T.dtx,70,70,1,1,1,2,1,1
+4738,47,3043,ABU DHABI-16,WT_Interface\Item\Forge\ABU DHABI-16.dtx,70,70,1,1,1,2,1,1
+4854,48,3044,FANAS UAE,WT_Interface\Item\Forge\FANAS UAE.dtx,70,70,1,1,1,2,1,1
+4958,49,3045,AKEIS-74U AW,WT_Interface\Item\Forge\AKEIS-74U AW.dtx,70,70,1,1,1,2,1,1
+5074,50,3046,SZ-552 AW,WT_Interface\Item\Forge\SZ-552 AW.dtx,70,70,1,1,1,2,1,1
+5178,51,3047,AUZ A3 C,WT_Interface\Item\Forge\AUZ A3 C.dtx,70,70,1,1,1,2,1,1
+5278,52,3048,SZ-550,WT_Interface\Item\Forge\SZ-550.dtx,70,70,1,1,1,2,1,1
+5370,53,3049,AKEI-47 GOLD2,WT_Interface\Item\Forge\AKEI-47 GOLD CLASSIC.dtx,70,70,1,1,1,2,1,1
+5504,54,3050,AKEIS-74U LIMITED,WT_Interface\Item\Forge\AKEIS-74U LIMITED.dtx,70,70,1,1,1,2,1,1
+5640,55,3051,EF-2000 LIMITED,WT_Interface\Item\Forge\EF-2000 LIMITED.dtx,70,70,1,1,1,2,1,1
+5768,56,3052,XEM-8 OPS,WT_Interface\Item\Forge\XEM-8_OPS.dtx,70,70,1,1,1,2,1,1
+5872,57,3053,FANAS SILVER,WT_Interface\Item\Forge\FANAS SILVER.dtx,70,70,1,1,1,2,1,1
+5988,58,5001,EMP-5 CS,WT_Interface\Item\Forge\EMP-5 CS.dtx,70,70,1,1,1,1,1,1
+6088,59,5003,EMP-5 GD,WT_Interface\Item\Forge\EMP-5 GD.dtx,70,70,1,1,1,2,1,1
+6188,60,5004,UMF-45 PT,WT_Interface\Item\Forge\UMF-45 PT.dtx,70,70,1,1,1,2,1,1
+6292,61,5005,UMF-45 WT,WT_Interface\Item\Forge\UMF-45 WT.dtx,70,70,1,1,1,1,1,1
+6396,62,5006,NMP-40,WT_Interface\Item\Forge\MASCHINEN PISTOLE 40.dtx,70,70,1,1,1,2,1,1
+6516,63,5007,PI-90,WT_Interface\Item\Forge\WT_Interface\Item\Forge\PI-90.dtx,70,70,1,1,1,1,1,1
+6652,64,5008,TOMMY-45,WT_Interface\Item\Forge\TOMMY-45.dtx,70,70,1,1,1,2,1,1
+6752,65,5009,STEM MK-2,WT_Interface\Item\Forge\STEM MK-2.dtx,70,70,1,1,1,2,1,1
+6856,66,5010,PI-90 UAE,WT_Interface\Item\Forge\PI-90 UAE.dtx,70,70,1,1,1,2,1,1
+6960,67,5011,TOMMY-45/75R,WT_Interface\Item\Forge\TOMMY-45_75R.dtx,70,70,1,1,1,2,1,1
+7076,68,5012,TOMMY-45/100R,WT_Interface\Item\Forge\TOMMY-45_100R.dtx,70,70,1,1,1,2,1,1
+7196,69,5014,PI-90 SILVER,WT_Interface\Item\Forge\PI-90 SILVER.dtx,70,70,1,1,1,2,1,1
+7312,70,5015,PI-90 PIXEL,WT_Interface\Item\Forge\PI-90 PIXEL.dtx,70,70,1,1,4,1,1,1
+7424,71,6002,STOUT PT,WT_Interface\Item\Forge\STOUT PT.dtx,70,70,1,1,1,1,1,1
+7524,72,6003,I-115 GOLD,WT_Interface\Item\Forge\I-115 GOLD.dtx,70,70,1,1,1,2,1,1
+7632,73,6004,I-115 T,WT_Interface\Item\Forge\I-115 T.dtx,70,70,1,1,1,1,1,1
+7728,74,6005,I-115 WT,WT_Interface\Item\Forge\I-115 WT.dtx,70,70,1,1,1,2,1,1
+7828,75,6006,EM-40 PT,WT_Interface\Item\Forge\EM-40 PT.dtx,70,70,1,1,1,2,1,1
+7928,76,6007,EM-40 T,WT_Interface\Item\Forge\EM-40 T.dtx,70,70,1,1,1,1,1,1
+8024,77,6008,I-115A1 AW,WT_Interface\Item\Forge\I-115 AW.dtx,70,70,1,1,1,2,1,1
+8128,78,6010,SVDR CLASSIC,WT_Interface\Item\Forge\SVDR-CLASSIC.dtx,70,70,1,1,1,2,1,1
+8244,79,6011,SVDR GOLD,WT_Interface\Item\Forge\SVDR-GOLD.dtx,70,70,1,1,1,2,1,1
+8348,80,6012,SVDR MODERN,WT_Interface\Item\Forge\SVDR_MODERN.dtx,70,70,1,1,4,1,1,1
+8460,81,7001,SUPAS PT,WT_Interface\Item\Forge\SUPAS-PT.dtx,70,70,1,1,1,2,1,1
+8560,82,7002,EM-3 P,WT_Interface\Item\Forge\EM-3 P.dtx,70,70,1,1,1,1,1,1
+8652,83,7003,EM-3 CS,WT_Interface\Item\Forge\EM-3 CS.dtx,70,70,1,1,1,2,1,1
+8748,84,7004,SUPAS WT,WT_Interface\Item\Forge\SUPAS-WT.dtx,70,70,1,1,1,1,1,1
+8848,85,7005,EXM-26 CS,WT_Interface\Item\Forge\EXM-26 CS.dtx,70,70,1,1,1,2,1,1
+8952,86,7006,EXM-26 WT,WT_Interface\Item\Forge\EXM-26 WT.dtx,70,70,1,1,1,1,1,1
+9056,87,7501,EM-60 PT,WT_Interface\Item\Forge\EM-60 PT.dtx,70,70,1,1,1,1,1,1
+9156,88,7502,EM-60 SILVER,WT_Interface\Item\Forge\EM-60 SIVER.dtx,70,70,1,1,1,2,1,1
+9270,89,7503,EM-60 PIXEL,WT_Interface\Item\Forge\EM-60 PIXEL.dtx,70,70,1,1,4,1,1,1
+9382,90,8001,EM-2 HB,WT_Interface\Item\Forge\EM-2HB.dtx,70,70,1,1,1,1,1,1
+9476,91,8002,WT MG-1,WT_Interface\Item\Forge\WT-MG1.dtx,70,70,1,1,1,1,1,1
+9570,92,8501,EM-72A5 LAW,WT_Interface\Item\Forge\EM-72 A5 LAW.dtx,70,70,1,1,1,1,1,1
+9684,93,8503,WT RL-2,WT_Interface\Item\Forge\WT-RL2.dtx,70,70,1,1,1,1,1,1
+9778,94,8601,EM-32,WT_Interface\Item\Forge\EM-32.dtx,70,70,1,1,1,1,1,1
+9866,95,8701,GD AWFL ,WT_Interface\Item\Forge\AWFL.dtx,70,70,1,1,1,1,1,1
+9958,96,9004,MK-5 EG,WT_Interface\Item\Forge\MK-5EG.dtx,70,70,1,1,1,1,4,1
+10052,97,9006,RED Grenade,WT_Interface\Item\Forge\MASS GRENADE Red.dtx,70,70,1,1,1,1,4,1
+10174,98,9007,STICK GRENADE,WT_Interface\Item\Forge\STICK GRENADE.dtx,70,70,1,1,1,2,4,1
+10294,99,9008,MK-6G,WT_Interface\Item\Forge\MK-6G.dtx,70,70,1,1,1,2,4,1
+10382,100,9011,MK-6EG,WT_Interface\Item\Forge\MK-6EG.dtx,70,70,1,1,1,2,4,1
+10474,101,9013,MK-6E,WT_Interface\Item\Forge\MK-6E.dtx,70,70,1,1,1,2,4,1
+10562,102,10001,GP Plus,WT_Interface\Item\Forge\GP_PLUS.dtx,70,70,1,1,1,2,15,1
+10658,103,10002,Gold Plus,WT_Interface\Item\Forge\GOLD_PLUS.dtx,70,70,1,1,1,2,15,1
+10762,104,10003,Plus Combo,WT_Interface\Item\Forge\GP_GOLD_PLUS.dtx,70,70,1,1,1,0,15,1
+10874,105,10006,Reduce Respawn Time,WT_Interface\Item\Forge\RESPAWN_TIME.dtx,70,70,1,1,1,0,15,1
+11004,106,10010,2nd Wolf Mutation,WT_Interface\Item\Forge\SPECIAL_WOLF.dtx,70,70,1,1,1,1,15,1
+11130,107,10012,Reset Kill / Death ,WT_Interface\Item\Forge\KILL_DEATH_RESET.dtx,70,70,1,1,1,5,15,1
+11268,108,10014,Change Pride Name,WT_Interface\Item\Forge\PRIDE_CHANGE.dtx,70,70,1,1,1,5,15,1
+11394,109,10015,GP Plusx2,WT_Interface\Item\Forge\GP_MULTI.dtx,70,70,1,1,1,0,15,1
+11496,110,10016,Penalty Zero,WT_Interface\Item\Forge\PENALTY_ZERO.dtx,70,70,1,1,1,2,15,1
+11612,111,10017,No Suicidal Explosion,WT_Interface\Item\Forge\SELF_DESTRUCTION.dtx,70,70,1,1,1,2,15,1
+11754,112,10018,Extend Invulnerable Time,WT_Interface\Item\Forge\GOD_TIME.dtx,70,70,1,1,1,2,15,1
+11886,113,10019,Change Call Sign ,WT_Interface\Item\Forge\CALLSIGN_CHANGE.dtx,70,70,1,1,1,5,15,1
+12018,114,10020,Full up kit,WT_Interface\Item\Forge\Fullupkit.dtx,70,70,1,1,1,5,15,1
+12126,115,10025,Plus Combo Ultimate,WT_Interface\Item\Forge\PLUS_COMBO_ULTIMATE.dtx,70,70,1,1,4,1,15,1
+12270,116,10026,Reset Win / Lose ,WT_Interface\Item\Forge\RECORD_RESET.dtx,70,70,1,1,1,5,15,1
+12396,117,10029,POWER PLUS COMBO,WT_Interface\Item\Forge\GP_GOLD_PLUS.dtx,70,70,1,1,1,2,15,1
+12520,118,11001,Basic Wolf Strengthening item(Power),WT_Interface\Item\Forge\EX_WOLF.dtx,70,70,1,1,1,2,7,1
+12674,119,11002,Basic Wolf Strengthening item(Guardian),WT_Interface\Item\Forge\EX_WOLF_GUARDIAN.dtx,70,70,1,1,4,1,7,1
+12852,120,11003,Basic Wolf Strengthening item(Berserker),WT_Interface\Item\Forge\EX_WOLF_BERSERKER.dtx,70,70,1,1,4,1,7,1
+13034,121,11004,Basic Wolf Strengthening item(Ice),WT_Interface\Item\Forge\EX_WOLF_ICE.dtx,70,70,1,1,4,1,7,1
+13192,122,11005,Basic Wolf Strengthening item(Psycho),WT_Interface\Item\Forge\EX_WOLF_PSY.dtx,70,70,1,1,4,1,7,1
+13356,123,11006,Basic Wolf Strengthening item(Smart),WT_Interface\Item\Forge\EX_WOLF_SMART.dtx,70,70,1,1,4,1,7,1
+13522,124,12001,Tattoo (Maniac),WT_Interface\Item\Forge\Tattoo_GuangA1.dtx,70,70,1,1,1,0,6,1
+13648,125,12002,Tattoo (One Mind),WT_Interface\Item\Forge\Tattoo_IlsimA1.dtx,70,70,1,1,1,0,6,1
+13778,126,12003,Tattoo (unrivaled),WT_Interface\Item\Forge\Tattoo_CunhaA1.dtx,70,70,1,1,1,0,6,1
+13910,127,12005,Tattoo (Midas),WT_Interface\Item\Forge\Tattoo_MidasA1.dtx,70,70,1,1,1,0,6,1
+14034,128,12006,Tattoo (Snake),WT_Interface\Item\Forge\Tattoo_SnakeA1.dtx,70,70,1,1,1,0,6,1
+14158,129,12007,Tattoo (Scorpion),WT_Interface\Item\Forge\Tattoo_ScorpionA1.dtx,70,70,1,1,1,0,6,1
+14294,130,12019,Tattoo (Axion),WT_Interface\Item\Forge\Tattoo_AxionA2.dtx,70,70,1,1,1,2,6,1
+14418,131,12020,Tattoo (Snake),WT_Interface\Item\Forge\Tattoo_SnakeA1.dtx,70,70,1,1,1,2,6,1
+14542,132,12021,Tattoo (Scorpion),WT_Interface\Item\Forge\Tattoo_ScorpionA1.dtx,70,70,1,1,1,2,6,1
+14678,133,12022,Tattoo (Three Cross),WT_Interface\Item\Forge\Tattoo_ThreeCrossA1.dtx,70,70,1,1,1,1,6,1
+14824,134,12023,Tattoo (Tiger),WT_Interface\Item\Forge\Tattoo_Tiger.dtx,70,70,1,1,1,2,6,1
+14944,135,12024,Tattoo (Butterfly),WT_Interface\Item\Forge\Tattoo_ButterFlyA2.dtx,70,70,1,1,1,1,6,1
+15084,136,12025,Tattoo (eagle),WT_Interface\Item\Forge\Tattoo_Eagle.dtx,70,70,1,1,1,2,6,1
+15204,137,12026,Tattoo (Beauty),WT_Interface\Item\Forge\Tattoo_Vegin.dtx,70,70,1,1,1,1,6,1
+15326,138,13001,For noncom 10A,WT_Interface\Item\Forge\BackPack_Private.dtx,70,70,1,1,1,1,5,1
+15454,139,13002,For noncom 10B,WT_Interface\Item\Forge\BackPack_NonCom.dtx,70,70,1,1,1,2,5,1
+15580,140,13003,For company officer 15A,WT_Interface\Item\Forge\BackPack_ComOfficer.dtx,70,70,1,1,1,1,5,1
+15732,141,13004,For company officer 15B,WT_Interface\Item\Forge\BackPack_FieldOfficer.dtx,70,70,1,1,1,2,5,1
+15888,142,13005,Starter Pack 15C,WT_Interface\Item\Forge\BackPack_StaterPack_15c.dtx,70,70,1,1,1,2,5,1
+16034,143,13006,Pro Pack 20C,WT_Interface\Item\Forge\BackPack_ProPack_20c.dtx,70,70,1,1,1,2,5,1
+16166,144,14008,Classic 3 Package,WT_Interface\Item\Forge\BackPack_Private.dtx,70,70,1,1,1,0,17,1
+16300,145,14032,Power User Package,WT_Interface\Item\Forge\POWER_PACKAGE.dtx,70,70,1,1,4,2,15,1
+16430,146,14033,MK-6 Package,WT_Interface\Item\Forge\MK_6_PACKAGE.dtx,70,70,1,1,1,0,16,1
+16546,147,14040,Royal Package,WT_Interface\Item\Forge\RoyalPackage.dtx,70,70,1,1,4,1,17,1
+16664,148,14041,Luxury package,WT_Interface\Item\Forge\LuxuryPackage.dtx,70,70,1,1,4,1,17,1
+16786,149,14042,Prestige Package,WT_Interface\Item\Forge\PrestigePackage.dtx,70,70,1,1,4,1,17,1
+16916,150,14043,Majestic Package,WT_Interface\Item\Forge\MajesticPackage.dtx,70,70,1,1,4,1,17,1
+17046,151,16011,Original Scratch,WT_Interface\Item\Forge\Original Scratch.dtx,70,70,1,1,1,2,18,1
+17178,152,16012,Dark Scratch,WT_Interface\Item\Forge\Dark Scratch.dtx,70,70,1,1,1,2,18,1
+17294,153,16013,Blaze Scratch,WT_Interface\Item\Forge\BlazeScratch.dtx,70,70,1,1,1,2,18,1
+17412,154,16014,Brilliant Scratch,WT_Interface\Item\Forge\Brilliant_Scratch.dtx,70,70,1,1,1,1,18,1
+17548,155,16015,Brutal Scratch,WT_Interface\Item\Forge\Brutal Scratch.dtx,70,70,1,1,4,1,18,1
+17672,156,16016,Furious Scratch,WT_Interface\Item\Forge\Furious_Scratch.dtx,70,70,1,1,1,1,18,1
+17800,157,16017,Luminous Scratch,WT_Interface\Item\Forge\LuminousScratch.dtx,70,70,1,1,1,2,18,1
+17930,158,16018,Violet Scratch,WT_Interface\Item\Forge\Violet_Scratch.dtx,70,70,1,1,1,1,18,1
+18054,159,16019,Shadow Scratch,WT_Interface\Item\Forge\ShadowScratch.dtx,70,70,1,1,1,2,18,1
+18176,160,18001,Wolf View x1.5,WT_Interface\Item\Forge\WolfViewItem_1.dtx,70,70,1,1,4,1,7,1
+18300,161,18002,Wolf View x1.7,WT_Interface\Item\Forge\WolfViewItem_2.dtx,70,70,1,1,1,2,7,1
+18424,162,10038,Respawn Time Zero,WT_Interface\Item\Forge\Respawn Time Zero.dtx,70,70,1,1,1,2,15,1
+18560,163,30001,Angela Mao ,WT_Interface\Item\Forge\Angela.dtx,70,70,1,1,1,2,9,1
+18662,164,30002,Christopher Smith,WT_Interface\Item\Forge\Christopher.dtx,70,70,1,1,1,2,9,1
+18786,165,30003,Adriana Tenorio,WT_Interface\Item\Forge\Adriana.dtx,70,70,1,1,1,2,8,1
+18898,166,30004,Pedro Gomes,WT_Interface\Item\Forge\Pedro.dtx,70,70,1,1,1,2,8,1
+18998,167,31001,AM-H01S Helmet,WT_Interface\Item\Forge\Angela_Helmet01.dtx,70,70,1,1,1,2,11,1
+19124,168,31003,AT-H01B Cap,WT_Interface\Item\Forge\Adriana_Helmet02.dtx,70,70,1,1,1,2,11,1
+19246,169,31004,PG-H01B Beanie,WT_Interface\Item\Forge\Pedro_Helmet01.dtx,70,70,1,1,1,2,11,1
+19370,170,14058,Prestige Package,WT_Interface\Item\Forge\PrestigePackage.dtx,70,70,1,1,1,2,17,1
+19500,171,18004,Wolf View x2.0,WT_Interface\Item\Forge\WolfViewItem_3.dtx,70,70,1,1,1,2,7,1
+19624,172,31005,AM-H02B Helmet,WT_Interface\Item\Forge\Angela_Helmet02.dtx,70,70,1,1,1,2,11,1
+19750,173,31006,CS-H02B Helmet,WT_Interface\Item\Forge\Christopher_Helmet02.dtx,70,70,1,1,1,2,11,1
+19886,174,31007,AT-H02A Cap,WT_Interface\Item\Forge\Adriana_Helmet03.dtx,70,70,1,1,1,2,11,1
+20008,175,31008,PG-H02B Cap,WT_Interface\Item\Forge\Pedro_Helmet02.dtx,70,70,1,1,1,2,11,1
+20126,176,31009,AM-H03A Helmet,WT_Interface\Item\Forge\Angela_Helmet03.dtx,70,70,1,1,1,2,11,1
+20252,177,31010,CS-H03A Helmet,WT_Interface\Item\Forge\Christopher_Helmet03.dtx,70,70,1,1,1,2,11,1
+20388,178,31012,PG-H03A Beanie,WT_Interface\Item\Forge\Pedro_Helmet03.dtx,70,70,1,1,1,2,11,1
+20512,179,31013,AM-H04B Hat,WT_Interface\Item\Forge\Angela_JungleHat01.dtx,70,70,1,1,1,2,11,1
+20638,180,31014,CS-H04B Hat,WT_Interface\Item\Forge\Christopher_Junglehat01.dtx,70,70,1,1,1,2,11,1
+20774,181,31015,AT-H03B Hat,WT_Interface\Item\Forge\Adriana_JungleHat01.dtx,70,70,1,1,1,2,11,1
+20902,182,31016,PG-H04B Hat,WT_Interface\Item\Forge\Pedro_Junglehat01.dtx,70,70,1,1,1,2,11,1
+21026,183,32005,AM-U02B Elbow Protector,WT_Interface\Item\Forge\Angela_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+21186,184,33005,AM-L02B Boots,WT_Interface\Item\Forge\Angela_Boots02.dtx,70,70,1,1,1,2,13,1
+21308,185,33006,CS-L02B Boots,WT_Interface\Item\Forge\Christopher_Boots01.dtx,70,70,1,1,1,2,13,1
+21440,186,33007,AT-L02B Boots,WT_Interface\Item\Forge\Adriana_Boots02.dtx,70,70,1,1,1,2,13,1
+21564,187,33008,PG-L02B Boots,WT_Interface\Item\Forge\Pedro_Boots01.dtx,70,70,1,1,1,2,13,1
+21684,188,7504,Z-36C PX,WT_Interface\Item\Forge\Z-36C Pixel.dtx,70,70,1,1,1,2,1,1
+21790,189,7505,HKEI-MP7A1 ,WT_Interface\Item\Forge\HKEI-MP7A1.dtx,70,70,1,1,1,2,1,1
+21900,190,7506,Zaitsev,WT_Interface\Item\Forge\ZaitsevRifle.dtx,70,70,1,1,1,2,1,1
+22006,191,2003,C5-TFK,WT_Interface\Item\Forge\C5-TFK.dtx,70,70,1,1,1,2,3,1
+22098,192,3054,SZ-550 Antique,WT_Interface\Item\Forge\SZ-550_Antique.dtx,70,70,1,1,1,2,1,1
+22222,193,3055,J-89 Antique,WT_Interface\Item\Forge\J-89_Antique.dtx,70,70,1,1,4,1,1,1
+22338,194,3056,J-89 Multicam,WT_Interface\Item\Forge\J-89_Multicam.dtx,70,70,1,1,1,2,1,1
+22458,195,3057,Z-36 AT,WT_Interface\Item\Forge\Z-36_Antique.dtx,70,70,1,1,4,1,1,1
+22564,196,3058,ELWRCi M6A2,WT_Interface\Item\Forge\ELWRCi_M6A2.dtx,70,70,1,1,1,2,1,1
+22676,197,3059,C-95 Antique,WT_Interface\Item\Forge\C-95_Antique.dtx,70,70,1,1,4,1,1,1
+22792,198,3060,C-95 Multicam,WT_Interface\Item\Forge\C-95_Multicam.dtx,70,70,1,1,1,2,1,1
+22912,199,3061,Z-36 MC,WT_Interface\Item\Forge\Z-36_Multicam.dtx,70,70,1,1,1,2,1,1
+23020,200,3062,FANASAntique,WT_Interface\Item\Forge\Fanas_Silver_Antique.dtx,70,70,1,1,1,2,1,1
+23152,201,3063,Fanas Multicam,WT_Interface\Item\Forge\Fanas_Silver_Multicam.dtx,70,70,1,1,4,1,1,1
+23290,202,3064,AKEIS-74U AW Antique,WT_Interface\Item\Forge\AKEIS-74U_AW_Antique.dtx,70,70,1,1,1,2,1,1
+23438,203,3065,AKEIS-74U LIMITED Multicam,WT_Interface\Item\Forge\AKEIS-74U_AW_Multicam.dtx,70,70,1,1,1,2,1,1
+23600,204,31019,AM-H06A Mask,WT_Interface\Item\Forge\Angela_Mask02.dtx,70,70,1,1,1,2,11,1
+23718,205,31022,CS-H06A Mask,WT_Interface\Item\Forge\Christopher_Mask02.dtx,70,70,1,1,1,2,11,1
+23846,206,31023,CS-H07B Mask,WT_Interface\Item\Forge\Christopher_Mask03.dtx,70,70,1,1,1,2,11,1
+23974,207,31025,PG-H06A Mask,WT_Interface\Item\Forge\Pedro_Mask02.dtx,70,70,1,1,1,2,11,1
+24090,208,32006,AT-U02B Cross Band,WT_Interface\Item\Forge\Adriana_Vest01.dtx,70,70,1,1,1,2,12,1
+24222,209,32007,AM-U03B Vest,WT_Interface\Item\Forge\Angela_Vest01.dtx,70,70,1,1,1,2,12,1
+24340,210,32008,CS-U02B Vest,WT_Interface\Item\Forge\Christopher_Vest01.dtx,70,70,1,1,1,2,12,1
+24468,211,32009,CS-U03A Vest,WT_Interface\Item\Forge\Christopher_Vest02.dtx,70,70,1,1,1,2,12,1
+24596,212,32010,PG-U02B Cross Band,WT_Interface\Item\Forge\Pedro_Vest01.dtx,70,70,1,1,1,2,12,1
+24724,213,32011,PG-U03A Cross Band,WT_Interface\Item\Forge\Pedro_Vest02.dtx,70,70,1,1,1,2,12,1
+24852,214,31026,AT-H05B Hood,WT_Interface\Item\Forge\Adriana_Helmet04.dtx,70,70,1,1,1,2,11,1
+24976,215,31027,AM-H08A Bandana,WT_Interface\Item\Forge\Angela_Helmet04.dtx,70,70,1,1,1,2,11,1
+25104,216,31028,CS-H08A Helmet,WT_Interface\Item\Forge\Christopher_Helmet04.dtx,70,70,1,1,1,2,11,1
+25240,217,31029,PG-H07S Beret,WT_Interface\Item\Forge\Pedro_Helmet04.dtx,70,70,1,1,1,2,11,1
+25362,218,33010,AM-L03A Boots,WT_Interface\Item\Forge\Angela_Boots03.dtx,70,70,1,1,1,2,13,1
+25484,219,33011,CS-L03A Boots,WT_Interface\Item\Forge\Christopher_Boots02.dtx,70,70,1,1,1,2,13,1
+25616,220,33012,AT-L03A Boots,WT_Interface\Item\Forge\Adriana_Boots03.dtx,70,70,1,1,1,2,13,1
+25740,221,33013,PG-L03A Boots,WT_Interface\Item\Forge\Pedro_Boots02.dtx,70,70,1,1,1,2,13,1
+25860,222,32012,AT-U03B Elbow Protector,WT_Interface\Item\Forge\Adriana_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+26022,223,32013,AT-U04A Elbow Protector,WT_Interface\Item\Forge\Adriana_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+26184,224,31030,AT-H06B Goggles,WT_Interface\Item\Forge\Adriana_Goggles01.dtx,70,70,1,1,1,2,11,1
+26316,225,31031,AT-H07A Hat,WT_Interface\Item\Forge\Adriana_JungleHat02.dtx,70,70,1,1,1,2,11,1
+26444,226,33014,AT-L04B Knee Protector,WT_Interface\Item\Forge\Adriana_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+26602,227,33015,AT-L05A Knee Protector,WT_Interface\Item\Forge\Adriana_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+26760,228,31033,AT-H09B Mask,WT_Interface\Item\Forge\Adriana_Mask02.dtx,70,70,1,1,1,2,11,1
+26880,229,32014,AM-U04A Elbow Protector,WT_Interface\Item\Forge\Angela_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+27040,230,31034,AM-H09B Goggles,WT_Interface\Item\Forge\Angela_Goggles01.dtx,70,70,1,1,1,2,11,1
+27170,231,31035,AM-H10A Hat,WT_Interface\Item\Forge\Angela_JungleHat03.dtx,70,70,1,1,1,2,11,1
+27296,232,33016,AM-L04B Knee Protector,WT_Interface\Item\Forge\Angela_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+27452,233,31036,AM-H11B Mask,WT_Interface\Item\Forge\Angela_Mask01.dtx,70,70,1,1,1,2,11,1
+27570,234,32015,AM-U05A Vest,WT_Interface\Item\Forge\Angela_Vest02.dtx,70,70,1,1,1,2,12,1
+27688,235,32016,CS-U04B Elbow Protector,WT_Interface\Item\Forge\Christopher_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+27858,236,32017,CS-U05A Elbow Protector,WT_Interface\Item\Forge\Christopher_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+28028,237,31037,CS-H09B Goggles,WT_Interface\Item\Forge\Christopher_Goggles01.dtx,70,70,1,1,1,2,11,1
+28168,238,31038,CS-H10A Hat,WT_Interface\Item\Forge\Christopher_Junglehat02.dtx,70,70,1,1,1,2,11,1
+28304,239,33017,CS-L2B Knee Protector,WT_Interface\Item\Forge\Christopher_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+28468,240,33018,CS-L3A Knee Protector,WT_Interface\Item\Forge\Christopher_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+28632,241,32018,PG-U04B Elbow Protector,WT_Interface\Item\Forge\Pedro_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+28790,242,32019,PG-U05A Elbow Protector,WT_Interface\Item\Forge\Pedro_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+28948,243,31040,PG-H08B Goggles,WT_Interface\Item\Forge\Pedro_Goggles01.dtx,70,70,1,1,1,2,11,1
+29076,244,31041,PG-H09A Hat,WT_Interface\Item\Forge\Pedro_Junglehat02.dtx,70,70,1,1,1,2,11,1
+29200,245,33019,PG-L04B Knee Protector,WT_Interface\Item\Forge\Pedro_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+29354,246,33020,PG-L05A Knee Protector,WT_Interface\Item\Forge\Pedro_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+29508,247,31043,PG-H11B Mask,WT_Interface\Item\Forge\Pedro_Mask03.dtx,70,70,1,1,1,2,11,1
+29624,248,33009,AM-L05A Knee Protector,WT_Interface\Item\Forge\Angela_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+29780,249,3066,EF-2000 LIMITED Antique,WT_Interface\Item\Forge\EF-2000_Ltd_Antique.dtx,70,70,1,1,1,2,1,1
+29932,250,3067,EF-2000 LIMITED Multicam,WT_Interface\Item\Forge\EF-2000_Ltd_Multicam.dtx,70,70,1,1,1,2,1,1
+30088,251,3068,XEM-8 OPS Antique,WT_Interface\Item\Forge\XEM-8_OPS_Antique.dtx,70,70,1,1,1,2,1,1
+30224,252,3069,XEM-8 OPS Multicam,WT_Interface\Item\Forge\XEM-8_OPS_Multicam.dtx,70,70,1,1,4,1,1,1
+30364,253,3070,Z-36C WT AT,WT_Interface\Item\Forge\Z-36_Antique.dtx,70,70,1,1,1,2,1,1
+30478,254,3071,EM-4C AT ,WT_Interface\Item\Forge\EM-4C_Antique.dtx,70,70,1,1,1,2,1,1
+30590,255,3072,EM-4C MC,WT_Interface\Item\Forge\EM-4C_Multicam.dtx,70,70,1,1,1,2,1,1
+30702,256,3073,AUZ A3 C AT,WT_Interface\Item\Forge\AUZ_A3_Antique.DTX,70,70,1,1,1,2,1,1
+30820,257,3074,AUZ A3 C MC,WT_Interface\Item\Forge\AUZ_A3_Multicam.DTX,70,70,1,1,4,1,1,1
+30940,258,3075,HKE417,WT_Interface\Item\Forge\HKE417.dtx,70,70,1,1,1,2,1,1
+31032,259,1016,93R,WT_Interface\Item\Forge\EM-93R.dtx,70,70,1,1,1,1,2,1
+31118,260,6013,Kar 98K,WT_Interface\Item\Forge\Kar_98K.dtx,70,70,1,1,1,2,1,1
+31214,261,32020,AT-U05A Vest,WT_Interface\Item\Forge\Adriana_Vest02.dtx,70,70,1,1,1,2,12,1
+31334,262,10039,Kick Vote,WT_Interface\Item\Forge\kick_vote.dtx,70,70,1,1,1,5,15,1
+31438,263,19002,Medical Kit (Cash),WT_Interface\Item\Forge\Medical_Kit.dtx,70,70,1,1,1,5,7,1
+31564,264,19502,Steam Pack (Cash),WT_Interface\Item\Forge\Steam_Pack.dtx,70,70,1,1,1,5,7,1
+31686,265,2005,K3-TK,WT_Interface\Item\Forge\K3-TK KNIFE.dtx,70,70,1,1,1,2,3,1
+31786,266,32021,PG-U06A Vest ,WT_Interface\Item\Forge\Pedro_Vest03.dtx,70,70,1,1,1,2,12,1
+31904,267,31044,PG-H12S Hat,WT_Interface\Item\Forge\Pedro_JungleHat04.dtx,70,70,1,1,1,2,11,1
+32028,268,31045,CS-H12S Hat,WT_Interface\Item\Forge\Christopher_JungleHat04.dtx,70,70,1,1,1,2,11,1
+32164,269,32022,AM-U06S Vest,WT_Interface\Item\Forge\Angela_Vest03.dtx,70,70,1,1,1,2,12,1
+32282,270,31046,CS-H13A Goggles,WT_Interface\Item\Forge\Christopher_Goggles04.dtx,70,70,1,1,1,2,11,1
+32422,271,32023,AT-U06S Vest,WT_Interface\Item\Forge\Adriana_Vest03.dtx,70,70,1,1,1,2,12,1
+32542,272,31047,AM-H12A Goggles,WT_Interface\Item\Forge\Angela_Goggles03.dtx,70,70,1,1,1,2,11,1
+32672,273,31049,PG-H13A Goggles,WT_Interface\Item\Forge\Pedro_Goggles02.dtx,70,70,1,1,1,2,11,1
+32800,274,31051,AT-H10A Goggles,WT_Interface\Item\Forge\Adriana_Goggles02.dtx,70,70,1,1,1,2,11,1
+32932,275,32025,AM-U08B Gloves,WT_Interface\Item\Forge\Angela_Gloves02.dtx,70,70,1,1,1,2,12,1
+33058,276,32026,AM-U09A Gloves,WT_Interface\Item\Forge\Angela_Gloves03.dtx,70,70,1,1,1,2,12,1
+33184,277,32028,AT-U08B Gloves,WT_Interface\Item\Forge\Adriana_Gloves02.dtx,70,70,1,1,1,2,12,1
+33312,278,32029,AT-U09A Gloves,WT_Interface\Item\Forge\Adriana_Gloves03.dtx,70,70,1,1,1,2,12,1
+33440,279,32031,CS-U07B Gloves,WT_Interface\Item\Forge\Christopher_Gloves02.dtx,70,70,1,1,1,2,12,1
+33576,280,32032,CS-U08A Gloves,WT_Interface\Item\Forge\Christopher_Gloves03.dtx,70,70,1,1,1,2,12,1
+33712,281,32034,PG-U08B Gloves,WT_Interface\Item\Forge\Pedro_Gloves02.dtx,70,70,1,1,1,2,12,1
+33836,282,32035,PG-U09A Gloves,WT_Interface\Item\Forge\Pedro_Gloves03.dtx,70,70,1,1,1,2,12,1
+33960,283,9023,RGD-5S,WT_Interface\Item\Forge\rgd5s.dtx,70,70,1,1,1,2,4,1
+34050,284,3077,Robinson_A. XCR,WT_Interface\Item\Forge\robinson.dtx,70,70,1,1,1,2,1,1
+34164,285,31058,AM-H15B Bandana,WT_Interface\Item\Forge\Angela_Helmet05.dtx,70,70,1,1,1,2,11,1
+34292,286,31059,PG-H15A Beret,WT_Interface\Item\Forge\Pedro_Helmet05.dtx,70,70,1,1,1,2,11,1
+34414,287,31060,AM-H15S Mask,WT_Interface\Item\Forge\Angela_Mask04.dtx,70,70,1,1,1,2,11,1
+34532,288,31061,CS-H16S Mask,WT_Interface\Item\Forge\Christopher_Mask04.dtx,70,70,1,1,1,2,11,1
+34660,289,31062,AT-H14A Mask,WT_Interface\Item\Forge\Adriana_Mask04.dtx,70,70,1,1,1,2,11,1
+34780,290,31063,AT-H15S Mask,WT_Interface\Item\Forge\Adriana_Mask03.dtx,70,70,1,1,1,2,11,1
+34900,291,31064,PG-H15S Mask,WT_Interface\Item\Forge\Pedro_Mask04.dtx,70,70,1,1,1,2,11,1
+35016,292,31065,AM-H16S Goggles,WT_Interface\Item\Forge\Angela_Goggles04.dtx,70,70,1,1,1,2,11,1
+35146,293,31066,CS-H17S Goggles,WT_Interface\Item\Forge\Christopher_Goggles03.dtx,70,70,1,1,1,2,11,1
+35286,294,31067,AT-H16S Goggles,WT_Interface\Item\Forge\Adriana_Goggles04.dtx,70,70,1,1,1,2,11,1
+35418,295,31068,PG-H16S Goggles,WT_Interface\Item\Forge\Pedro_Goggles04.dtx,70,70,1,1,1,2,11,1
+35546,296,30007,Marien Arnault,WT_Interface\Item\Forge\marien.dtx,70,70,1,1,1,2,9,1
+35654,297,30008,Reinhard Schneider,WT_Interface\Item\Forge\reinhard.dtx,70,70,1,1,1,2,9,1
+35774,298,30009,Lin meiling,WT_Interface\Item\Forge\lin.dtx,70,70,1,1,1,2,8,1
+35870,299,30010,Hamadah bin Shabah,WT_Interface\Item\Forge\hassan.dtx,70,70,1,1,1,2,8,1
+35986,300,3078,FANAS PX,WT_Interface\Item\Forge\fanas_sl_px.dtx,70,70,1,1,1,2,1,1
+36092,301,3079,FANAS GL,WT_Interface\Item\Forge\Fanas_GL.dtx,70,70,1,1,1,2,1,1
+36192,302,3080,XEM-8 OPS GL,WT_Interface\Item\Forge\XEM-8_OPS_GL.dtx,70,70,1,1,1,2,1,1
+36308,303,3081,SZ-550 GL,WT_Interface\Item\Forge\SZ-550_GL.dtx,70,70,1,1,1,2,1,1
+36412,304,31069,HS-H03B Bandana,WT_Interface\Item\Forge\Moshin_Helmet01.dtx,70,70,1,1,1,2,11,1
+36540,305,32040,HS-U03B Elbow Protector,WT_Interface\Item\Forge\Moshin_Elbow01.dtx,70,70,1,1,1,2,12,1
+36682,306,32041,HS-U07B Vest,WT_Interface\Item\Forge\Moshin_Vest01.dtx,70,70,1,1,1,2,12,1
+36800,307,33022,HS-L03B Knee Protector,WT_Interface\Item\Forge\Moshin_Knee01.dtx,70,70,1,1,1,2,13,1
+36938,308,31070,LM-H03B Hair,WT_Interface\Item\Forge\LinMeiling_Helmet01.dtx,70,70,1,1,1,2,11,1
+37068,309,32042,LM-U03B Elbow Protector,WT_Interface\Item\Forge\LinMeiling_ElbowProtector01.dtx,70,70,1,1,1,2,12,1
+37236,310,32043,LM-U07B Cross Band,WT_Interface\Item\Forge\LinMeiling_Vest01.dtx,70,70,1,1,1,2,12,1
+37374,311,33023,LM-L03B Knee Protector,WT_Interface\Item\Forge\LinMeiling_KneeProtector01.dtx,70,70,1,1,1,2,13,1
+37538,312,31071,RS-H03B Helmet,WT_Interface\Item\Forge\Reinhard_Helmet01.dtx,70,70,1,1,1,2,11,1
+37668,313,32044,RS-U03B Vest,WT_Interface\Item\Forge\Reinhard_Vest01.dtx,70,70,1,1,1,2,12,1
+37790,314,32045,RS-U07B Elbow Protector,WT_Interface\Item\Forge\Reinhard_Elbow01.dtx,70,70,1,1,1,2,12,1
+37936,315,33024,RS-L03B knee Protector,WT_Interface\Item\Forge\Reinhard_Knee01.dtx,70,70,1,1,1,2,13,1
+38078,316,31072,MA-H03B Helmet,WT_Interface\Item\Forge\Marien_Helmet01.dtx,70,70,1,1,1,2,11,1
+38204,317,32046,MA-U03B Vest,WT_Interface\Item\Forge\Marien_Vest01.dtx,70,70,1,1,1,2,12,1
+38322,318,32047,MA-U07B Elbow Protector,WT_Interface\Item\Forge\Marien_ElbowProtector01.dtx,70,70,1,1,1,2,12,1
+38482,319,33025,MA-L03B Knee Protector,WT_Interface\Item\Forge\Marien_KneeProtector01.dtx,70,70,1,1,1,2,13,1
+38638,320,10047,Wolf Probability Up,WT_Interface\Item\Forge\wolfup.dtx,70,70,1,1,1,2,19,1
+38756,321,10048,Human Probability Up,WT_Interface\Item\Forge\humanup.dtx,70,70,1,1,1,2,19,1
+38878,322,31073,HS-H02A Mask,WT_Interface\Item\Forge\Moshin_Mask01.dtx,70,70,1,1,1,2,11,1
+38996,323,32048,HS-U02A Gloves,WT_Interface\Item\Forge\Moshin_Gloves02.dtx,70,70,1,1,1,2,12,1
+39122,324,33026,HS-L02A Boots,WT_Interface\Item\Forge\Moshin_Boots02.dtx,70,70,1,1,1,2,13,1
+39244,325,31074,LM-H02A Mask,WT_Interface\Item\Forge\LinMeiling_Mask01.dtx,70,70,1,1,1,2,11,1
+39370,326,32049,LM-U02A Gloves,WT_Interface\Item\Forge\LinMeiling_Gloves02.dtx,70,70,1,1,1,2,12,1
+39504,327,33027,LM-L02A Boots,WT_Interface\Item\Forge\LinMeiling_Boots02.dtx,70,70,1,1,1,2,13,1
+39634,328,31075,RS-H02A Mask,WT_Interface\Item\Forge\Reinhard_Mask01.dtx,70,70,1,1,1,2,11,1
+39756,329,32050,RS-U02A Gloves,WT_Interface\Item\Forge\Reinhard_Gloves02.dtx,70,70,1,1,1,2,12,1
+39886,330,33028,RS-L02A Boots,WT_Interface\Item\Forge\Reinhard_Boots02.dtx,70,70,1,1,1,2,13,1
+40012,331,31076,MA-H02A Mask,WT_Interface\Item\Forge\Marien_Mask01.dtx,70,70,1,1,1,2,11,1
+40130,332,32051,MA-U02A Gloves,WT_Interface\Item\Forge\Marien_Glove02.dtx,70,70,1,1,1,2,12,1
+40254,333,33029,MA-L02A Boots,WT_Interface\Item\Forge\Marien_Boots02.dtx,70,70,1,1,1,2,13,1
+40376,334,6014,Zaitsev CF,WT_Interface\Item\Forge\Zaitsev_Rifle_CF.dtx,70,70,1,1,4,1,1,1
+40496,335,3083,EM-4C SL,WT_Interface\Item\Forge\EM-4C_SL.dtx,70,70,1,1,1,2,1,1
+40596,336,3084,ELWRCi M6A2 MC,WT_Interface\Item\Forge\ELWRCi_M6A2_MC.dtx,70,70,1,1,1,2,1,1
+40720,337,31077,HS-H04A Hat,WT_Interface\Item\Forge\Moshin_Junglehat01.dtx,70,70,1,1,1,2,11,1
+40846,338,31078,HS-H05A Goggles,WT_Interface\Item\Forge\Moshin_Goggles01.dtx,70,70,1,1,1,2,11,1
+40976,339,31079,LM-H04A Hat,WT_Interface\Item\Forge\LinMeiling_JungleHat01.dtx,70,70,1,1,1,2,11,1
+41110,340,31080,LM-H05A Goggles,WT_Interface\Item\Forge\LinMeiling_Goggles01.dtx,70,70,1,1,1,2,11,1
+41248,341,31081,RS-H04A Hat,WT_Interface\Item\Forge\Reinhard_Junglehat01.dtx,70,70,1,1,1,2,11,1
+41378,342,31082,RS-H05A Goggles,WT_Interface\Item\Forge\Reinhard_Goggles01.dtx,70,70,1,1,1,2,11,1
+41512,343,31083,MA-H04A Hat,WT_Interface\Item\Forge\Marien_JungleHat01.dtx,70,70,1,1,1,2,11,1
+41638,344,31084,MA-H05A Goggles,WT_Interface\Item\Forge\Marien_Goggles01.dtx,70,70,1,1,1,2,11,1
+41768,345,32052,AM-U11A Gloves,WT_Interface\Item\Forge\Angela_Gloves05.dtx,70,70,1,1,1,2,12,1
+41894,346,32053,CS-U11A Gloves,WT_Interface\Item\Forge\Christopher_Gloves05.dtx,70,70,1,1,1,2,12,1
+42030,347,32054,AT-U11A Gloves,WT_Interface\Item\Forge\Adriana_Gloves05.dtx,70,70,1,1,1,2,12,1
+42158,348,32055,PG-U11A Gloves,WT_Interface\Item\Forge\Pedro_Gloves05.dtx,70,70,1,1,1,2,12,1
+42282,349,3085,Z-36C WT SL,WT_Interface\Item\Forge\Z-36C_WT_SL.dtx,70,70,1,1,1,2,1,1
+42394,350,12075,Tattoo B (Phoenix DR),WT_Interface\Item\Forge\Tattoo_B_Phoenix_DR.dtx,70,70,1,1,1,2,6,1
+42542,351,16020,Blood Scratch,WT_Interface\Item\Forge\BloodScratch.dtx,70,70,1,1,4,1,18,1
+42660,352,10049,Mounted MG Upgrade,WT_Interface\Item\Forge\Mounted_MG_Upgrade.dtx,70,70,1,1,1,2,15,1
+42800,353,20001,Tattoo L (Phoenix),WT_Interface\Item\Forge\Tattoo_L_Phoenix.dtx,70,70,1,1,1,2,6,1
+42936,354,21001,Tattoo R (Phoenix),WT_Interface\Item\Forge\Tattoo_R_Phoenix.dtx,70,70,1,1,1,2,6,1
+43072,355,10060,Silver Bullet Cartridge,WT_Interface\Item\Forge\Silver_Bullet.dtx,70,70,1,1,1,2,19,1
+43212,356,3086,HKEI-MP7A1 GL,WT_Interface\Item\Forge\HK_MP7A1_GL.dtx,70,70,1,1,1,2,1,1
+43328,357,3087,HKE417 GL,WT_Interface\Item\Forge\HK_HK417_GL.dtx,70,70,1,1,4,1,1,1
+43436,358,12076,Tattoo B (Lion DR),WT_Interface\Item\Forge\Tattoo_Lion_Dark_RED.dtx,70,70,1,1,4,1,6,1
+43580,359,33034,AM-L07B Boots,WT_Interface\Item\Forge\Angela_Boots05.dtx,70,70,1,1,1,2,13,1
+43702,360,33035,AT-L07B Boots,WT_Interface\Item\Forge\Adriana_Boots05.dtx,70,70,1,1,1,2,13,1
+43826,361,33036,PG-L07B Boots,WT_Interface\Item\Forge\Pedro_Boots05.dtx,70,70,1,1,1,2,13,1
+43946,362,33037,CS-L07B Boots,WT_Interface\Item\Forge\Christopher_Boots05.dtx,70,70,1,1,1,2,13,1
+44078,363,32060,LM-U04A Vest,WT_Interface\Item\Forge\LinMeiling_Vest02.dtx,70,70,1,1,1,2,12,1
+44204,364,32061,MA-U04A Vest,WT_Interface\Item\Forge\Marien_Vest02.dtx,70,70,1,1,1,2,12,1
+44322,365,32062,RS-U04A Vest,WT_Interface\Item\Forge\Reinhard_Vest02.dtx,70,70,1,1,1,2,12,1
+44444,366,32063,HS-U04A Vest,WT_Interface\Item\Forge\Moshin_Vest02.dtx,70,70,1,1,1,2,12,1
+44562,367,32064,LM-U05B Gloves,WT_Interface\Item\Forge\LinMeiling_Gloves03.dtx,70,70,1,1,1,2,12,1
+44696,368,32065,MA-U05B Gloves,WT_Interface\Item\Forge\Marien_Glove03.dtx,70,70,1,1,1,2,12,1
+44820,369,32066,RS-U05B Gloves,WT_Interface\Item\Forge\Reinhard_Gloves03.dtx,70,70,1,1,1,2,12,1
+44950,370,32067,HS-U05B Gloves,WT_Interface\Item\Forge\Moshin_Gloves03.dtx,70,70,1,1,1,2,12,1
+45076,371,2007,T1 AXE,WT_Interface\Item\Forge\T1_AXE.dtx,70,70,1,1,4,1,3,1
+45168,372,9026,RGS-42,WT_Interface\Item\Forge\RGS-42.dtx,70,70,1,1,4,1,4,1
+45260,373,9027,AT-3G,WT_Interface\Item\Forge\AT-3G.dtx,70,70,1,1,4,1,4,1
+45348,374,10081,HeartBeat Sensor,WT_Interface\Item\Forge\HeartBeat_Sensor.dtx,70,70,1,1,1,2,19,1
+45480,375,10082,Sound Detector,WT_Interface\Item\Forge\Sound_Detector.dtx,70,70,1,1,1,2,19,1
+45604,376,32068,AM-U13A Elbow Protector,WT_Interface\Item\Forge\Angela_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+45764,377,32069,AT-U13A Elbow Protector,WT_Interface\Item\Forge\Adriana_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+45926,378,32070,PG-U13A Elbow Protector,WT_Interface\Item\Forge\Pedro_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+46084,379,32071,CS-U13A Elbow Protector,WT_Interface\Item\Forge\Christopher_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+46254,380,33038,AM-L08A Knee Protector,WT_Interface\Item\Forge\Angela_KneeProtector04.dtx,70,70,1,1,1,2,13,1
+46410,381,33039,AT-L08A Knee Protector,WT_Interface\Item\Forge\Adriana_KneeProtector04.dtx,70,70,1,1,1,2,13,1
+46568,382,33040,PG-L08A Knee Protector,WT_Interface\Item\Forge\Pedro_KneeProtector04.dtx,70,70,1,1,1,2,13,1
+46722,383,33041,CS-L08A Knee Protector,WT_Interface\Item\Forge\Christopher_KneeProtector04.dtx,70,70,1,1,1,2,13,1
+46888,384,32072,LM-U08A Elbow Protector,WT_Interface\Item\Forge\LinMeiling_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+47056,385,32073,MA-U08A Elbow Protector,WT_Interface\Item\Forge\Marien_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+47216,386,32074,RS-U08A Elbow Protector,WT_Interface\Item\Forge\Reinhard_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+47380,387,32075,HS-U08A Elbow Protector,WT_Interface\Item\Forge\Moshin_ElbowProtector02.dtx,70,70,1,1,1,2,12,1
+47540,388,33042,LM-L04A Knee Protector,WT_Interface\Item\Forge\LinMeiling_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+47704,389,33043,MA-L04A Knee Protector,WT_Interface\Item\Forge\Marien_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+47860,390,33044,RS-L04A Knee Protector,WT_Interface\Item\Forge\Reinhard_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+48020,391,33045,HS-L04A Knee Protector,WT_Interface\Item\Forge\Moshin_KneeProtector02.dtx,70,70,1,1,1,2,13,1
+48176,392,3088,EM-4C PX,WT_Interface\Item\Forge\EM-4C_PX.DTX,70,70,1,1,1,2,1,1
+48276,393,3089,AUZ A3 PX,WT_Interface\Item\Forge\AUZ_A3_PX.DTX,70,70,1,1,1,2,1,1
+48380,394,32079,CS-U14S Vest,WT_Interface\Item\Forge\Christopher_Vest04.dtx,70,70,1,1,1,2,12,1
+48508,395,14104,Angela Special Parts Package,WT_Interface\Item\Forge\Angela_Special_Package.dtx,70,70,1,1,4,1,20,1
+48676,396,14105,Christopher Special Parts Package,WT_Interface\Item\Forge\Christopher_Special_Package.dtx,70,70,1,1,4,1,20,1
+48864,397,14106,Adriana Special Parts Package,WT_Interface\Item\Forge\Adriana_Special_Package.dtx,70,70,1,1,4,1,20,1
+49036,398,14107,Pedro Special Parts Package,WT_Interface\Item\Forge\Pedro_Special_Package.dtx,70,70,1,1,4,1,20,1
+49200,399,3090,ELWRCi M6A2 PX,WT_Interface\Item\Forge\ELWRCi_M6A2_PX.dtx,70,70,1,1,1,2,1,1
+49324,400,3091,ELWRCi M6A2 SL,WT_Interface\Item\Forge\ELWRCi_M6A2_SL.dtx,70,70,1,1,1,2,1,1
+49448,401,3092,ELWRCi M6A2 AT,WT_Interface\Item\Forge\ELWRCi_M6A2_AT.dtx,70,70,1,1,1,2,1,1
+49572,402,3093,ELWRCi M6A2 GL,WT_Interface\Item\Forge\ELWRCi_M6A2_GL.dtx,70,70,1,1,4,1,1,1
+49696,403,30011,Angela Mao SE,WT_Interface\Item\Forge\Angela_Special_Edition.dtx,70,70,1,1,4,1,9,1
+49834,404,30012,Christopher Smith SE,WT_Interface\Item\Forge\Christopher_Special_Edition.dtx,70,70,1,1,4,1,9,1
+49996,405,30013,Adriana Tenorio SE,WT_Interface\Item\Forge\Adriana_Special_Edition.dtx,70,70,1,1,4,1,8,1
+50146,406,30014,Pedro Gomes SE,WT_Interface\Item\Forge\Pedro_Special_Edition.dtx,70,70,1,1,4,1,8,1
+50284,407,3094,J-89 GL,WT_Interface\Item\Forge\J-89_GL.dtx,70,70,1,1,1,2,1,1
+50380,408,3095,C-95 GL,WT_Interface\Item\Forge\C-95_GL.dtx,70,70,1,1,1,2,1,1
+50476,409,12078,Tattoo B (Dragon DR) ,WT_Interface\Item\Forge\Tattoo_Dragon_DR.dtx,70,70,1,1,4,1,6,1
+50618,410,3096,AUZ A3 C SL,WT_Interface\Item\Forge\AUZ_A3_C_SL.dtx,70,70,1,1,1,2,1,1
+50730,411,3097,AUZ A3 C GL,WT_Interface\Item\Forge\AUZ_A3_C_GL.dtx,70,70,1,1,1,2,1,1
+50842,412,3098,AKEIS-74U AW PX,WT_Interface\Item\Forge\AKEIS-74U_AW_PX.dtx,70,70,1,1,1,2,1,1
+50970,413,3099,AKEIS-74U AW SL,WT_Interface\Item\Forge\AKEIS-74U_AW_SL.dtx,70,70,1,1,1,2,1,1
+51098,414,31091,HS-H07B Hat,WT_Interface\Item\Forge\Moshin_Junglehat02.dtx,70,70,1,1,1,2,11,1
+51224,415,31092,LM-H07B Hat,WT_Interface\Item\Forge\LinMeiling_JungleHat02.dtx,70,70,1,1,1,2,11,1
+51358,416,31093,MA-H07B Hat,WT_Interface\Item\Forge\Marien_JungleHat02.dtx,70,70,1,1,1,2,11,1
+51484,417,31094,RS-H07B Hat,WT_Interface\Item\Forge\Reinhard_Junglehat02.dtx,70,70,1,1,1,2,11,1
+51614,418,31095,HS-H08B Mask,WT_Interface\Item\Forge\Moshin_Mask03.dtx,70,70,1,1,1,2,11,1
+51732,419,31096,LM-H08B Mask,WT_Interface\Item\Forge\LinMeiling_Mask03.dtx,70,70,1,1,1,2,11,1
+51858,420,31097,MA-H08B Mask,WT_Interface\Item\Forge\Marien_Mask03.dtx,70,70,1,1,1,2,11,1
+51976,421,31098,RS-H08B Mask,WT_Interface\Item\Forge\Reinhard_Mask03.dtx,70,70,1,1,1,2,11,1
+52098,422,31099,AT-H17A Hat,WT_Interface\Item\Forge\Adriana_JungleHat02.dtx,70,70,1,1,1,2,11,1
+52226,423,31100,PG-H17A Hat,WT_Interface\Item\Forge\Pedro_Junglehat02.dtx,70,70,1,1,1,2,11,1
+52350,424,31101,AM-H17A Hat,WT_Interface\Item\Forge\Angela_JungleHat03.dtx,70,70,1,1,1,2,11,1
+52476,425,31102,CS-H17A Hat,WT_Interface\Item\Forge\Christopher_Junglehat02.dtx,70,70,1,1,1,2,11,1
+52612,426,32081,HS-U09A Gloves,WT_Interface\Item\Forge\Moshin_Gloves04.dtx,70,70,1,1,1,2,12,1
+52738,427,32082,LM-U09A Gloves,WT_Interface\Item\Forge\LinMeiling_Gloves04.dtx,70,70,1,1,1,2,12,1
+52872,428,32083,MA-U09A Gloves,WT_Interface\Item\Forge\Marien_Glove04.dtx,70,70,1,1,1,2,12,1
+52996,429,32084,RS-U09A Gloves,WT_Interface\Item\Forge\Reinhard_Gloves04.dtx,70,70,1,1,1,2,12,1
+53126,430,10086,Ice Wolf Skill Up,WT_Interface\Item\Forge\Ice_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53250,431,10087,Berserker Wolf Skill Up,WT_Interface\Item\Forge\Berserker_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53398,432,10088,Guardian Wolf Skill Up,WT_Interface\Item\Forge\Guardian_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53542,433,10089,Smart Wolf Skill Up,WT_Interface\Item\Forge\Smart_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53674,434,10090,Psycho Wolf Skill Up,WT_Interface\Item\Forge\Psycho_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53810,435,10091,Power Wolf Skill Up,WT_Interface\Item\Forge\Power_Wolf_Up.dtx,70,70,1,1,1,2,15,1
+53942,436,20002,Tattoo L (Lion DR),WT_Interface\Item\Forge\Tattoo_L_Lion_DR.dtx,70,70,1,1,1,2,6,1
+54078,437,3103,Z-36 SL,WT_Interface\Item\Forge\Z-36_SL.dtx,70,70,1,1,4,1,1,1
+54174,438,6015,MSD-90,WT_Interface\Item\Forge\MSD-90.dtx,70,70,1,1,4,1,1,1
+54266,439,1017,SODB Shotgun,WT_Interface\Item\Forge\SODB_SHOTGUN.dtx,70,70,1,1,1,2,2,1
+54382,440,31103,HS-H09A Mask,WT_Interface\Item\Forge\Moshin_Mask02.dtx,70,70,1,1,1,2,11,1
+54500,441,31104,LM-H09A Mask,WT_Interface\Item\Forge\LinMeiling_Mask02.dtx,70,70,1,1,1,2,11,1
+54626,442,31105,MA-H09A Mask,WT_Interface\Item\Forge\Marien_Mask02.dtx,70,70,1,1,1,2,11,1
+54744,443,31106,RS-H09A Mask,WT_Interface\Item\Forge\Reinhard_Mask02.dtx,70,70,1,1,1,2,11,1
+54866,444,31107,HS-H10B Goggles,WT_Interface\Item\Forge\Moshin_Goggles02.dtx,70,70,1,1,1,2,11,1
+54996,445,31108,LM-H10B Goggles,WT_Interface\Item\Forge\LinMeiling_Goggles02.dtx,70,70,1,1,1,2,11,1
+55134,446,31109,MA-H10B Goggles,WT_Interface\Item\Forge\Marien_Goggles02.dtx,70,70,1,1,1,2,11,1
+55264,447,31110,RS-H10B Goggles,WT_Interface\Item\Forge\Reinhard_Goggles02.dtx,70,70,1,1,1,2,11,1
+55398,448,32085,HS-U10B Vest,WT_Interface\Item\Forge\Moshin_Vest03.dtx,70,70,1,1,1,2,12,1
+55516,449,32086,LM-U10B Vest,WT_Interface\Item\Forge\LinMeiling_Vest03.dtx,70,70,1,1,1,2,12,1
+55642,450,32087,MA-U10B Vest,WT_Interface\Item\Forge\Marien_Vest03.dtx,70,70,1,1,1,2,12,1
+55760,451,32088,RS-U10B Vest,WT_Interface\Item\Forge\Reinhard_Vest03.dtx,70,70,1,1,1,2,12,1
+55882,452,8602,EM-32 MC,WT_Interface\Item\Forge\EM_32_MC.dtx,70,70,1,1,1,2,1,1
+55982,453,20003,Tattoo L (Dragon DR),WT_Interface\Item\Forge\Dragon_Tattoo_L_DR.dtx,70,70,1,1,1,2,6,1
+56126,454,3104,C-95 PX,WT_Interface\Item\Forge\C-95_PX.dtx,70,70,1,1,1,2,1,1
+56222,455,3105,EF-2000 LIMITED GL,WT_Interface\Item\Forge\EF-2000_LIMITED_GL.dtx,70,70,1,1,1,2,1,1
+56362,456,3106,EF-2000 LIMITED PX,WT_Interface\Item\Forge\EF-2000_LIMITED_PX.dtx,70,70,1,1,1,2,1,1
+56502,457,3107,EM-4C,WT_Interface\Item\Forge\EM-4 C.dtx,70,70,1,1,1,2,1,1
+56592,458,3108,EM-4 SPW,WT_Interface\Item\Forge\EM-4_SPW.dtx,70,70,1,1,1,2,1,1
+56692,459,3109,EM-4 SPW MC,WT_Interface\Item\Forge\EM-4_SPW_MC.dtx,70,70,1,1,1,2,1,1
+56804,460,7507,EM249 Minimi,WT_Interface\Item\Forge\EM-249_Minimi.dtx,70,70,1,1,1,2,1,1
+56922,461,7508,EM249 Minimi MC,WT_Interface\Item\Forge\EM-249_Minimi_MC.dtx,70,70,1,1,1,2,1,1
+57052,462,7509,EMG-42,WT_Interface\Item\Forge\EMG-42.dtx,70,70,1,1,1,2,1,1
+57144,463,7510,EMG-42  MC,WT_Interface\Item\Forge\EMG-42_MC.dtx,70,70,1,1,1,2,1,1
+57250,464,6016,ETSR-1,WT_Interface\Item\Forge\ETSR-1.dtx,70,70,1,1,1,2,1,1
+57342,465,6017,ETSR-1 MC,WT_Interface\Item\Forge\ETSR-1_MC.dtx,70,70,1,1,1,2,1,1
+57446,466,3110,HKE417 AT,WT_Interface\Item\Forge\HKE417_AT.dtx,70,70,1,1,1,2,1,1
+57550,467,3111,HKE417 SL,WT_Interface\Item\Forge\HKE417_SL.dtx,70,70,1,1,1,2,1,1
+57654,468,3112,HKEI-MP7A1 AT,WT_Interface\Item\Forge\HKEI_MP7A1_AT.dtx,70,70,1,1,1,2,1,1
+57774,469,3113,HKEI-MP7A1 SL,WT_Interface\Item\Forge\HKEI_MP7A1_SL.dtx,70,70,1,1,1,2,1,1
+57894,470,3114,J-89 Pixel,WT_Interface\Item\Forge\J-89_PX.dtx,70,70,1,1,1,2,1,1
+57996,471,3115,XEM-8 Pixel,WT_Interface\Item\Forge\XEM-8_OPS_PX.dtx,70,70,1,1,1,2,1,1
+58110,472,3116,Robinson_A. XCR AT,WT_Interface\Item\Forge\Robinson_xcr_AT.dtx,70,70,1,1,1,2,1,1
+58244,473,3117,Robinson_A. XCR SL,WT_Interface\Item\Forge\Robinson_xcr_SL.dtx,70,70,1,1,1,2,1,1
+58378,474,3118,SZ-550 MC,WT_Interface\Item\Forge\SZ-550_MC.dtx,70,70,1,1,1,2,1,1
+58482,475,3119,Z-36C WT GL,WT_Interface\Item\Forge\Z-36C_WT_GL.dtx,70,70,1,1,1,2,1,1
+58594,476,3120,Z-36 GL,WT_Interface\Item\Forge\Z-36_GL.dtx,70,70,1,1,1,2,1,1
+58690,477,3121,Z-36 PX,WT_Interface\Item\Forge\Z-36_PX.dtx,70,70,1,1,1,2,1,1
+58786,478,12134,Tattoo B (Taurus DR) ,WT_Interface\Item\Forge\Taurus_Tattoo_DR.dtx,70,70,1,1,1,2,6,1
+58928,479,12135,Tattoo B (Tarantula DR) ,WT_Interface\Item\Forge\Tarantula_Tattoo_DR.dtx,70,70,1,1,1,2,6,1
+59082,480,31117,HS-H11A Hat,WT_Interface\Item\Forge\Moshin_Junglehat03.dtx,70,70,1,1,1,2,11,1
+59208,481,31118,LM-H11A Hat,WT_Interface\Item\Forge\LinMeiling_JungleHat03.dtx,70,70,1,1,1,2,11,1
+59342,482,31119,MA-H11A Hat,WT_Interface\Item\Forge\Marien_JungleHat03.dtx,70,70,1,1,1,2,11,1
+59468,483,31120,RS-H11A Hat,WT_Interface\Item\Forge\Reinhard_Junglehat03.dtx,70,70,1,1,1,2,11,1
+59598,484,31121,HS-H12B Mask,WT_Interface\Item\Forge\Moshin_Mask04.dtx,70,70,1,1,1,2,11,1
+59716,485,31122,LM-H12B Mask,WT_Interface\Item\Forge\LinMeiling_Mask04.dtx,70,70,1,1,1,2,11,1
+59842,486,31123,MA-H12B Mask,WT_Interface\Item\Forge\Marien_Mask04.dtx,70,70,1,1,1,2,11,1
+59960,487,31124,RS-H12B Mask,WT_Interface\Item\Forge\Reinhard_Mask04.dtx,70,70,1,1,1,2,11,1
+60082,488,32091,LM-U11B Elbow Protector,WT_Interface\Item\Forge\LinMeiling_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+60250,489,32092,MA-U11B Elbow Protector,WT_Interface\Item\Forge\Marien_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+60410,490,32093,RS-U11B Elbow Protector,WT_Interface\Item\Forge\Reinhard_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+60574,491,32094,HS-U11B Elbow Protector,WT_Interface\Item\Forge\Moshin_ElbowProtector03.dtx,70,70,1,1,1,2,12,1
+60734,492,33050,LM-L05B Knee Protector,WT_Interface\Item\Forge\LinMeiling_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+60898,493,33051,MA-L05B Knee Protector,WT_Interface\Item\Forge\Marien_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+61054,494,33052,RS-L05B Knee Protector,WT_Interface\Item\Forge\Reinhard_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+61214,495,33053,HS-L05B Knee Protector,WT_Interface\Item\Forge\Moshin_KneeProtector03.dtx,70,70,1,1,1,2,13,1
+61370,496,3124,HKEI-MP7A1 MC,WT_Interface\Item\Forge\HKEI_MP7A1_MC.dtx,70,70,1,1,4,1,1,1
+61490,497,3123,HK HK417 MC,WT_Interface\Item\Forge\HK_HK417_MC.dtx,70,70,1,1,4,1,1,1
+61602,498,20019,Tattoo L (Dragon),WT_Interface\Item\Forge\Tattoo_L_Dragon.dtx,70,70,1,1,1,2,6,1
+61734,499,21002,Tattoo R (Dragon),WT_Interface\Item\Forge\Dragon_Tattoo_R.dtx,70,70,1,1,4,1,6,1
+61866,500,3122,EM-4 SPW GL,WT_Interface\Item\Forge\EM-4_SPW_GL.dtx,70,70,1,1,1,2,1,1
+61978,501,7511,EM249 Minimi GL,WT_Interface\Item\Forge\EM-249_Minimi_GL.dtx,70,70,1,1,1,2,1,1
+62108,502,7512,EMG-42 GL,WT_Interface\Item\Forge\EMG-42_GL.dtx,70,70,1,1,1,2,1,1
+62212,503,6018,ETSR-1 GL,WT_Interface\Item\Forge\ETSR-1_GL.dtx,70,70,1,1,1,2,1,1
+62316,504,6019,MSD-90 GL,WT_Interface\Item\Forge\MSD-90_GL.dtx,70,70,1,1,1,2,1,1
+62420,505,10092,Power Master,WT_Interface\Item\Forge\PowerMasterItem.dtx,70,70,1,1,1,2,15,1
+62542,506,3125,C-95 SL,WT_Interface\Item\Forge\C-95_SL.dtx,70,70,1,1,1,1,1,1
+62638,507,20005,Tattoo L (Lion),WT_Interface\Item\Forge\Tattoo_L_Lion.dtx,70,70,1,1,1,2,6,1
+62762,508,20006,Tattoo L (Pegasus),WT_Interface\Item\Forge\Tattoo_L_Pegasus.dtx,70,70,1,1,4,1,6,1
+62898,509,20007,Tattoo L (Tarantula) ,WT_Interface\Item\Forge\Tattoo_L_Tarantula.dtx,70,70,1,1,1,2,6,1
+63044,510,20008,Tattoo L (Taurus),WT_Interface\Item\Forge\Tattoo_L_Taurus.dtx,70,70,1,1,1,2,6,1
+63176,511,21016,Tattoo R (Lion),WT_Interface\Item\Forge\Tattoo_R_Lion.dtx,70,70,1,1,1,2,6,1
+63300,512,21017,Tattoo R (Pegasus),WT_Interface\Item\Forge\Tattoo_R_Pegasus.dtx,70,70,1,1,1,2,6,1
+63436,513,21018,Tattoo R (Tarantula) ,WT_Interface\Item\Forge\Tattoo_R_Tarantula.dtx,70,70,1,1,1,2,6,1
+63582,514,21019,Tattoo R (Taurus),WT_Interface\Item\Forge\Tattoo_R_Taurus.dtx,70,70,1,1,1,2,6,1
+63714,515,12136,Tattoo B (Pegasus DR),WT_Interface\Item\Forge\Tattoo_B_Pegasus_DR.dtx,70,70,1,1,1,2,6,1
+63862,516,20010,Tattoo L (Pegasus DR),WT_Interface\Item\Forge\Tattoo_L_Pegasus_DR.dtx,70,70,1,1,1,2,6,1
+64010,517,20011,Tattoo L (Tarantula DR),WT_Interface\Item\Forge\Tattoo_L_Tarantula_DR.dtx,70,70,1,1,1,2,6,1
+64166,518,20012,Tattoo L (Taurus DR),WT_Interface\Item\Forge\Tattoo_L_Taurus_DR.dtx,70,70,1,1,1,2,6,1
+64310,519,20009,Tattoo L (Phoenix DR),WT_Interface\Item\Forge\Tattoo_L_Phoenix_DR.dtx,70,70,1,1,1,2,6,1
+64458,520,21023,Tattoo R (Dragon DR),WT_Interface\Item\Forge\Tattoo_R_Dragon_DR.dtx,70,70,1,1,1,2,6,1
+64602,521,21024,Tattoo R (Phoenix DR),WT_Interface\Item\Forge\Tattoo_R_Phoenix_DR.dtx,70,70,1,1,1,2,6,1
+64750,522,21025,Tattoo R (Lion DR),WT_Interface\Item\Forge\Tattoo_R_Lion_DR.dtx,70,70,1,1,1,2,6,1
+64886,523,21026,Tattoo R (Pegasus DR),WT_Interface\Item\Forge\Tattoo_R_Pegasus_DR.dtx,70,70,1,1,4,1,6,1
+65034,524,21027,Tattoo R (Tarantula DR),WT_Interface\Item\Forge\Tattoo_R_Tarantula_DR.dtx,70,70,1,1,1,2,6,1
+65190,525,21028,Tattoo R (Taurus DR),WT_Interface\Item\Forge\Tattoo_R_Taurus_DR.dtx,70,70,1,1,1,2,6,1
+65334,526,12137,Tattoo B (Dragon DP),WT_Interface\Item\Forge\Tattoo_B_Dragon_DP.dtx,70,70,1,1,1,2,6,1
+65478,527,12138,Tattoo B (Phoenix DP),WT_Interface\Item\Forge\Tattoo_B_Phoenix_DP.dtx,70,70,1,1,4,1,6,1
+65626,528,12139,Tattoo B (Lion DP),WT_Interface\Item\Forge\Tattoo_B_Lion_DP.dtx,70,70,1,1,1,2,6,1
+65762,529,12140,Tattoo B (Pegasus DP),WT_Interface\Item\Forge\Tattoo_B_Pegasus_DP.dtx,70,70,1,1,1,2,6,1
+65910,530,12141,Tattoo B (Tarantula DP),WT_Interface\Item\Forge\Tattoo_B_Tarantula_DP.dtx,70,70,1,1,1,2,6,1
+66066,531,12142,Tattoo B (Taurus DP),WT_Interface\Item\Forge\Tattoo_B_Taurus_DP.dtx,70,70,1,1,4,1,6,1
+66210,532,20013,Tattoo L (Dragon DP),WT_Interface\Item\Forge\Tattoo_L_Dragon_DP.dtx,70,70,1,1,1,2,6,1
+66354,533,20014,Tattoo L (Phoenix DP),WT_Interface\Item\Forge\Tattoo_L_Phoenix_DP.dtx,70,70,1,1,4,1,6,1
+66502,534,20015,Tattoo L (Lion DP),WT_Interface\Item\Forge\Tattoo_L_Lion_DP.dtx,70,70,1,1,1,2,6,1
+66638,535,20016,Tattoo L (Pegasus DP),WT_Interface\Item\Forge\Tattoo_L_Pegasus_DP.dtx,70,70,1,1,1,2,6,1
+66786,536,20017,Tattoo L (Tarantula DP),WT_Interface\Item\Forge\Tattoo_L_Tarantula_DP.dtx,70,70,1,1,1,2,6,1
+66942,537,20018,Tattoo L (Taurus DP),WT_Interface\Item\Forge\Tattoo_L_Taurus_DP.dtx,70,70,1,1,4,1,6,1
+67086,538,21029,Tattoo R (Dragon DP),WT_Interface\Item\Forge\Tattoo_R_Dragon_DP.dtx,70,70,1,1,1,2,6,1
+67230,539,21030,Tattoo R (Phoenix DP),WT_Interface\Item\Forge\Tattoo_R_Phoenix_DP.dtx,70,70,1,1,4,1,6,1
+67378,540,21031,Tattoo R (Lion DP),WT_Interface\Item\Forge\Tattoo_R_Lion_DP.dtx,70,70,1,1,1,2,6,1
+67514,541,21032,Tattoo R (Pegasus DP),WT_Interface\Item\Forge\Tattoo_R_Pegasus_DP.dtx,70,70,1,1,1,2,6,1
+67662,542,21033,Tattoo R (Tarantula DP),WT_Interface\Item\Forge\Tattoo_R_Tarantula_DP.dtx,70,70,1,1,1,2,6,1
+67818,543,21034,Tattoo R (Taurus DP),WT_Interface\Item\Forge\Tattoo_R_Taurus_DP.dtx,70,70,1,1,4,1,6,1
+67962,544,12143,Tattoo B (Dragon DB),WT_Interface\Item\Forge\Tattoo_B_Dragon_DB.dtx,70,70,1,1,1,2,6,1
+68106,545,12144,Tattoo B (Phoenix DB),WT_Interface\Item\Forge\Tattoo_B_Phoenix_DB.dtx,70,70,1,1,1,2,6,1
+68254,546,12145,Tattoo B (Lion DB),WT_Interface\Item\Forge\Tattoo_B_Lion_DB.dtx,70,70,1,1,1,2,6,1
+68390,547,12146,Tattoo B (Pegasus DB),WT_Interface\Item\Forge\Tattoo_B_Pegasus_DB.dtx,70,70,1,1,4,1,6,1
+68538,548,12147,Tattoo B (Tarantula DB),WT_Interface\Item\Forge\Tattoo_B_Tarantula_DB.dtx,70,70,1,1,1,2,6,1
+68694,549,12148,Tattoo B (Taurus DB),WT_Interface\Item\Forge\Tattoo_B_Taurus_DB.dtx,70,70,1,1,1,2,6,1
+68838,550,20004,Tattoo L (Dragon DB),WT_Interface\Item\Forge\Tattoo_L_Dragon_DB.dtx,70,70,1,1,4,1,6,1
+68982,551,20020,Tattoo L (Phoenix DB),WT_Interface\Item\Forge\Tattoo_L_Phoenix_DB.dtx,70,70,1,1,1,2,6,1
+69130,552,20021,Tattoo L (Lion DB),WT_Interface\Item\Forge\Tattoo_L_Lion_DB.dtx,70,70,1,1,1,2,6,1
+69266,553,20022,Tattoo L (Pegasus DB),WT_Interface\Item\Forge\Tattoo_L_Pegasus_DB.dtx,70,70,1,1,1,2,6,1
+69414,554,20023,Tattoo L (Tarantula DB),WT_Interface\Item\Forge\Tattoo_L_Tarantula_DB.dtx,70,70,1,1,1,2,6,1
+69570,555,20024,Tattoo L (Taurus DB),WT_Interface\Item\Forge\Tattoo_L_Taurus_DB.dtx,70,70,1,1,1,2,6,1
+69714,556,21035,Tattoo R (Dragon DB),WT_Interface\Item\Forge\Tattoo_R_Dragon_DB.dtx,70,70,1,1,1,2,6,1
+69858,557,21036,Tattoo R (Phoenix DB),WT_Interface\Item\Forge\Tattoo_R_Phoenix_DB.dtx,70,70,1,1,1,2,6,1
+70006,558,21037,Tattoo R (Lion DB),WT_Interface\Item\Forge\Tattoo_R_Lion_DB.dtx,70,70,1,1,1,2,6,1
+70142,559,21038,Tattoo R (Pegasus DB),WT_Interface\Item\Forge\Tattoo_R_Pegasus_DB.dtx,70,70,1,1,1,2,6,1
+70290,560,21039,Tattoo R (Tarantula DB),WT_Interface\Item\Forge\Tattoo_R_Tarantula_DB.dtx,70,70,1,1,1,2,6,1
+70446,561,21040,Tattoo R (Taurus DB),WT_Interface\Item\Forge\Tattoo_R_Taurus_DB.dtx,70,70,1,1,1,2,6,1
+70590,562,12149,Tattoo B (Dragon GL),WT_Interface\Item\Forge\Tattoo_B_Dragon_GL.dtx,70,70,1,1,1,2,6,1
+70734,563,12150,Tattoo B (Phoenix GL),WT_Interface\Item\Forge\Tattoo_B_Phoenix_GL.dtx,70,70,1,1,1,2,6,1
+70882,564,12151,Tattoo B (Lion GL),WT_Interface\Item\Forge\Tattoo_B_Lion_GL.dtx,70,70,1,1,1,2,6,1
+71018,565,12152,Tattoo B (Pegasus GL),WT_Interface\Item\Forge\Tattoo_B_Pegasus_GL.dtx,70,70,1,1,1,2,6,1
+71166,566,12153,Tattoo B (Tarantula GL),WT_Interface\Item\Forge\Tattoo_B_Tarantula_GL.dtx,70,70,1,1,1,2,6,1
+71322,567,12154,Tattoo B (Taurus GL),WT_Interface\Item\Forge\Tattoo_B_Taurus_GL.dtx,70,70,1,1,1,2,6,1
+71466,568,20025,Tattoo L (Dragon GL),WT_Interface\Item\Forge\Tattoo_L_Dragon_GL.dtx,70,70,1,1,1,2,6,1
+71610,569,20026,Tattoo L (Phoenix GL),WT_Interface\Item\Forge\Tattoo_L_Phoenix_GL.dtx,70,70,1,1,1,2,6,1
+71758,570,20027,Tattoo L (Lion GL),WT_Interface\Item\Forge\Tattoo_L_Lion_GL.dtx,70,70,1,1,1,2,6,1
+71894,571,20028,Tattoo L (Pegasus GL),WT_Interface\Item\Forge\Tattoo_L_Pegasus_GL.dtx,70,70,1,1,1,2,6,1
+72042,572,20029,Tattoo L (Tarantula GL),WT_Interface\Item\Forge\Tattoo_L_Tarantula_GL.dtx,70,70,1,1,1,2,6,1
+72198,573,20030,Tattoo L (Taurus GL),WT_Interface\Item\Forge\Tattoo_L_Taurus_GL.dtx,70,70,1,1,1,2,6,1
+72342,574,21041,Tattoo R (Dragon GL),WT_Interface\Item\Forge\Tattoo_R_Dragon_GL.dtx,70,70,1,1,1,2,6,1
+72486,575,21042,Tattoo R (Phoenix GL),WT_Interface\Item\Forge\Tattoo_R_Phoenix_GL.dtx,70,70,1,1,1,2,6,1
+72634,576,21043,Tattoo R (Lion GL),WT_Interface\Item\Forge\Tattoo_R_Lion_GL.dtx,70,70,1,1,1,2,6,1
+72770,577,21044,Tattoo R (Pegasus GL),WT_Interface\Item\Forge\Tattoo_R_Pegasus_GL.dtx,70,70,1,1,1,2,6,1
+72918,578,21045,Tattoo R (Tarantula GL),WT_Interface\Item\Forge\Tattoo_R_Tarantula_GL.dtx,70,70,1,1,1,2,6,1
+73074,579,21046,Tattoo R (Taurus GL),WT_Interface\Item\Forge\Tattoo_R_Taurus_GL.dtx,70,70,1,1,1,2,6,1
+73218,580,31132,HS-H13A Bandana,WT_Interface\Item\Forge\Moshin_Helmet02.dtx,70,70,1,1,1,2,11,1
+73346,581,31133,LM-H13A Hair,WT_Interface\Item\Forge\LinMeiling_Helmet02.dtx,70,70,1,1,1,2,11,1
+73476,582,31134,RS-H13A Helmet,WT_Interface\Item\Forge\Reinhard_Helmet02.dtx,70,70,1,1,1,2,11,1
+73606,583,31135,MA-H13A Helmet,WT_Interface\Item\Forge\Marien_Helmet02.dtx,70,70,1,1,1,2,11,1
+73732,584,33062,HS-L12B Boots,WT_Interface\Item\Forge\Moshin_Boots03.dtx,70,70,1,1,1,2,13,1
+73854,585,33063,LM-L12B Boots,WT_Interface\Item\Forge\LinMeiling_Boots04.dtx,70,70,1,1,1,2,13,1
+73984,586,33064,RS-L12B Boots,WT_Interface\Item\Forge\Reinhard_Boots04.dtx,70,70,1,1,1,2,13,1
+74110,587,33065,MA-L12B Boots,WT_Interface\Item\Forge\Marien_Boots03.dtx,70,70,1,1,1,2,13,1
+74232,588,3126,Robinson_A. XCR GL,WT_Interface\Item\Forge\Robinson_Arms_XCR_GL.dtx,70,70,1,1,4,1,1,1
+74376,589,31136,HS-H14S Goggles,WT_Interface\Item\Forge\Moshin_Goggles04.dtx,70,70,1,1,1,2,11,1
+74506,590,31137,LM-H14S Goggles,WT_Interface\Item\Forge\LinMeiling_Goggles04.dtx,70,70,1,1,1,2,11,1
+74644,591,31138,MA-H14S Goggles,WT_Interface\Item\Forge\Marien_Goggles04.dtx,70,70,1,1,1,2,11,1
+74774,592,31139,RS-H14S Goggles,WT_Interface\Item\Forge\Reinhard_Goggles04.dtx,70,70,1,1,1,2,11,1
+74908,593,32101,HS-U14S Vest,WT_Interface\Item\Forge\Moshin_Vest04.dtx,70,70,1,1,1,2,12,1
+75026,594,32102,LM-U14S Vest,WT_Interface\Item\Forge\LinMeiling_Vest04.dtx,70,70,1,1,1,2,12,1
+75152,595,32103,MA-U14S Vest,WT_Interface\Item\Forge\Marien_Vest04.dtx,70,70,1,1,1,2,12,1
+75270,596,32104,RS-U14S Vest,WT_Interface\Item\Forge\Reinhard_Vest04.dtx,70,70,1,1,1,2,12,1
+75392,597,32105,LM-U15S Elbow Protector,WT_Interface\Item\Forge\LinMeiling_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+75560,598,32106,MA-U15S Elbow Protector,WT_Interface\Item\Forge\Marien_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+75720,599,32107,RS-U15S Elbow Protector,WT_Interface\Item\Forge\Reinhard_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+75884,600,32108,HS-U15S Elbow Protector,WT_Interface\Item\Forge\Moshin_ElbowProtector04.dtx,70,70,1,1,1,2,12,1
+76044,601,33066,HS-L13S Boots,WT_Interface\Item\Forge\Moshin_Boots05.dtx,70,70,1,1,1,2,13,1
+76166,602,33067,LM-L13S Boots,WT_Interface\Item\Forge\LinMeiling_Boots05.dtx,70,70,1,1,1,2,13,1
+76296,603,33068,RS-L13S Boots,WT_Interface\Item\Forge\Reinhard_Boots05.dtx,70,70,1,1,1,2,13,1
+76422,604,33069,MA-L13S Boots,WT_Interface\Item\Forge\Marien_Boots05.dtx,70,70,1,1,1,2,13,1
+76544,605,31140,HS-H16S Hat,WT_Interface\Item\Forge\Moshin_JungleHat04.dtx,70,70,1,1,1,2,11,1
+76670,606,31141,LM-H16S Hat,WT_Interface\Item\Forge\LinMeiling_JungleHat04.dtx,70,70,1,1,1,2,11,1
+76804,607,31142,MA-H16S Hat,WT_Interface\Item\Forge\Marien_JungleHat04.dtx,70,70,1,1,1,2,11,1
+76930,608,31143,RS-H16S Hat,WT_Interface\Item\Forge\Reinhard_Junglehat04.dtx,70,70,1,1,1,2,11,1
+77060,609,31144,HS-H15S Bandana,WT_Interface\Item\Forge\Moshin_Helmet04.dtx,70,70,1,1,1,2,11,1
+77188,610,31145,LM-H15S Hair,WT_Interface\Item\Forge\LinMeiling_Helmet04.dtx,70,70,1,1,1,2,11,1
+77318,611,31146,RS-H15S Helmet,WT_Interface\Item\Forge\Reinhard_Helmet04.dtx,70,70,1,1,1,2,11,1
+77448,612,31147,MA-H15S Beret,WT_Interface\Item\Forge\Marien_Helmet04.dtx,70,70,1,1,1,2,11,1
+77572,613,14139,Lin meiling Special Parts Package,WT_Interface\Item\Forge\LinMeiling_Special_Package.dtx,70,70,1,1,4,1,20,1
+77758,614,14140,Hamadah Special Parts Package,WT_Interface\Item\Forge\Moshin_Special_Package.dtx,70,70,1,1,4,1,20,1
+77928,615,14141,Reinhard Special Parts Package,WT_Interface\Item\Forge\Reinhard_Special_Package.dtx,70,70,1,1,4,1,20,1
+78104,616,14142,Marien Special Parts Package,WT_Interface\Item\Forge\Marien_Special_Package.dtx,70,70,1,1,4,1,20,1
+78272,617,31149,HS-H17A Goggles,WT_Interface\Item\Forge\Moshin_Goggles03.dtx,70,70,1,1,1,2,11,1
+78402,618,31150,LM-H17A Goggles,WT_Interface\Item\Forge\LinMeiling_Goggles03.dtx,70,70,1,1,1,2,11,1
+78540,619,31151,MA-H17A Goggles,WT_Interface\Item\Forge\Marien_Goggles03.dtx,70,70,1,1,1,2,11,1
+78670,620,31152,RS-H17A Goggles,WT_Interface\Item\Forge\Reinhard_Goggles03.dtx,70,70,1,1,1,2,11,1
+78804,621,32109,LM-U16B Gloves,WT_Interface\Item\Forge\LinMeiling_Gloves05.dtx,70,70,1,1,1,2,12,1
+78938,622,32110,MA-U16B Gloves,WT_Interface\Item\Forge\Marien_Glove05.dtx,70,70,1,1,1,2,12,1
+79062,623,32111,RS-U16B Gloves,WT_Interface\Item\Forge\Reinhard_Gloves05.dtx,70,70,1,1,1,2,12,1
+79192,624,32112,HS-U16B Gloves,WT_Interface\Item\Forge\Moshin_Gloves05.dtx,70,70,1,1,1,2,12,1
+79318,625,3128,HKEI-MP7A1  PX,WT_Interface\Item\Forge\HKEI_MP7A1_PX.dtx,70,70,1,1,1,2,1,1
+79440,626,3130,Robinson_A. XCR PX,WT_Interface\Item\Forge\Robinson_Arms_XCR_PX.dtx,70,70,1,1,4,1,1,1
+79584,627,3129,SZ-550 SL,WT_Interface\Item\Forge\SZ-550_SL.dtx,70,70,1,1,1,1,1,1
+79688,628,3127,EM-4 SPW PX,WT_Interface\Item\Forge\EM_4_SPW_PX.dtx,70,70,1,1,1,2,1,1
+79800,629,6021,ETSR-1 PX,WT_Interface\Item\Forge\ETSR-1_PX.dtx,70,70,1,1,1,2,1,1
+79904,630,7514,EM249 Minimi PX,WT_Interface\Item\Forge\EM-249_Minimi_PX.dtx,70,70,1,1,1,2,1,1
+80034,631,7513,EMG-42 PX,WT_Interface\Item\Forge\EMG-42_PX.dtx,70,70,1,1,1,2,1,1
+80138,632,6020,MSD-90 PX,WT_Interface\Item\Forge\MSD-90_PX.dtx,70,70,1,1,1,2,1,1
+80242,633,30015,Tomita Yasuko,WT_Interface\Item\Forge\Tomita.dtx,70,70,1,1,1,2,9,1
+80348,634,30016,Yigit Demir,WT_Interface\Item\Forge\Yigit.dtx,70,70,1,1,1,2,9,1
+80448,635,30017,Illude Vaganova Ivanov,WT_Interface\Item\Forge\Illude.dtx,70,70,1,1,1,2,8,1
+80572,636,30018,Geremi Song,WT_Interface\Item\Forge\Geremi.dtx,70,70,1,1,1,2,8,1
+80674,637,31159,AM-H18A Wolf Helmet,WT_Interface\Item\Forge\Angela_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+80816,638,31160,AM-H19A Wolf Mask,WT_Interface\Item\Forge\Angela_wolf_mask.dtx,70,70,1,1,1,2,11,1
+80950,639,31161,AM-H20A Wolf Goggles,WT_Interface\Item\Forge\Angela_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+81096,640,32115,AM-U14A Wolf Vest,WT_Interface\Item\Forge\Angela_wolf_vest.dtx,70,70,1,1,1,2,12,1
+81230,641,32116,AM-U15A Wolf Elbow Protector,WT_Interface\Item\Forge\Angela_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+81388,642,32117,AM-U16A Wolf Gloves,WT_Interface\Item\Forge\Angela_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+81530,643,33070,AM-L09A Wolf Knee Protector,WT_Interface\Item\Forge\Angela_wolf_knee.dtx,70,70,1,1,1,2,13,1
+81684,644,33071,AM-L10A Wolf Boots,WT_Interface\Item\Forge\Angela_wolf_boots.dtx,70,70,1,1,1,2,13,1
+81822,645,31162,CS-H18A Wolf Helmet,WT_Interface\Item\Forge\Christopher_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+81974,646,31163,CS-H19A Wolf Mask,WT_Interface\Item\Forge\Christopher_wolf_mask.dtx,70,70,1,1,1,2,11,1
+82118,647,31164,CS-H20A Wolf Goggles,WT_Interface\Item\Forge\Christopher_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+82274,648,32118,CS-U14A Wolf Vest,WT_Interface\Item\Forge\Christopher_wolf_vest.dtx,70,70,1,1,1,2,12,1
+82418,649,32119,CS-U15A Wolf Elbow Protector,WT_Interface\Item\Forge\Christopher_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+82586,650,32120,CS-U16A Wolf Gloves,WT_Interface\Item\Forge\Christopher_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+82738,651,33072,CS-L09A Wolf Knee Protector,WT_Interface\Item\Forge\Christopher_wolf_knee.dtx,70,70,1,1,1,2,13,1
+82902,652,33073,CS-L10A Wolf Boots,WT_Interface\Item\Forge\Christopher_wolf_boots.dtx,70,70,1,1,1,2,13,1
+83050,653,31165,AT-H18A Wolf Cross Cap,WT_Interface\Item\Forge\Adriana_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+83200,654,31166,AT-H19A Wolf Mask,WT_Interface\Item\Forge\Adriana_wolf_mask.dtx,70,70,1,1,1,2,11,1
+83336,655,31167,AT-H20A Wolf Goggles,WT_Interface\Item\Forge\Adriana_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+83484,656,32121,AT-U14A Wolf Cross Band,WT_Interface\Item\Forge\Adriana_wolf_vest.dtx,70,70,1,1,1,2,12,1
+83632,657,32122,AT-U15A Wolf Elbow Protector,WT_Interface\Item\Forge\Adriana_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+83792,658,32123,AT-U16A Wolf Gloves,WT_Interface\Item\Forge\Adriana_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+83936,659,33074,AT-L09A Wolf Knee Protector,WT_Interface\Item\Forge\Adriana_wolf_knee.dtx,70,70,1,1,1,2,13,1
+84092,660,33075,AT-L10A Wolf Boots,WT_Interface\Item\Forge\Adriana_wolf_boots.dtx,70,70,1,1,1,2,13,1
+84232,661,31168,PG-H18A Wolf Cross Beanie,WT_Interface\Item\Forge\Pedro_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+84384,662,31169,PG-H19A Wolf Mask,WT_Interface\Item\Forge\Pedro_wolf_mask.dtx,70,70,1,1,1,2,11,1
+84516,663,31170,PG-H20A Wolf Goggles,WT_Interface\Item\Forge\Pedro_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+84660,664,32124,PG-U14A Wolf Cross Band,WT_Interface\Item\Forge\Pedro_wolf_vest.dtx,70,70,1,1,1,2,12,1
+84804,665,32125,PG-U15A Wolf Elbow Protector,WT_Interface\Item\Forge\Pedro_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+84960,666,32126,PG-U16A Wolf Gloves,WT_Interface\Item\Forge\Pedro_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+85100,667,33076,PG-L09A Wolf Knee Protector,WT_Interface\Item\Forge\Pedro_wolf_knee.dtx,70,70,1,1,1,2,13,1
+85252,668,33077,PG-L10A Wolf Boots,WT_Interface\Item\Forge\Pedro_wolf_boots.dtx,70,70,1,1,1,2,13,1
+85388,669,31171,LM-H17A Wolf Helmet,WT_Interface\Item\Forge\Lin_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+85524,670,31172,LM-H18A Wolf Mask,WT_Interface\Item\Forge\Lin_wolf_mask.dtx,70,70,1,1,1,2,11,1
+85652,671,31173,LM-H19A Wolf Goggles,WT_Interface\Item\Forge\Lin_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+85792,672,32127,LM-U17A Wolf Vest,WT_Interface\Item\Forge\Lin_wolf_vest.dtx,70,70,1,1,1,2,12,1
+85920,673,32128,LM-U18A Wolf Elbow Protector,WT_Interface\Item\Forge\Lin_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+86072,674,32129,LM-U19A Wolf Gloves,WT_Interface\Item\Forge\Lin_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+86208,675,33078,LM-L14A Wolf Knee Protector,WT_Interface\Item\Forge\Lin_wolf_knee.dtx,70,70,1,1,1,2,13,1
+86356,676,33079,LM-L15A Wolf Boots,WT_Interface\Item\Forge\Lin_wolf_boots.dtx,70,70,1,1,1,2,13,1
+86488,677,31174,HS-H17A Wolf Bandana,WT_Interface\Item\Forge\Moshin_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+86632,678,31175,HS-H18A Wolf Mask,WT_Interface\Item\Forge\Moshin_wolf_mask.dtx,70,70,1,1,1,2,11,1
+86766,679,31176,HS-H19A Wolf Goggles,WT_Interface\Item\Forge\Moshin_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+86912,680,32130,HS-U17A Wolf Vest,WT_Interface\Item\Forge\Moshin_wolf_vest.dtx,70,70,1,1,1,2,12,1
+87046,681,32131,HS-U18A Wolf Elbow Protector,WT_Interface\Item\Forge\Moshin_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+87204,682,32132,HS-U19A Wolf Gloves,WT_Interface\Item\Forge\Moshin_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+87346,683,33080,HS-L14A Wolf Knee Protector,WT_Interface\Item\Forge\Moshin_wolf_knee.dtx,70,70,1,1,1,2,13,1
+87500,684,33081,HS-L15A Wolf Boots,WT_Interface\Item\Forge\Moshin_wolf_boots.dtx,70,70,1,1,1,2,13,1
+87638,685,31177,MA-H17A Wolf Helmet,WT_Interface\Item\Forge\Marien_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+87780,686,31178,MA-H18A Wolf Mask,WT_Interface\Item\Forge\Marien_wolf_mask.dtx,70,70,1,1,1,2,11,1
+87914,687,31179,MA-H19A Wolf Goggles,WT_Interface\Item\Forge\Marien_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+88060,688,32133,MA-U17A Wolf Vest,WT_Interface\Item\Forge\Marien_wolf_vest.dtx,70,70,1,1,1,2,12,1
+88194,689,32134,MA-U18A Wolf Elbow Protector,WT_Interface\Item\Forge\Marien_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+88352,690,32135,MA-U19A Wolf Gloves,WT_Interface\Item\Forge\Marien_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+88494,691,33082,MA-L14A Wolf Knee Protector,WT_Interface\Item\Forge\Marien_wolf_knee.dtx,70,70,1,1,1,2,13,1
+88648,692,33083,MA-L15A Wolf Boots,WT_Interface\Item\Forge\Marien_wolf_boots.dtx,70,70,1,1,1,2,13,1
+88786,693,31180,RS-H17A Wolf Helmet,WT_Interface\Item\Forge\Reinhard_wolf_helmet.dtx,70,70,1,1,1,2,11,1
+88932,694,31181,RS-H18A Wolf Mask,WT_Interface\Item\Forge\Reinhard_wolf_mask.dtx,70,70,1,1,1,2,11,1
+89070,695,31182,RS-H19A Wolf Goggles,WT_Interface\Item\Forge\Reinhard_wolf_goggles.dtx,70,70,1,1,1,2,11,1
+89220,696,32136,RS-U17A Wolf Vest,WT_Interface\Item\Forge\Reinhard_wolf_vest.dtx,70,70,1,1,1,2,12,1
+89358,697,32137,RS-U18A Wolf Elbow Protector,WT_Interface\Item\Forge\Reinhard_wolf_elbow.dtx,70,70,1,1,1,2,12,1
+89520,698,32138,RS-U19A Wolf Gloves,WT_Interface\Item\Forge\Reinhard_wolf_gloves.dtx,70,70,1,1,1,2,12,1
+89666,699,33084,RS-L14A Wolf Knee Protector,WT_Interface\Item\Forge\Reinhard_wolf_knee.dtx,70,70,1,1,1,2,13,1
+89824,700,33085,RS-L15A Wolf Boots,WT_Interface\Item\Forge\Reinhard_wolf_boots.dtx,70,70,1,1,1,2,13,1
+89966,701,14150,Angela Wolf Look Package,WT_Interface\Item\Forge\Angela_wolflook.dtx,70,70,1,1,4,1,20,1
+90112,702,14151,Christopher Wolf Look Package,WT_Interface\Item\Forge\Christopher_wolflook.dtx,70,70,1,1,4,1,20,1
+90278,703,14152,Adriana Wolf Look Package,WT_Interface\Item\Forge\Adriana_wolflook.dtx,70,70,1,1,4,1,20,1
+90428,704,14153,Pedro Wolf Look Package,WT_Interface\Item\Forge\Pedro_wolflook.dtx,70,70,1,1,4,1,20,1
+90570,705,14154,Lin meiling Wolf Look Package,WT_Interface\Item\Forge\Lin_wolflook.dtx,70,70,1,1,4,1,20,1
+90720,706,14155,Hamadah Wolf Look Package,WT_Interface\Item\Forge\Moshin_wolflook.dtx,70,70,1,1,4,1,20,1
+90868,707,14156,Reinhard Wolf Look Package,WT_Interface\Item\Forge\Reinhard_wolflook.dtx,70,70,1,1,4,1,20,1
+91022,708,14157,Marien Wolf Look Package,WT_Interface\Item\Forge\Marien_wolflook.dtx,70,70,1,1,4,1,20,1
+91168,709,8003,WT MG-1 MC,WT_Interface\Item\Forge\WT_MG-1_MC.dtx,70,70,1,1,1,1,1,1
+91276,710,31183,TY-H01A Helmet,WT_Interface\Item\Forge\Tomita_Helmet01.dtx,70,70,1,1,1,2,11,1
+91402,711,31184,YD-H01A Helmet,WT_Interface\Item\Forge\Yigit_Helmet01.dtx,70,70,1,1,1,2,11,1
+91526,712,31185,IV-H01A Helmet,WT_Interface\Item\Forge\Illude_Helmet01.dtx,70,70,1,1,1,2,11,1
+91652,713,31186,GS-H01A Helmet,WT_Interface\Item\Forge\Geremi_Helmet01.dtx,70,70,1,1,1,2,11,1
+91778,714,31187,TY-H02A Mask,WT_Interface\Item\Forge\Tomita_Mask01.dtx,70,70,1,1,1,2,11,1
+91896,715,31188,YD-H02A Mask,WT_Interface\Item\Forge\Yigit_Mask01.dtx,70,70,1,1,1,2,11,1
+92012,716,31189,IV-H02A Mask,WT_Interface\Item\Forge\Illude_Mask01.dtx,70,70,1,1,1,2,11,1
+92130,717,31190,GS-H02A Mask,WT_Interface\Item\Forge\Geremi_Mask01.dtx,70,70,1,1,1,2,11,1
+92248,718,32139,TY-U01A Vest,WT_Interface\Item\Forge\Tomita_Vest01.dtx,70,70,1,1,1,2,12,1
+92366,719,32140,YD-U01A Vest,WT_Interface\Item\Forge\Yigit_Vest01.dtx,70,70,1,1,1,2,12,1
+92482,720,32141,IV-U01A Vest,WT_Interface\Item\Forge\Illude_Vest01.dtx,70,70,1,1,1,2,12,1
+92600,721,32142,GS-U01A Vest,WT_Interface\Item\Forge\Geremi_Vest01.dtx,70,70,1,1,1,2,12,1
+92718,722,33086,TY-L01A Boots,WT_Interface\Item\Forge\Tomita_Boots02.dtx,70,70,1,1,1,2,13,1
+92840,723,33087,YD-L01A Boots,WT_Interface\Item\Forge\Yigit_Boots02.dtx,70,70,1,1,1,2,13,1
+92960,724,33088,IV-L01A Boots,WT_Interface\Item\Forge\Illude_Boots02.dtx,70,70,1,1,1,2,13,1
+93082,725,33089,GS-L01A Boots,WT_Interface\Item\Forge\Geremi_Boots02.dtx,70,70,1,1,1,2,13,1
+93204,726,30019,Adriana Adult,WT_Interface\Item\Forge\Adriana_Adult.dtx,70,70,1,1,1,2,8,1
+93324,727,30020,Angela Adult,WT_Interface\Item\Forge\Angela_Adult.dtx,70,70,1,1,1,2,9,1
+93440,728,30021,Lin meiling Adult,WT_Interface\Item\Forge\LinMeiling_Adult.dtx,70,70,1,1,1,2,8,1
+93574,729,30022,Marien Arnault Adult,WT_Interface\Item\Forge\Marien_Adult.dtx,70,70,1,1,1,2,9,1
+93706,730,19601,Wolf Special Ability,WT_Interface\Item\Forge\WolfDash.DTX,70,70,1,1,4,1,7,1
+93830,731,30023,Marien Arnault SE,WT_Interface\Item\Forge\Marien_Arnault_Special_Edition.DTX,70,70,1,1,4,1,9,1
+93992,732,30024,Reinhard SE,WT_Interface\Item\Forge\Reinhard_Schneider_Special_Edition.DTX,70,70,1,1,4,1,9,1
+94150,733,30025,Lin meiling SE,WT_Interface\Item\Forge\Lin_meiling_Special_Edition.DTX,70,70,1,1,4,1,8,1
+94300,734,30026,Hamadah SE,WT_Interface\Item\Forge\Hamadah_bin_Shabah_Special_Edition.DTX,70,70,1,1,4,1,8,1
+94456,735,6024,I-115 T MC,WT_Interface\Item\Forge\I-115_T_MC.dtx,70,70,1,1,1,2,1,1
+94564,736,3132,XEM-8 WT MC,WT_Interface\Item\Forge\XEM-8_WT_MC.dtx,70,70,1,1,1,2,1,1
+94676,737,5016,EMP-5 CS MC,WT_Interface\Item\Forge\EMP-5_CS_MC.dtx,70,70,1,1,1,2,1,1
+94788,738,3133,KEI-2 T1 MC,WT_Interface\Item\Forge\KEI-2_T1_MC.dtx,70,70,1,1,4,1,1,1
+94900,739,6022,ETSR-1 Flame,WT_Interface\Item\Forge\ETSR-1_Flame.dtx,70,70,1,1,4,1,1,1
+95016,740,7515,EM249 Minimi Flame,WT_Interface\Item\Forge\EM-249_Minimi_Flame.dtx,70,70,1,1,4,1,1,1
+95158,741,6023,MSD-90 Flame,WT_Interface\Item\Forge\MSD-90_Flame.dtx,70,70,1,1,4,1,1,1
+95274,742,3131,EM-4 SPW Flame,WT_Interface\Item\Forge\EM-4_SPW_Flame.dtx,70,70,1,1,4,1,1,1
+95398,743,7516,EMG-42 Flame,WT_Interface\Item\Forge\EMG-42_Flame.dtx,70,70,1,1,4,1,1,1
+95514,744,15001,5K Gold Coupon,WT_Interface\Item\Forge\5000_GOLD.dtx,70,70,1,1,1,0,15,1
+95628,745,15002,10K Gold Coupon,WT_Interface\Item\Forge\10000_GOLD.dtx,70,70,1,1,1,0,15,1
+95746,746,15003,30K Gold Coupon,WT_Interface\Item\Forge\30000_GOLD.dtx,70,70,1,1,1,0,15,1
+95864,747,15004,50K Gold Coupon,WT_Interface\Item\Forge\50000_GOLD.dtx,70,70,1,1,1,0,15,1
+95982,748,15005,100K Gold Coupon,WT_Interface\Item\Forge\100000_GOLD.dtx,70,70,1,1,1,0,15,1
+96104,749,15006,150K Gold Coupon,WT_Interface\Item\Forge\150000_GOLD.dtx,70,70,1,1,1,0,15,1
+96226,750,15007,500 Gold Coupon,WT_Interface\Item\Forge\500_GOLD.dtx,70,70,1,1,1,0,15,1
+96340,751,15008,1K Gold Coupon,WT_Interface\Item\Forge\1000_GOLD.dtx,70,70,1,1,1,0,15,1
+96454,752,15009,2K Gold Coupon,WT_Interface\Item\Forge\2000_GOLD.dtx,70,70,1,1,1,0,15,1
+96568,753,15010,2500 Gold Coupon,WT_Interface\Item\Forge\2500_GOLD.dtx,70,70,1,1,1,0,15,1
+96686,754,15011,15K Gold Coupon,WT_Interface\Item\Forge\15000_GOLD.dtx,70,70,1,1,1,0,15,1
+96804,755,15012,20K Gold Coupon,WT_Interface\Item\Forge\20000_GOLD.dtx,70,70,1,1,1,0,15,1
+96922,756,15013,25K Gold Coupon,WT_Interface\Item\Forge\25000_GOLD.dtx,70,70,1,1,1,0,15,1
+97040,757,15014,60K Gold Coupon,WT_Interface\Item\Forge\60000_GOLD.dtx,70,70,1,1,1,0,15,1
+97158,758,15015,200K Gold Coupon,WT_Interface\Item\Forge\200000_GOLD.dtx,70,70,1,1,1,0,15,1
+97280,759,15016,250K Gold Coupon,WT_Interface\Item\Forge\250000_GOLD.dtx,70,70,1,1,1,0,15,1
+97402,760,15017,500K Gold Coupon,WT_Interface\Item\Forge\500000_GOLD.dtx,70,70,1,1,1,0,15,1
+97524,761,15018,1000K Gold Coupon,WT_Interface\Item\Forge\1000000_GOLD.dtx,70,70,1,1,1,0,15,1
+97650,762,15019,1500 Gold Coupon,WT_Interface\Item\Forge\1500_GOLD.dtx,70,70,1,1,1,0,15,1
+97768,763,15020,7500 Gold Coupon,WT_Interface\Item\Forge\7500_GOLD.dtx,70,70,1,1,1,0,15,1
+97886,764,15021,45K Gold Coupon,WT_Interface\Item\Forge\45000_GOLD.dtx,70,70,1,1,1,0,15,1
+98004,765,15022,75K Gold Coupon,WT_Interface\Item\Forge\75000_GOLD.dtx,70,70,1,1,1,0,15,1
+98122,766,15023,750K Gold Coupon,WT_Interface\Item\Forge\750000_GOLD.dtx,70,70,1,1,1,0,15,1
+98244,767,15024,100 WC Coupon,WT_Interface\Item\Forge\100_WC.dtx,70,70,1,1,1,0,15,1
+98350,768,15025,300 WC Coupon,WT_Interface\Item\Forge\300_WC.dtx,70,70,1,1,1,0,15,1
+98456,769,15026,500 WC Coupon,WT_Interface\Item\Forge\500_WC.dtx,70,70,1,1,1,0,15,1
+98562,770,15027,7000WC Coupon,WT_Interface\Item\Forge\7000_WC.dtx,70,70,1,1,1,0,15,1
+98670,771,15028,700WC Coupon,WT_Interface\Item\Forge\700_WC.dtx,70,70,1,1,1,0,15,1
+98774,772,15029,70WC Coupon,WT_Interface\Item\Forge\70_WC.dtx,70,70,1,1,1,0,15,1
+98874,773,15030,100K WC Coupon,WT_Interface\Item\Forge\100000WC.dtx,70,70,1,1,1,0,15,1
+98986,774,15031,1000K Gold Coupon,WT_Interface\Item\Forge\1000000_GOLD.dtx,70,70,1,1,1,0,15,1
+99112,775,6025,I-115 T Gold,WT_Interface\Item\Forge\I-115_T_Gold.dtx,70,70,1,1,1,2,1,1
+99228,776,6026,ESL-8,WT_Interface\Item\Forge\ESL-8.dtx,70,70,1,1,1,1,1,1
+99316,777,3134,XEM-8 WT Gold,WT_Interface\Item\Forge\XEM-8_WT_Gold.dtx,70,70,1,1,1,2,1,1
+99436,778,3135,EMP-5 CS Gold,WT_Interface\Item\Forge\EMP-5_CS_Gold.dtx,70,70,1,1,1,2,1,1
+99556,779,3136,KEI-2 T1 Gold,WT_Interface\Item\Forge\KEI-2_T1_Gold.dtx,70,70,1,1,1,2,1,1
+99676,780,14205,ETSR-1 PX EC,WT_Interface\Item\Forge\ETSR-1_PX_EC.dtx,70,70,1,1,1,2,16,1
+99792,781,14206,Tattoo B (Crocodile DP) LT,WT_Interface\Item\Forge\Tattoo_B_Crocodile_DP_LT.dtx,70,70,1,1,1,2,17,1
+99960,782,14207,Tattoo L (Crocodile DP) LT,WT_Interface\Item\Forge\Tattoo_L_Crocodile_DP_LT.dtx,70,70,1,1,1,2,17,1
+100128,783,14208,Tattoo R (Crocodile DP) LT,WT_Interface\Item\Forge\Tattoo_R_Crocodile_DP_LT.dtx,70,70,1,1,1,2,17,1
+100296,784,31257,TY-H11A Goggle,WT_Interface\Item\Forge\TY-H11A_Goggle,70,70,1,1,1,2,11,1
+100412,785,31258,YD-H11A Goggle,WT_Interface\Item\Forge\YD-H11A_Goggle,70,70,1,1,1,2,11,1
+100528,786,31259,IV-H11A Goggle,WT_Interface\Item\Forge\IV-H11A_Goggle,70,70,1,1,1,2,11,1
+100644,787,31260,GS-H11A Goggle,WT_Interface\Item\Forge\GS-H11A_Goggle,70,70,1,1,1,2,11,1
+100760,788,31261,TY-H12A Mask,WT_Interface\Item\Forge\TY-H12A_Mask,70,70,1,1,1,2,11,1
+100868,789,31262,YD-H12A Mask,WT_Interface\Item\Forge\YD-H12A_Mask,70,70,1,1,1,2,11,1
+100976,790,31263,IV-H12A Mask,WT_Interface\Item\Forge\IV-H12A_Mask,70,70,1,1,1,2,11,1
+101084,791,31264,GS-H12A Mask,WT_Interface\Item\Forge\GS-H12A_Mask,70,70,1,1,1,2,11,1
+101192,792,15032,100 Gold Coupon,WT_Interface\Item\Forge\100_GOLD.dtx,70,70,1,1,1,0,15,1
+101306,793,15033,1K WC Coupon,WT_Interface\Item\Forge\1000_WC.dtx,70,70,1,1,1,0,15,1
+101412,794,15034,2K WC Coupon,WT_Interface\Item\Forge\2000_WC.dtx,70,70,1,1,1,0,15,1
+101518,795,15035,3K Gold Coupon,WT_Interface\Item\Forge\3000_GOLD.dtx,70,70,1,1,1,0,15,1
+101632,796,15036,3K WC Coupon,WT_Interface\Item\Forge\3000_WC.dtx,70,70,1,1,1,0,15,1
+101738,797,15037,5K WC Coupon,WT_Interface\Item\Forge\5000_WC.dtx,70,70,1,1,1,0,15,1
+101844,798,15038,7K WC Coupon,WT_Interface\Item\Forge\7000_WC.dtx,70,70,1,1,1,0,15,1
+101950,799,15039,10K WC Coupon,WT_Interface\Item\Forge\10000_WC.dtx,70,70,1,1,1,0,15,1
+102060,800,15040,20K WC Coupon,WT_Interface\Item\Forge\20000_WC.dtx,70,70,1,1,1,0,15,1
+102170,801,15041,30K WC Coupon,WT_Interface\Item\Forge\30000_WC.dtx,70,70,1,1,1,0,15,1
+102280,802,15042,50K WC Coupon,WT_Interface\Item\Forge\50000_WC.dtx,70,70,1,1,1,0,15,1
+102390,803,15043,200K WC Coupon,WT_Interface\Item\Forge\200000_WC.dtx,70,70,1,1,1,0,15,1
+102504,804,15044,300K Gold Coupon,WT_Interface\Item\Forge\300000_GOLD.dtx,70,70,1,1,1,0,15,1
+102626,805,15045,300K WC Coupon,WT_Interface\Item\Forge\300000_WC.dtx,70,70,1,1,1,0,15,1
+102740,806,15046,500K WC Coupon,WT_Interface\Item\Forge\500000_WC.dtx,70,70,1,1,1,0,15,1
+102854,807,15047,1000K WC Coupon,WT_Interface\Item\Forge\1000000_WC.dtx,70,70,1,1,1,0,15,1
+102972,808,15048,4K  Gold Coupon,WT_Interface\Item\Forge\4000_GOLD.dtx,70,70,1,1,1,0,15,1
+103088,809,15049,6K  Gold Coupon,WT_Interface\Item\Forge\6000_GOLD.dtx,70,70,1,1,1,0,15,1
+103204,810,15050,8K  Gold Coupon,WT_Interface\Item\Forge\8000_GOLD.dtx,70,70,1,1,1,0,15,1
+103320,811,15051,9K  Gold Coupon,WT_Interface\Item\Forge\9000_GOLD.dtx,70,70,1,1,1,0,15,1
+103436,812,15052,40K  Gold Coupon,WT_Interface\Item\Forge\40000_GOLD.dtx,70,70,1,1,1,0,15,1
+103556,813,15053,60K  Gold Coupon,WT_Interface\Item\Forge\60000_GOLD.dtx,70,70,1,1,1,0,15,1
+103676,814,15054,70K  Gold Coupon,WT_Interface\Item\Forge\70000_GOLD.dtx,70,70,1,1,1,0,15,1
+103796,815,15055,80K  Gold Coupon,WT_Interface\Item\Forge\80000_GOLD.dtx,70,70,1,1,1,0,15,1
+103916,816,15056,90K  Gold Coupon,WT_Interface\Item\Forge\90000_GOLD.dtx,70,70,1,1,1,0,15,1
+104036,817,15057,400K  Gold Coupon,WT_Interface\Item\Forge\400000_GOLD.dtx,70,70,1,1,1,0,15,1
+104160,818,15058,600K  Gold Coupon,WT_Interface\Item\Forge\600000_GOLD.dtx,70,70,1,1,1,0,15,1
+104284,819,15059,700K  Gold Coupon,WT_Interface\Item\Forge\700000_GOLD.dtx,70,70,1,1,1,0,15,1
+104408,820,15060,800K  Gold Coupon,WT_Interface\Item\Forge\800000_GOLD.dtx,70,70,1,1,1,0,15,1
+104532,821,15061,900K  Gold Coupon,WT_Interface\Item\Forge\900000_GOLD.dtx,70,70,1,1,1,0,15,1
+104656,822,15062,4K  WC Coupon,WT_Interface\Item\Forge\4000_WC.dtx,70,70,1,1,1,0,15,1
+104764,823,15063,6K  WC Coupon,WT_Interface\Item\Forge\6000_WC.dtx,70,70,1,1,1,0,15,1
+104872,824,15064,8K  WC Coupon,WT_Interface\Item\Forge\8000_WC.dtx,70,70,1,1,1,0,15,1
+104980,825,15065,9K  WC Coupon,WT_Interface\Item\Forge\9000_WC.dtx,70,70,1,1,1,0,15,1
+105088,826,15066,40K  WC Coupon,WT_Interface\Item\Forge\40000_WC.dtx,70,70,1,1,1,0,15,1
+105200,827,15067,60K  WC Coupon,WT_Interface\Item\Forge\60000_WC.dtx,70,70,1,1,1,0,15,1
+105312,828,15068,70K  WC Coupon,WT_Interface\Item\Forge\70000_WC.dtx,70,70,1,1,1,0,15,1
+105424,829,15069,80K  WC Coupon,WT_Interface\Item\Forge\80000_WC.dtx,70,70,1,1,1,0,15,1
+105536,830,15070,90K  WC Coupon,WT_Interface\Item\Forge\90000_WC.dtx,70,70,1,1,1,0,15,1
+105648,831,15071,400K  WC Coupon,WT_Interface\Item\Forge\400000_WC.dtx,70,70,1,1,1,0,15,1
+105764,832,15072,600K  WC Coupon,WT_Interface\Item\Forge\600000_WC.dtx,70,70,1,1,1,0,15,1
+105880,833,15073,700K  WC Coupon,WT_Interface\Item\Forge\700000_WC.dtx,70,70,1,1,1,0,15,1
+105996,834,15074,800K  WC Coupon,WT_Interface\Item\Forge\800000_WC.dtx,70,70,1,1,1,0,15,1
+106112,835,15075,900K  WC Coupon,WT_Interface\Item\Forge\900000_WC.dtx,70,70,1,1,1,0,15,1
+106228,836,6030,I-115 T PX,WT_Interface\Item\Forge\I-115_T_PX.dtx,70,70,1,1,1,2,1,1
+106336,837,3200,XEM-8 WT PX,WT_Interface\Item\Forge\XEM-8_WT_PX.dtx,70,70,1,1,1,2,1,1
+106448,838,3140,EMP-5_CS_PX,WT_Interface\Item\Forge\EMP-5_CS_PX.dtx,70,70,1,1,1,2,1,1
+106560,839,3137,KEI-2 T1 PX,WT_Interface\Item\Forge\KEI-2_T1_PX.dtx,70,70,1,1,1,2,1,1
+106672,840,6027,ESL-8 MC,WT_Interface\Item\Forge\ESL-8_MC.dtx,70,70,1,1,1,2,1,1
+106772,841,3250,CXE4-Storm,WT_Interface\Item\Forge\CXE4-Storm.dtx,70,70,1,1,1,2,1,1
+106880,842,9100,AB-3G (For Reference),WT_Interface\Item\Forge\AB-3G.dtx,70,70,1,1,4,0,15,1
+107000,843,12170,Tattoo B (Axe DP),WT_Interface\Item\Forge\Tattoo_B_Axe_DP.dtx,70,70,1,1,1,2,6,1
+107132,844,20046,Tattoo L (Axe DP),WT_Interface\Item\Forge\Tattoo_L_Axe_DP.dtx,70,70,1,1,1,2,6,1
+107264,845,21062,Tattoo R (Axe DP),WT_Interface\Item\Forge\Tattoo_R_Axe_DP.dtx,70,70,1,1,1,2,6,1
+107396,846,12171,Tattoo B (Sun DR),WT_Interface\Item\Forge\Tattoo_B_Sun_DR.dtx,70,70,1,1,1,2,6,1
+107528,847,20047,Tattoo L (Sun DR),WT_Interface\Item\Forge\Tattoo_L_Sun_DR.dtx,70,70,1,1,1,2,6,1
+107660,848,21063,Tattoo R (Sun DR),WT_Interface\Item\Forge\Tattoo_R_Sun_DR.dtx,70,70,1,1,1,2,6,1
+107792,849,12172,Tattoo B (Jaguar DB),WT_Interface\Item\Forge\Tattoo_B_Jaguar_DB.dtx,70,70,1,1,1,2,6,1
+107936,850,20048,Tattoo L (Jaguar DB),WT_Interface\Item\Forge\Tattoo_L_Jaguar_DB.dtx,70,70,1,1,1,2,6,1
+108080,851,21064,Tattoo R (Jaguar DB),WT_Interface\Item\Forge\Tattoo_R_Jaguar_DB.dtx,70,70,1,1,1,2,6,1
+108224,852,14209,ESL-8 MC EC Set,WT_Interface\Item\Forge\ESL-8_MC_EC.dtx,70,70,1,1,1,2,16,1
+108344,853,14210,XEM-8 WT PX EC Set,WT_Interface\Item\Forge\XEM-8_WT_PX_EC.dtx,70,70,1,1,1,2,16,1
+108476,854,14211,Tattoo B (Sun DR) LT Set,WT_Interface\Item\Forge\Tattoo_B_Sun_DR_LT.dtx,70,70,1,1,1,2,17,1
+108628,855,14212,Tattoo B (Jaguar DB) LT Set,WT_Interface\Item\Forge\Tattoo_B_Jaguar_DB_LT.dtx,70,70,1,1,1,2,17,1
+108792,856,31265,AR-H02A Goggles,WT_Interface\Item\Forge\AR-H02A_Goggles.dtx,70,70,1,1,1,2,11,1
+108920,857,31266,SL-H02A Goggles,WT_Interface\Item\Forge\SL-H02A_Goggles.dtx,70,70,1,1,1,2,11,1
+109048,858,31267,KB-H02A Goggles,WT_Interface\Item\Forge\KB-H02A_Goggles.dtx,70,70,1,1,1,2,11,1
+109176,859,31268,MB-H02A Goggles,WT_Interface\Item\Forge\MB-H02A_Goggles.dtx,70,70,1,1,1,2,11,1
+109304,860,32211,AR-U02A Elbow Protector,WT_Interface\Item\Forge\AR-U02A_Elbow_Protector.dtx,70,70,1,1,1,2,12,1
+109464,861,32212,SL-U02A Elbow Protector,WT_Interface\Item\Forge\SL-U02A_Elbow_Protector.dtx,70,70,1,1,1,2,12,1
+109624,862,32213,KB-U02A Elbow Protector,WT_Interface\Item\Forge\KB-U02A_Elbow_Protector.dtx,70,70,1,1,1,2,12,1
+109784,863,32214,MB-U02A Elbow Protector,WT_Interface\Item\Forge\MB-U02A_Elbow_Protector.dtx,70,70,1,1,1,2,12,1
+109944,864,33133,AR-L01A Knee Protector,WT_Interface\Item\Forge\AR-L01A_Knee_Protector.dtx,70,70,1,1,1,2,13,1
+110100,865,33134,SL-L01A Knee Protector,WT_Interface\Item\Forge\SL-L01A_Knee_Protector.dtx,70,70,1,1,1,2,13,1
+110256,866,33135,KB-L01A Knee Protector,WT_Interface\Item\Forge\KB-L01A_Knee_Protector.dtx,70,70,1,1,1,2,13,1
+110412,867,33436,MB-L01A Knee Protector,WT_Interface\Item\Forge\MB-L01A_Knee_Protector.dtx,70,70,1,1,1,2,13,1
+110568,868,14213,WHM Package,WT_Interface\Item\Forge\WHM_Package.dtx,70,70,1,1,1,2,17,1
+110680,869,12173,Tattoo B (Softnyx),WT_Interface\Item\Forge\Tattoo_B_Softnyx.dtx,70,70,1,1,1,2,6,1
+110816,870,20049,Tattoo L (Softnyx),WT_Interface\Item\Forge\Tattoo_L_Softnyx.dtx,70,70,1,1,1,2,6,1
+110952,871,21065,Tattoo R (Softnyx),WT_Interface\Item\Forge\Tattoo_R_Softnyx.dtx,70,70,1,1,1,2,6,1
+111088,872,12174,Tattoo B (Flag Germany),WT_Interface\Item\Forge\Tattoo_B_Flag_DE.dtx,70,70,1,1,1,2,6,1
+111234,873,12175,Tattoo B (FB Germany),WT_Interface\Item\Forge\Tattoo_B_FB_DE.dtx,70,70,1,1,1,2,6,1
+111372,874,12176,Tattoo B (Flag France),WT_Interface\Item\Forge\Tattoo_B_Flag_FR.dtx,70,70,1,1,1,2,6,1
+111516,875,12177,Tattoo B (FB France),WT_Interface\Item\Forge\Tattoo_B_FB_FR.dtx,70,70,1,1,1,2,6,1
+111652,876,12178,Tattoo B (Flag Poland),WT_Interface\Item\Forge\Tattoo_B_Flag_PL.dtx,70,70,1,1,1,2,6,1
+111796,877,12179,Tattoo B (FB Poland),WT_Interface\Item\Forge\Tattoo_B_FB_PL.dtx,70,70,1,1,1,2,6,1
+111932,878,12180,Tattoo B (Flag Russia),WT_Interface\Item\Forge\Tattoo_B_Flag_RU.dtx,70,70,1,1,1,2,6,1
+112076,879,12181,Tattoo B (FB Russia),WT_Interface\Item\Forge\Tattoo_B_FB_RU.dtx,70,70,1,1,1,2,6,1
+112212,880,12182,Tattoo B (Flag Italy),WT_Interface\Item\Forge\Tattoo_B_Flag_IT.dtx,70,70,1,1,1,2,6,1
+112354,881,12183,Tattoo B (FB Italy),WT_Interface\Item\Forge\Tattoo_B_FB_IT.dtx,70,70,1,1,1,2,6,1
+112488,882,12184,Tattoo B (Flag USA),WT_Interface\Item\Forge\Tattoo_B_Flag_US.dtx,70,70,1,1,1,2,6,1
+112626,883,12185,Tattoo B (FB USA),WT_Interface\Item\Forge\Tattoo_B_FB_US.dtx,70,70,1,1,1,2,6,1
+112756,884,31269,AR-H03A Mask,WT_Interface\Item\Forge\AR-H03A_Mask.dtx,70,70,1,1,1,2,11,1
+112872,885,31270,SL-H03A Mask,WT_Interface\Item\Forge\SL-H03A_Mask.dtx,70,70,1,1,1,2,11,1
+112988,886,31271,KB-H03A Mask,WT_Interface\Item\Forge\KB-H03A_Mask.dtx,70,70,1,1,1,2,11,1
+113104,887,31272,MB-H03A Mask,WT_Interface\Item\Forge\MB-H03A_Mask.dtx,70,70,1,1,1,2,11,1
+113220,888,3251,CX4-Storm MC,WT_Interface\Item\Forge\CXE4-Storm_MC.dtx,70,70,1,1,1,2,1,1
+113338,889,3300,EXK-8,WT_Interface\Item\Forge\EXK-8.dtx,70,70,1,1,1,2,1,1
+113426,890,6028,ESL-8 GL,WT_Interface\Item\Forge\ESL-8_GL.dtx,70,70,1,1,1,2,1,1
+113526,891,6031,I-115 T SL,WT_Interface\Item\Forge\I-115_T_SL.dtx,70,70,1,1,1,2,1,1
+113634,892,3201,XEM-8 WT SL,WT_Interface\Item\Forge\XEM-8_WT_SL.dtx,70,70,1,1,1,2,1,1
+113746,893,3141,EMP-5 CS SL,WT_Interface\Item\Forge\EMP-5_CS_SL.dtx,70,70,1,1,1,2,1,1
+113858,894,3138,KEI-2 T1 SL,WT_Interface\Item\Forge\KEI-2_T1_SL.dtx,70,70,1,1,1,2,1,1
+113970,895,2009,RMK4,WT_Interface\Item\Forge\RMK4.dtx,70,70,1,1,1,2,3,1
+114054,896,12186,Tattoo B (Anchor),WT_Interface\Item\Forge\Tattoo_B_Anchor.dtx,70,70,1,1,1,2,6,1
+114186,897,20050,Tattoo L (Anchor),WT_Interface\Item\Forge\Tattoo_L_Anchor.dtx,70,70,1,1,1,2,6,1
+114318,898,21066,Tattoo R (Anchor),WT_Interface\Item\Forge\Tattoo_R_Anchor.dtx,70,70,1,1,1,2,6,1
+114450,899,12187,Tattoo B (Horus),WT_Interface\Item\Forge\Tattoo_B_Horus.dtx,70,70,1,1,1,2,6,1
+114578,900,20051,Tattoo L (Horus),WT_Interface\Item\Forge\Tattoo_L_Horus.dtx,70,70,1,1,1,2,6,1
+114706,901,21067,Tattoo R (Horus),WT_Interface\Item\Forge\Tattoo_R_Horus.dtx,70,70,1,1,1,2,6,1
+114834,902,12188,Tattoo B (Triceratops),WT_Interface\Item\Forge\Tattoo_B_Triceratops.dtx,70,70,1,1,1,2,6,1
+114986,903,20052,Tattoo L (Triceratops),WT_Interface\Item\Forge\Tattoo_L_Triceratops.dtx,70,70,1,1,1,2,6,1
+115138,904,21068,Tattoo R (Triceratops),WT_Interface\Item\Forge\Tattoo_R_Triceratops.dtx,70,70,1,1,1,2,6,1
+115290,905,12189,Tattoo B (Rhino DB),WT_Interface\Item\Forge\Tattoo_B_Rhino_DB.dtx,70,70,1,1,1,2,6,1
+115430,906,20053,Tattoo L (Rhino DB),WT_Interface\Item\Forge\Tattoo_L_Rhino_DB.dtx,70,70,1,1,1,2,6,1
+115570,907,21069,Tattoo R (Rhino DB),WT_Interface\Item\Forge\Tattoo_R_Rhino_DB.dtx,70,70,1,1,1,2,6,1
+115710,908,10094,AB-3G,WT_Interface\Item\Forge\AB-3G.dtx,70,70,1,1,1,2,15,1
+115798,909,30031,Adriana Tenorio ESC,WT_Interface\Item\Forge\Adriana_soccer.dtx,70,70,1,1,1,2,8,1
+115932,910,30032,Pedro Gomes ESC,WT_Interface\Item\Forge\Pedro_soccer.dtx,70,70,1,1,1,2,8,1
+116054,911,30033,Angela Mao ESC,WT_Interface\Item\Forge\Angela_soccer.dtx,70,70,1,1,1,2,9,1
+116176,912,30034,Christopher Smith ESC,WT_Interface\Item\Forge\Christopher_soccer.dtx,70,70,1,1,1,2,9,1
+116322,913,30035,Lin meiling ESC,WT_Interface\Item\Forge\Lin_soccer.dtx,70,70,1,1,1,2,8,1
+116440,914,30036,Hamadah bin Shabah ESC,WT_Interface\Item\Forge\Hamadah_soccer.dtx,70,70,1,1,1,2,8,1
+116580,915,30037,Marien Arnault ESC,WT_Interface\Item\Forge\Marien_soccer.dtx,70,70,1,1,1,2,9,1
+116710,916,30038,Reinhard Schneider ESC,WT_Interface\Item\Forge\Reinhard_soccer.dtx,70,70,1,1,1,2,9,1
+116852,917,12194,Tattoo B (Flag Argentina),WT_Interface\Item\Forge\Tattoo_B_Flag_AR.dtx,70,70,1,1,1,2,6,1
+117002,918,12195,Tattoo B (Flag Bolivia),WT_Interface\Item\Forge\Tattoo_B_Flag_BO.dtx,70,70,1,1,1,2,6,1
+117148,919,12196,Tattoo B (Flag Peru),WT_Interface\Item\Forge\Tattoo_B_Flag_PR.dtx,70,70,1,1,1,2,6,1
+117288,920,12197,Tattoo B (Flag Venezuela),WT_Interface\Item\Forge\Tattoo_B_Flag_VN.dtx,70,70,1,1,1,2,6,1
+117438,921,32215,AR-U03A Gloves,WT_Interface\Item\Forge\AR-U03A_Gloves.dtx,70,70,1,1,1,2,12,1
+117562,922,32216,SL-U03A Gloves,WT_Interface\Item\Forge\SL-U03A_Gloves.dtx,70,70,1,1,1,2,12,1
+117686,923,32217,KB-U03A Gloves,WT_Interface\Item\Forge\KB-U03A_Gloves.dtx,70,70,1,1,1,2,12,1
+117810,924,32218,MB-U03A Gloves,WT_Interface\Item\Forge\MB-U03A_Gloves.dtx,70,70,1,1,1,2,12,1
+117934,925,33437,AR-L02A Boots,WT_Interface\Item\Forge\AR-L02A_Boots.dtx,70,70,1,1,1,2,13,1
+118054,926,33438,SL-L02A Boots,WT_Interface\Item\Forge\SL-L02A_Boots.dtx,70,70,1,1,1,2,13,1
+118174,927,33439,KB-L02A Boots,WT_Interface\Item\Forge\KB-L02A_Boots.dtx,70,70,1,1,1,2,13,1
+118294,928,33440,MB-L02A Boots,WT_Interface\Item\Forge\MB-L02A_Boots.dtx,70,70,1,1,1,2,13,1
+118414,929,12190,Tattoo B (Anchor DB),WT_Interface\Item\Forge\Tattoo_B_Anchor_DB.dtx,70,70,1,1,1,2,6,1
+118558,930,20054,Tattoo L (Anchor DB),WT_Interface\Item\Forge\Tattoo_L_Anchor_DB.dtx,70,70,1,1,1,2,6,1
+118702,931,21070,Tattoo R (Anchor DB),WT_Interface\Item\Forge\Tattoo_R_Anchor_DB.dtx,70,70,1,1,1,2,6,1
+118846,932,12191,Tattoo B (Horus DP),WT_Interface\Item\Forge\Tattoo_B_Horus_DP.dtx,70,70,1,1,1,2,6,1
+118986,933,20055,Tattoo L (Horus DP),WT_Interface\Item\Forge\Tattoo_L_Horus_DP.dtx,70,70,1,1,1,2,6,1
+119126,934,21071,Tattoo R (Horus DP),WT_Interface\Item\Forge\Tattoo_R_Horus_DP.dtx,70,70,1,1,1,2,6,1
+119266,935,12192,Tattoo B (Triceratops DR),WT_Interface\Item\Forge\Tattoo_B_Triceratops_DR.dtx,70,70,1,1,1,2,6,1
+119430,936,20056,Tattoo L (Triceratops DR),WT_Interface\Item\Forge\Tattoo_L_Triceratops_DR.dtx,70,70,1,1,1,2,6,1
+119594,937,21072,Tattoo R (Triceratops DR),WT_Interface\Item\Forge\Tattoo_R_Triceratops_DR.dtx,70,70,1,1,1,2,6,1
+119758,938,12193,Tattoo B (Skull GL),WT_Interface\Item\Forge\Tattoo_B_Skull_GL.dtx,70,70,1,1,1,2,6,1
+119898,939,20057,Tattoo L (Skull GL),WT_Interface\Item\Forge\Tattoo_L_Skull_GL.dtx,70,70,1,1,1,2,6,1
+120038,940,21073,Tattoo R (Skull GL),WT_Interface\Item\Forge\Tattoo_R_Skull_GL.dtx,70,70,1,1,1,2,6,1
+120178,941,2011,C-Nadea,WT_Interface\Item\Forge\C-Nadea.dtx,70,70,1,1,1,2,3,1
+120274,942,7100,AAA-12,WT_Interface\Item\Forge\AAA-12.dtx,70,70,1,1,1,2,1,1
+120366,943,3252,CX4-Storm GL,WT_Interface\Item\Forge\CXE4-Storm_GL.dtx,70,70,1,1,1,2,1,1
+120484,944,3301,EXK-8 MC,WT_Interface\Item\Forge\EXK-8_MC.dtx,70,70,1,1,1,1,1,1
+120584,945,6029,ESL-8 PX,WT_Interface\Item\Forge\ESL-8_PX.dtx,70,70,1,1,1,2,1,1
+120684,946,6032, I-115 T AT,WT_Interface\Item\Forge\I-115_T_AT.dtx,70,70,1,1,1,2,1,1
+120794,947,3202,XEM-8 WT AT,WT_Interface\Item\Forge\XEM-8_WT_AT.dtx,70,70,1,1,1,2,1,1
+120906,948,3142,EMP-5 CS AT,WT_Interface\Item\Forge\EMP-5_CS_AT.dtx,70,70,1,1,1,2,1,1
+121018,949,3139,KEI-2 T1 AT,WT_Interface\Item\Forge\KEI-2_T1_AT.dtx,70,70,1,1,1,2,1,1
+121130,950,14227,Power User Package,WT_Interface\Item\Forge\POWER_PACKAGE.dtx,70,70,1,1,1,2,15,1
+121260,951,12198,Tattoo B (Skull DP),WT_Interface\Item\Forge\Tattoo_B_Skull_DP.dtx,70,70,1,1,1,2,6,1
+121400,952,20058,Tattoo L (Skull DP),WT_Interface\Item\Forge\Tattoo_L_Skull_DP.dtx,70,70,1,1,1,2,6,1
+121540,953,21074,Tattoo R (Skull DP),WT_Interface\Item\Forge\Tattoo_R_Skull_DP.dtx,70,70,1,1,1,2,6,1
+121680,954,31281,TY-H15S Goggle,WT_Interface\Item\Forge\TY-U11S_Goggle.dtx,70,70,1,1,1,0,11,1
+121804,955,31282,YD-H15S Goggle,WT_Interface\Item\Forge\YD-H15S_Goggle.dtx,70,70,1,1,1,0,11,1
+121928,956,31283,IV-H15S Goggle,WT_Interface\Item\Forge\IV-H15S_Goggle.dtx,70,70,1,1,1,0,11,1
+122052,957,31284,GS-H15S Goggle,WT_Interface\Item\Forge\GS-H15S_Goggle.dtx,70,70,1,1,1,0,11,1
+122176,958,31273,TY-H13S Helmet,WT_Interface\Item\Forge\TY-H13S_Helmet.dtx,70,70,1,1,1,0,11,1
+122300,959,31274,YD-H13S Helmet,WT_Interface\Item\Forge\YD-H13S_Helmet.dtx,70,70,1,1,1,0,11,1
+122424,960,31275,IV-H13S Helmet,WT_Interface\Item\Forge\IV-H13S_Helmet.dtx,70,70,1,1,1,0,11,1
+122548,961,31276,GS-H13S Helmet,WT_Interface\Item\Forge\GS-H13S_Helmet.dtx,70,70,1,1,1,0,11,1
+122672,962,31277,TY-H14S Mask,WT_Interface\Item\Forge\TY-H14S_Mask.dtx,70,70,1,1,1,0,11,1
+122788,963,31278,YD-H14S Mask,WT_Interface\Item\Forge\YD-H14S_Mask.dtx,70,70,1,1,1,0,11,1
+122904,964,31279,IV-H14S Mask,WT_Interface\Item\Forge\IV-H14S_Mask.dtx,70,70,1,1,1,0,11,1
+123020,965,31280,GS-H14S Mask,WT_Interface\Item\Forge\GS-H14S_Mask.dtx,70,70,1,1,1,0,11,1
+123136,966,32219,TY-U11S Vest,WT_Interface\Item\Forge\TY-U11S_Vest.dtx,70,70,1,1,1,0,12,1
+123252,967,32220,YD-U11S Vest,WT_Interface\Item\Forge\YD-U11S_Vest.dtx,70,70,1,1,1,0,12,1
+123368,968,32221,IV-U11S Vest,WT_Interface\Item\Forge\IV-U11S_Vest.dtx,70,70,1,1,1,0,12,1
+123484,969,32222,GS-U11S Vest,WT_Interface\Item\Forge\GS-U11S_Vest.dtx,70,70,1,1,1,0,12,1
+123600,970,32223,TY-U12S Gloves,WT_Interface\Item\Forge\TY-U12S_Gloves.dtx,70,70,1,1,1,0,12,1
+123724,971,32224,YD-U12S Gloves,WT_Interface\Item\Forge\YD-U12S_Gloves.dtx,70,70,1,1,1,0,12,1
+123848,972,32225,IV-U12S Gloves,WT_Interface\Item\Forge\IV-U12S_Gloves.dtx,70,70,1,1,1,0,12,1
+123972,973,32226,GS-U12S Gloves,WT_Interface\Item\Forge\GS-U12S_Gloves.dtx,70,70,1,1,1,0,12,1
+124096,974,33441,TY-L08S Boots,WT_Interface\Item\Forge\TY-U12S_Boots.dtx,70,70,1,1,1,0,13,1
+124216,975,33442,YD-L08S Boots,WT_Interface\Item\Forge\YD-U12S_Boots.dtx,70,70,1,1,1,0,13,1
+124336,976,33443,IV-L08S Boots,WT_Interface\Item\Forge\IV-U12S_Boots.dtx,70,70,1,1,1,0,13,1
+124456,977,33444,GS-L08S Boots,WT_Interface\Item\Forge\GS-U12S_Boots.dtx,70,70,1,1,1,0,13,1
+124576,978,14228,Tomita Yasuko Special Parts Package,WT_Interface\Item\Forge\Tomita_Yasuko_Package.dtx,70,70,1,1,1,2,20,1
+124756,979,14229,Yigit Demir Special Parts Package,WT_Interface\Item\Forge\Yigit_Demir_Special_Package.dtx,70,70,1,1,1,2,20,1
+124944,980,14230,Ivanov Special Parts Package,WT_Interface\Item\Forge\Ivanov_Special_Package.dtx,70,70,1,1,1,2,20,1
+125112,981,14231,Geremi Song Special Parts Package,WT_Interface\Item\Forge\Geremi_Song_Special_Package.dtx,70,70,1,1,1,2,20,1
+125300,982,31285,AR-H04A Helmet,WT_Interface\Item\Forge\AR-H04A_Helmet.dtx,70,70,1,1,1,2,11,1
+125424,983,31286,SL-H04A Helmet,WT_Interface\Item\Forge\SL-H04A_Helmet.dtx,70,70,1,1,1,2,11,1
+125548,984,31287,KB-H04A Helmet,WT_Interface\Item\Forge\KB-H04A_Helmet.dtx,70,70,1,1,1,2,11,1
+125672,985,31288,MB-H04A Helmet,WT_Interface\Item\Forge\MB-H04A_Helmet.dtx,70,70,1,1,1,2,11,1
+125796,986,32227,AR-U04A Vest,WT_Interface\Item\Forge\AR-U04A_Vest.dtx,70,70,1,1,1,2,12,1
+125912,987,32228,SL-U04A Vest,WT_Interface\Item\Forge\SL-U04A_Vest.dtx,70,70,1,1,1,2,12,1
+126028,988,32229,KB-U04A Vest,WT_Interface\Item\Forge\KB-U04A_Vest.dtx,70,70,1,1,1,2,12,1
+126144,989,32230,MB-U04A Vest,WT_Interface\Item\Forge\MB-U04A_Vest.dtx,70,70,1,1,1,2,12,1
+126260,990,7200,M-1014,WT_Interface\Item\Forge\M-1014.dtx,70,70,1,1,1,2,1,1
+126352,991,7101,AAA-12 MC,WT_Interface\Item\Forge\AAA-12_MC.dtx,70,70,1,1,1,2,1,1
+126456,992,3302,EXK-8 GL,WT_Interface\Item\Forge\EXK-8_GL.dtx,70,70,1,1,1,2,1,1
+126556,993,3253,CX4-Storm PX,WT_Interface\Item\Forge\CXE4-Storm_PX.dtx,70,70,1,1,1,2,1,1
+126674,994,6040,ESL-8 SL,WT_Interface\Item\Forge\ESL-8_SL.dtx,70,70,1,1,1,2,1,1
+126774,995,6033,I-115 T Flame,WT_Interface\Item\Forge\I-115_T_Flame.dtx,70,70,1,1,1,2,1,1
+126894,996,3203,XEM-8 WT Flame,WT_Interface\Item\Forge\XEM-8_WT_Flame.dtx,70,70,1,1,1,2,1,1
+127018,997,3143,EMP-5 CS Flame,WT_Interface\Item\Forge\EMP-5_CS_Flame.dtx,70,70,1,1,1,2,1,1
+127142,998,3399,KEI-2 T1 Flame,WT_Interface\Item\Forge\KEI-2_T1_Flame.dtx,70,70,1,1,1,2,1,1
+127266,999,2013,SPY-W,WT_Interface\Item\Forge\SPY-W.dtx,70,70,1,1,1,2,3,1
+127354,1000,12199,Tattoo B (Mammoth),WT_Interface\Item\Forge\Tattoo_B_Mommoth.dtx,70,70,1,1,1,2,6,1
+127490,1001,20059,Tattoo L (Mammoth),WT_Interface\Item\Forge\Tattoo_L_Mommoth.dtx,70,70,1,1,1,2,6,1
+127626,1002,21075,Tattoo R (Mammoth),WT_Interface\Item\Forge\Tattoo_R_Mommoth.dtx,70,70,1,1,1,2,6,1
+127762,1003,12200,Tattoo B (Flame),WT_Interface\Item\Forge\Tattoo_B_Flame.dtx,70,70,1,1,1,2,6,1
+127890,1004,20060,Tattoo L (Flame),WT_Interface\Item\Forge\Tattoo_L_Flame.dtx,70,70,1,1,1,2,6,1
+128018,1005,21076,Tattoo R (Flame),WT_Interface\Item\Forge\Tattoo_R_Flame.dtx,70,70,1,1,1,2,6,1
+128146,1006,12201,Tattoo B (Shark),WT_Interface\Item\Forge\Tattoo_B_Shark.dtx,70,70,1,1,1,2,6,1
+128274,1007,20061,Tattoo L (Shark),WT_Interface\Item\Forge\Tattoo_L_Shark.dtx,70,70,1,1,1,2,6,1
+128402,1008,21077,Tattoo R (Shark),WT_Interface\Item\Forge\Tattoo_R_Shark.dtx,70,70,1,1,1,2,6,1
+128530,1009,12202,Tattoo B (Triceratops GL),WT_Interface\Item\Forge\Tattoo_B_Triceratops GL.dtx,70,70,1,1,1,2,6,1
+128694,1010,20062,Tattoo L (Triceratops GL),WT_Interface\Item\Forge\Tattoo_L_Triceratops GL.dtx,70,70,1,1,1,2,6,1
+128858,1011,21078,Tattoo R (Triceratops GL),WT_Interface\Item\Forge\Tattoo_R_Triceratops GL.dtx,70,70,1,1,1,2,6,1
+129022,1012,12203,Tattoo B (Olympic Flag),WT_Interface\Item\Forge\Tattoo_B_OlympicF.dtx,70,70,1,1,1,2,6,1
+129170,1013,20063,Tattoo L (Olympic Flag),WT_Interface\Item\Forge\Tattoo_L_OlympicF.dtx,70,70,1,1,1,2,6,1
+129318,1014,21079,Tattoo R (Olympic Flag),WT_Interface\Item\Forge\Tattoo_R_OlympicF.dtx,70,70,1,1,1,2,6,1
+129466,1015,12204,Tattoo B (Olympic Torch),WT_Interface\Item\Forge\Tattoo_B_Torch.dtx,70,70,1,1,1,2,6,1
+129610,1016,20064,Tattoo L (Olympic Torch),WT_Interface\Item\Forge\Tattoo_L_Torch.dtx,70,70,1,1,1,2,6,1
+129754,1017,21080,Tattoo R (Olympic Torch),WT_Interface\Item\Forge\Tattoo_R_Torch.dtx,70,70,1,1,1,2,6,1
+129898,1018,10096,AI-Normal Ticket,WT_Interface\Item\Forge\AI_item_normal.dtx,70,70,1,1,1,1,15,1
+130026,1019,10097,AI-Hard Ticket,WT_Interface\Item\Forge\AI_item_hard.dtx,70,70,1,1,1,2,15,1
+130146,1020,30043,Christopher Smith(1G)-TSC,WT_Interface\Item\Forge\Christopher_TSC.dtx,70,70,1,1,1,2,9,1
+130294,1021,30044,Pedro Gomes(1G)-TSC,WT_Interface\Item\Forge\Pedro_TSC.dtx,70,70,1,1,1,2,8,1
+130418,1022,30045,Hamadah bin Shabah(2G)-TSC,WT_Interface\Item\Forge\Hamadah_TSC.dtx,70,70,1,1,1,2,8,1
+130560,1023,30046,Geremi Song(3G)-TSC,WT_Interface\Item\Forge\Geremi_TSC.dtx,70,70,1,1,1,2,8,1
+130686,1024,30047,Yigit Demir(3G)-TSC,WT_Interface\Item\Forge\Yigit_TSC.dtx,70,70,1,1,1,2,9,1
+130810,1025,14245,Christopher Smith -TSC Package,WT_Interface\Item\Forge\Christopher_TSC_Package.dtx,70,70,1,1,1,2,17,1
+130984,1026,14246,Pedro Gomes -TSC Package,WT_Interface\Item\Forge\Pedro_TSC_Package.dtx,70,70,1,1,1,2,17,1
+131134,1027,14247,Hamadah bin Shabah -TSC Package,WT_Interface\Item\Forge\Hamadah_TSC_Package.dtx,70,70,1,1,1,2,17,1
+131302,1028,14248,Yigit Demir-TSC Package,WT_Interface\Item\Forge\Yigit_TSC_Package.dtx,70,70,1,1,1,2,17,1
+131450,1029,14249,Geremi Song -TSC Package,WT_Interface\Item\Forge\Geremi_TSC_Package.dtx,70,70,1,1,1,2,17,1

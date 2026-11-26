@@ -1,0 +1,160 @@
+name: wolfteam2013
+
+# WolfTeam 2013 stack: PostgreSQL, the normal game server, and the Ladder and
+# Pride Battle channel servers (the migrations advertise their channel rows).
+# The client's broker port 40706 is fixed in XFS Server.txt, so this stack
+# cannot run at the same time as another WolfTeam stack that uses 40706.
+
+x-game-common: &game-common
+  build:
+    context: ../go-gameserver
+  restart: unless-stopped
+  depends_on:
+    migrate:
+      condition: service_completed_successfully
+  healthcheck:
+    test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1:8080/healthz"]
+    interval: 10s
+    timeout: 5s
+    retries: 10
+    start_period: 10s
+
+x-game-env: &game-env
+  WT_DATABASE_URL: postgres://${DB_USER:-wolfteam}:${DB_PASSWORD:-wolfteam_local_password}@postgres:5432/wolfteam?sslmode=disable
+  WT_LISTEN_HOST: 0.0.0.0
+  WT_ADVERTISED_IP: ${ADVERTISED_IP:-127.0.0.1}
+  WT_PUBLIC_IP: ${PUBLIC_IP:-127.0.0.1}
+  WT_PEER_ENDPOINT_MODE: ${PEER_ENDPOINT_MODE:-2}
+  WT_PATCH_PORT: 8080
+  WT_PATCH_LAUNCHER_VERSION: ${LAUNCHER_PATCH_VERSION:-20}
+  WT_PATCH_GAME_VERSION: ${GAME_PATCH_VERSION:-377}
+  WT_PATCH_DIR: /app/patches
+  WT_PATCH_PUBLIC_URL: ${PATCH_PUBLIC_URL:-}
+  WT_SHOPDATA_PATH: /app/data/shopdata.dat
+  WT_LUCKYBOXDATA_PATH: /app/data/bighitboxitem.dat
+  # 2013 TR ships the complete W-Pack dialog (Wpack_bg, Wpack_button_yes/no).
+  WT_WPACK_ENABLED: ${WT_WPACK_ENABLED:-true}
+  # Set WT_CLIENT_2012=true when connecting with the September 2012 TR client.
+  WT_CLIENT_2012: ${WT_CLIENT_2012:-false}
+
+x-game-volumes: &game-volumes
+  - ./patches:/app/patches:ro
+  - ../go-gameserver/shopdata.dat:/app/data/shopdata.dat:ro
+  - ../go-gameserver/setitemdata.dat:/app/data/setitemdata.dat:ro
+  - ../go-gameserver/bighitboxitem.dat:/app/data/bighitboxitem.dat:ro
+
+services:
+  postgres:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: wolfteam
+      POSTGRES_USER: ${DB_USER:-wolfteam}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-wolfteam_local_password}
+    ports:
+      - "${DB_BIND_IP:-127.0.0.1}:${DB_PORT:-5436}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres.sql:/docker-entrypoint-initdb.d/001-wolfteam.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+      start_period: 10s
+
+  migrate:
+    image: postgres:17-alpine
+    restart: "no"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PGHOST: postgres
+      PGPORT: 5432
+      PGDATABASE: wolfteam
+      PGUSER: ${DB_USER:-wolfteam}
+      PGPASSWORD: ${DB_PASSWORD:-wolfteam_local_password}
+    volumes:
+      - ./migrations:/migrations:ro
+    command: ["sh", "-c", "for migration in /migrations/*.sql; do psql --set ON_ERROR_STOP=1 --file \"$$migration\"; done"]
+
+  game:
+    <<: *game-common
+    environment:
+      <<: *game-env
+      WT_GAME_PORT: 40707
+      WT_BOT_PEER_PORT_BASE: 40708
+      WT_BUDDY_PORT: 40709
+      WT_RELAY_PORT: 40710
+      # In-game ranking menu web module (advertised in 0x050E).
+      WT_RANKING_PORT: 40719
+      WT_RELAY_PORT_BASE: 41000
+      # Apex anti-cheat update root (avital\Config.ini URL1).
+      WT_APEX_WEB_DIR: /app/apex-web
+      WT_NOTICE_WEB_DIR: /app/notice-web
+    volumes:
+      - ./patches:/app/patches:ro
+      - ../go-gameserver/shopdata.dat:/app/data/shopdata.dat:ro
+      - ../go-gameserver/setitemdata.dat:/app/data/setitemdata.dat:ro
+      - ../go-gameserver/bighitboxitem.dat:/app/data/bighitboxitem.dat:ro
+      - ${APEX_WEB_DIR:-./apex-web}:/app/apex-web:ro
+      # Img/ServerNotice/NoticeInfo.txt -> http://127.0.0.1/softnyx/game/Notice/
+      - ../notice:/app/notice-web:ro
+    ports:
+      # 80: Apex web root (avital\Config.ini). 8080: wt_launcher.py
+      # (launcher_settings.json server_url, /healthz and /register).
+      - "${HTTP_PORT:-80}:8080/tcp"
+      - "${LAUNCHER_HTTP_PORT:-8080}:8080/tcp"
+      - "8444:8444/tcp"
+      - "40706:40706/tcp"
+      - "40707:40707/tcp"
+      - "40707:40707/udp"
+      - "40708:40708/udp"
+      - "40709:40709/tcp"
+      - "40710:40710/udp"
+      - "40719:40719/tcp"
+      - "41000-41099:41000-41099/udp"
+
+  ladder:
+    <<: *game-common
+    environment:
+      <<: *game-env
+      WT_GAME_PORT: 40711
+      WT_BOT_PEER_PORT_BASE: 40712
+      WT_BUDDY_PORT: 40714
+      WT_RELAY_PORT: 40713
+      WT_RANKING_PORT: 40720
+      WT_RELAY_PORT_BASE: 41100
+    volumes: *game-volumes
+    ports:
+      - "40711:40711/tcp"
+      - "40711:40711/udp"
+      - "40712:40712/udp"
+      - "40714:40714/tcp"
+      - "40713:40713/udp"
+      - "40720:40720/tcp"
+      - "41100-41199:41100-41199/udp"
+
+  pride:
+    <<: *game-common
+    environment:
+      <<: *game-env
+      WT_GAME_PORT: 40715
+      WT_BOT_PEER_PORT_BASE: 40716
+      WT_BUDDY_PORT: 40718
+      WT_RELAY_PORT: 40717
+      WT_RANKING_PORT: 40721
+      WT_RELAY_PORT_BASE: 41200
+    volumes: *game-volumes
+    ports:
+      - "40715:40715/tcp"
+      - "40715:40715/udp"
+      - "40716:40716/udp"
+      - "40718:40718/tcp"
+      - "40717:40717/udp"
+      - "40721:40721/tcp"
+      - "41200-41299:41200-41299/udp"
+
+volumes:
+  postgres_data:

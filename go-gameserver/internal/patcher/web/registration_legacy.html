@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <title>Community Server Account Registration</title>
+  <link rel="stylesheet" type="text/css" href="/assets/registration-legacy.css">
+</head>
+<body>
+  <div id="legacy-page">
+    <div id="legacy-header">
+      <div class="legacy-logo">COMMUNITY SERVER</div>
+      <div class="legacy-subtitle">INDEPENDENT PROJECT</div>
+    </div>
+
+    <table class="legacy-layout" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+        <td class="legacy-briefing" valign="top">
+          <div class="legacy-kicker">NEW OPERATIVE INTAKE</div>
+          <h1>CREATE YOUR<br><span>ACCOUNT</span></h1>
+          <p>Use this account in both the community launcher and game. Your username becomes your first callsign.</p>
+
+          <table class="legacy-kit" cellspacing="1" cellpadding="0" border="0">
+            <tr><th colspan="2">INITIAL DEPLOYMENT KIT</th></tr>
+            <tr><td><b>100,000</b><br>Gold</td><td><b>100,000</b><br>Wolf Coin</td></tr>
+            <tr><td><b>100,000</b><br>Cash</td><td><b>2</b><br>Default characters</td></tr>
+          </table>
+        </td>
+        <td class="legacy-form-cell" valign="top">
+          <div class="legacy-form-title">CREATE ACCOUNT</div>
+
+          {{if .Created}}<div class="legacy-success"><b>Account created.</b><br>You can now sign in through the launcher.</div>{{end}}
+          {{if .Error}}<div class="legacy-error-box"><b>Registration incomplete.</b><br>{{.Error}}</div>{{end}}
+
+          <form method="post" action="/register?legacy=1">
+            <input type="hidden" name="csrf_token" value="{{.CSRFToken}}">
+
+            <label for="username">USERNAME / CALLSIGN</label>
+            <input class="legacy-input" id="username" name="username" type="text" value="{{.Username}}" maxlength="12">
+            <div class="legacy-help">3-12 letters, numbers, or underscores.</div>
+            {{with index .FieldError "username"}}<div class="legacy-field-error">{{.}}</div>{{end}}
+
+            <label for="password">PASSWORD</label>
+            <input class="legacy-input" id="password" name="password" type="password" maxlength="64">
+            <div class="legacy-help">Use 8-64 characters.</div>
+            {{with index .FieldError "password"}}<div class="legacy-field-error">{{.}}</div>{{end}}
+
+            <label for="password_confirmation">CONFIRM PASSWORD</label>
+            <input class="legacy-input" id="password_confirmation" name="password_confirmation" type="password" maxlength="64">
+            {{with index .FieldError "password_confirmation"}}<div class="legacy-field-error">{{.}}</div>{{end}}
+
+            <div class="legacy-consent">
+              <input id="account_notice" name="account_notice" type="checkbox" value="accepted">
+              <label for="account_notice">I will keep my account credentials private.</label>
+            </div>
+            {{with index .FieldError "account_notice"}}<div class="legacy-field-error">{{.}}</div>{{end}}
+
+            <input class="legacy-submit" type="submit" value="CREATE OPERATIVE">
+          </form>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+INSERT INTO inventory (user_id, item_id, type, expiry, quantity) SELECT id, 10027, 0, 'permanent', 1 FROM users WHERE NOT EXISTS (SELECT 1 FROM inventory WHERE inventory.user_id = users.id AND item_id = 10027);

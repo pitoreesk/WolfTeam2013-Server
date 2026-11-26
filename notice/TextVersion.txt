@@ -1,0 +1,4 @@
+ExitemText.dat	10
+UpgradeText.dat	10
+WeaponText.dat	10
+StringTable.dat	10

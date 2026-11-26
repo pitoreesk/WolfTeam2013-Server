@@ -1,0 +1,3 @@
+ALTER TABLE users
+    ADD COLUMN IF NOT EXISTS wins integer NOT NULL DEFAULT 0 CHECK (wins >= 0),
+    ADD COLUMN IF NOT EXISTS losses integer NOT NULL DEFAULT 0 CHECK (losses >= 0);

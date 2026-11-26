@@ -1,0 +1,74 @@
+pack_item_id,pack_label,position,item_id,days,item_shop_family,item_pricing_mode,item_detailed_category,item_on_sale_flag,item_origin,item_name_2012_text
+14901,2012 Rifle Pack A,1,3137,7,1,2,1,0,new_in_2012,
+14901,2012 Rifle Pack A,2,3140,7,1,2,1,0,new_in_2012,
+14901,2012 Rifle Pack A,3,3200,7,1,2,1,0,new_in_2012,
+14901,2012 Rifle Pack A,4,3250,7,1,2,1,0,new_in_2012,
+14901,2012 Rifle Pack A,5,3300,7,1,2,1,0,new_in_2012,
+14901,2012 Rifle Pack A,6,10017,7,1,2,15,1,also_2011,İntihar Engelleyici
+14902,2012 Rifle Pack B,1,3138,7,1,2,1,0,new_in_2012,
+14902,2012 Rifle Pack B,2,3141,7,1,2,1,0,new_in_2012,
+14902,2012 Rifle Pack B,3,3201,7,1,2,1,0,new_in_2012,
+14902,2012 Rifle Pack B,4,3251,7,1,2,1,0,new_in_2012,
+14902,2012 Rifle Pack B,5,3253,7,1,2,1,0,new_in_2012,
+14902,2012 Rifle Pack B,6,10016,7,1,2,15,1,also_2011,Sıfır Ceza Etkisi
+14903,2012 Rifle Pack C,1,3139,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,2,3142,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,3,3143,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,4,3202,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,5,3203,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,6,3252,7,1,2,1,0,new_in_2012,
+14903,2012 Rifle Pack C,7,3399,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,1,6027,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,2,6028,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,3,6029,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,4,6030,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,5,6031,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,6,6032,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,7,6033,7,1,2,1,0,new_in_2012,
+14904,2012 Sniper Pack,8,6040,7,1,2,1,0,new_in_2012,
+14905,2012 Heavy Weapon Pack,1,7100,7,1,2,1,0,new_in_2012,
+14905,2012 Heavy Weapon Pack,2,7101,7,1,2,1,0,new_in_2012,
+14905,2012 Heavy Weapon Pack,3,7200,7,1,2,1,0,new_in_2012,
+14905,2012 Heavy Weapon Pack,4,7507,7,1,2,1,0,new_in_2012,EM249 Minimi
+14905,2012 Heavy Weapon Pack,5,7509,7,1,2,1,0,new_in_2012,EMG-42
+14905,2012 Heavy Weapon Pack,6,7511,7,1,2,1,0,new_in_2012,EM249 Minimi GL
+14905,2012 Heavy Weapon Pack,7,7513,7,1,2,1,0,new_in_2012,EMG-42 PX
+14906,2012 Side Arms Pack,1,1017,7,1,2,2,1,new_in_2012,SODB Shotgun
+14906,2012 Side Arms Pack,2,2009,7,1,2,3,0,new_in_2012,
+14906,2012 Side Arms Pack,3,2011,7,1,2,3,0,new_in_2012,
+14906,2012 Side Arms Pack,4,2013,7,1,2,3,0,new_in_2012,
+14906,2012 Side Arms Pack,5,5016,7,1,2,1,0,new_in_2012,
+14906,2012 Side Arms Pack,6,9800,7,1,2,4,0,new_in_2012,AT-3G
+14907,Wolf Ability Pack,1,10086,7,1,2,15,1,new_in_2012,Buz Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,2,10087,7,1,2,15,1,new_in_2012,Çılgın Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,3,10088,7,1,2,15,1,new_in_2012,Gardiyan Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,4,10089,7,1,2,15,1,new_in_2012,Zeki Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,5,10090,7,1,2,15,1,new_in_2012,Deli Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,6,10091,7,1,2,15,1,new_in_2012,Güçlü Kurt Yetenek Geliştirme
+14907,Wolf Ability Pack,7,19602,7,1,2,7,0,new_in_2012,Kurt Pençesi
+14908,2012 Character Pack,1,30029,7,1,2,8,0,new_in_2012,
+14908,2012 Character Pack,2,30030,7,1,2,8,0,new_in_2012,
+14908,2012 Character Pack,3,30031,7,1,2,8,0,new_in_2012,
+14908,2012 Character Pack,4,30032,7,1,2,8,0,new_in_2012,
+14908,2012 Character Pack,5,30033,7,1,2,9,0,new_in_2012,
+14908,2012 Character Pack,6,30034,7,1,2,9,0,new_in_2012,
+14909,2012 Costume Pack,1,31265,30,1,2,11,1,new_in_2012,
+14909,2012 Costume Pack,2,31266,30,1,2,11,1,new_in_2012,
+14909,2012 Costume Pack,3,31267,30,1,2,11,1,new_in_2012,
+14909,2012 Costume Pack,4,31268,30,1,2,11,1,new_in_2012,
+14909,2012 Costume Pack,5,32211,30,1,2,12,1,new_in_2012,
+14909,2012 Costume Pack,6,32212,30,1,2,12,1,new_in_2012,
+14909,2012 Costume Pack,7,32213,30,1,2,12,1,new_in_2012,
+14909,2012 Costume Pack,8,32214,30,1,2,12,1,new_in_2012,
+14909,2012 Costume Pack,9,33133,30,1,2,13,1,new_in_2012,
+14909,2012 Costume Pack,10,33134,30,1,2,13,1,new_in_2012,
+14909,2012 Costume Pack,11,33135,30,1,2,13,1,new_in_2012,
+14909,2012 Costume Pack,12,33436,30,1,2,13,1,new_in_2012,
+14910,2012 Premium Mix Pack,1,3300,30,1,2,1,0,new_in_2012,
+14910,2012 Premium Mix Pack,2,6030,30,1,2,1,0,new_in_2012,
+14910,2012 Premium Mix Pack,3,7200,30,1,2,1,0,new_in_2012,
+14910,2012 Premium Mix Pack,4,2013,30,1,2,3,0,new_in_2012,
+14910,2012 Premium Mix Pack,5,9800,30,1,2,4,0,new_in_2012,AT-3G
+14910,2012 Premium Mix Pack,6,30044,30,1,2,8,0,new_in_2012,
+14910,2012 Premium Mix Pack,7,30043,30,1,2,9,0,new_in_2012,
+14910,2012 Premium Mix Pack,8,10092,30,1,2,15,1,new_in_2012,Güç Yöneticisi Özellikleri

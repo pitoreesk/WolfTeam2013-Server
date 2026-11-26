@@ -1,0 +1,98 @@
+package game
+
+type characterFaction byte
+
+const (
+	characterFactionBlue characterFaction = 0
+	characterFactionRed  characterFaction = 1
+)
+
+// characterFactions records the team assignment required to validate a
+// selected character. IDs 11001..11006 are shared templates and are excluded.
+var characterFactions = map[int]characterFaction{
+	30001: characterFactionBlue,
+	30002: characterFactionBlue,
+	30003: characterFactionRed,
+	30004: characterFactionRed,
+	30005: characterFactionBlue,
+	30006: characterFactionRed,
+	30007: characterFactionBlue,
+	30008: characterFactionBlue,
+	30009: characterFactionRed,
+	30010: characterFactionRed,
+	30011: characterFactionBlue,
+	30012: characterFactionBlue,
+	30013: characterFactionRed,
+	30014: characterFactionRed,
+	30015: characterFactionBlue,
+	30016: characterFactionBlue,
+	30017: characterFactionRed,
+	30018: characterFactionRed,
+	30019: characterFactionRed,
+	30020: characterFactionBlue,
+	30021: characterFactionRed,
+	30022: characterFactionBlue,
+	30023: characterFactionBlue,
+	30024: characterFactionBlue,
+	30025: characterFactionRed,
+	30026: characterFactionRed,
+	30027: characterFactionBlue,
+	30028: characterFactionBlue,
+	30029: characterFactionRed,
+	30030: characterFactionRed,
+	30031: characterFactionRed,
+	30032: characterFactionRed,
+	30033: characterFactionBlue,
+	30034: characterFactionBlue,
+	30035: characterFactionRed,
+	30036: characterFactionRed,
+	30037: characterFactionBlue,
+	30038: characterFactionBlue,
+	30039: characterFactionRed,
+	30040: characterFactionRed,
+	30041: characterFactionBlue,
+	30042: characterFactionBlue,
+	30043: characterFactionBlue,
+	30044: characterFactionRed,
+	30045: characterFactionRed,
+	30046: characterFactionRed,
+	30047: characterFactionBlue,
+	30048: characterFactionBlue,
+	30049: characterFactionBlue,
+	30050: characterFactionRed,
+	30051: characterFactionRed,
+	30052: characterFactionBlue,
+	30053: characterFactionRed,
+	30054: characterFactionRed,
+	30055: characterFactionBlue,
+	30056: characterFactionBlue,
+	30057: characterFactionRed,
+	30058: characterFactionRed,
+	30059: characterFactionBlue,
+	30060: characterFactionBlue,
+	30061: characterFactionRed,
+	30062: characterFactionRed,
+	30063: characterFactionBlue,
+	30064: characterFactionBlue,
+	30065: characterFactionRed,
+	30066: characterFactionRed,
+	30067: characterFactionBlue,
+	30068: characterFactionBlue,
+	30069: characterFactionRed,
+	30070: characterFactionRed,
+	30071: characterFactionBlue,
+	30072: characterFactionBlue,
+	30073: characterFactionBlue,
+	30074: characterFactionBlue,
+	30075: characterFactionRed,
+	30076: characterFactionRed,
+	30077: characterFactionRed,
+	30078: characterFactionBlue,
+	30079: characterFactionRed,
+	30080: characterFactionBlue,
+}
+
+func characterHasFaction(itemID int, faction characterFaction) bool {
+	actual, ok := characterFactions[itemID]
+	return ok && actual == faction
+}

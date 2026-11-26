@@ -1,0 +1,405 @@
+item_id,name,description_from
+1020,ZIGANA,1012
+1030,GUMUS KURSUN,1001
+2015,WSW,2013
+2017,KK,2005
+2019,KL,2017
+3254,CX4-Storm SL,3252
+3303,EXK-8 PX,3300
+3900,ELWRCi M6A2 F.E. 1,3058
+3901,ELWRCi M6A2 F.E. 2,3900
+3902,ELWRCi M6A2 F.E. 3,3900
+3903,ELWRCi M6A2 F.E. 4,3900
+3904,ELWRCi M6A2 F.E. 5,3900
+3910,ELWRCi M6A2 L.E. 1,3900
+3911,ELWRCi M6A2 L.E. 2,3901
+3912,ELWRCi M6A2 L.E. 3,3902
+3913,ELWRCi M6A2 L.E. 4,3903
+3914,ELWRCi M6A2 L.E. 5,3904
+6041,ESL-8 AT,6026
+6100,KANAS Classic,3101
+6200,EM-200 C,8602
+6201,EM-200 DCF,6200
+6202,EM-200 BGG,6200
+6203,EM-200 AT,6200
+7102,AAA-12 GL,7100
+7110,SUPAS-15,7001
+7111,SUPAS-15 SCF,7110
+7112,SUPAS-15 Flame,7111
+7113,SUPAS-15 AT,7110
+7201,EM-1014 MC,3072
+9034,Wolf Bowl Grenade,9002
+10033,Özel Malzeme,17008
+12205,Mommoth DB Dövmesi (Sırt),12199
+12206,Flame DB Dövmesi (Sırt),12200
+12207,Shark DB Dövmesi (Sırt),12201
+12208,Haitai GL Dövmesi (Sırt),12151
+12209,Smilodon DR Dövmesi (Sırt),12076
+12210,Full Moon Dövmesi (Sırt),12193
+12211,Anchor DR Dövmesi (Sırt),12190
+12212,Horus DR Dövmesi (Sırt),12191
+12213,G-Triceratops DR Dövmesi (Sırt),12192
+12214,Sun GL Dövmesi (Sırt),12193
+12215,Joy Game Dövmesi (Sırt),12200
+12216,Wolf Bowl Dövmesi (Sırt),12195
+12217,Thunder Dövmesi (Sırt),12201
+12218,Thunder DR Dövmesi (Sırt),12217
+12219,Thunder SP Dövmesi (Sırt),12217
+12220,Star Dövmesi (Sırt),12201
+12221,Star DB Dövmesi (Sırt),12207
+12222,Star SP Dövmesi (Sırt),12220
+12223,Cyclone Dövmesi (Sırt),12200
+12224,Cyclone DP Dövmesi (Sırt),12223
+12225,Cyclone SP Dövmesi (Sırt),12224
+12226,Turkey Flag Dövmesi (Sırt),12203
+14238,M-1014 MC Paketi,14047
+14239,Haitai GL Dövmesi Paketi,14059
+14240,Smilodon DR Dövmesi Paketi,14079
+14241,I-115 T Flame Paketi,14002
+14242,Duane Eddy Special Parts Package,14107
+14243,William Kroll Special Parts Package,14107
+14244,Moon Package,14213
+14245,Christopher Smith -TSC Package,14071
+14246,Pedro Gomes -TSC Package,14042
+14247,Hamadah bin Shabah -TSC Package,14245
+14248,Yigit Demir-TSC Package,14245
+14249,Geremi Song -TSC Package,14246
+14250,Feast of the Sacrifice Package,14042
+14251,Güneş Dövmesi Seti (GL),14059
+14252,Tomita Kurt Görünüm Paketi,14152
+14253,Yigit Kurt Görünüm Paketi,14252
+14254,Illude Kurt Görünüm Paketi,14153
+14255,Geremi Kurt Görünüm Paketi,14153
+14256,Alexsandro Kurt Görünüm Paketi,14153
+14257,Sarah Kurt Görünüm Paketi,14155
+14258,Matt Kurt Görünüm Paketi,14157
+14259,Kate Kurt Görünüm Paketi,14258
+14260,Yapay Zeka Malzemesi (Zor),14237
+14261,Günlük Silah Seti,14065
+14262,Günlük Malzeme Seti,14066
+14263,Günlük Paket,14067
+14264,Lüks Paket,14263
+14265,Prestij Paketi,14042
+14266,Majestik Paket,14043
+14267,Duane Eddy Altın Görünüm Paketi,14259
+14268,William Kroll Altın Görünüm Paketi,14243
+14269,Character Pack (2G),14151
+14270,Character Pack (3G),14269
+14271,Character Pack (4G),14269
+14272,Character Pack (1G SE),14269
+14273,Character Pack (2G SE),14272
+14274,Character Pack (3G SE),14272
+14275,Character Pack (1G Soccer),14272
+14276,Character Pack (2G Soccer),14275
+14277,Character Pack (Turkey Soccer),14275
+14278,Character Pack (3G SWAT),14274
+14279,Character Pack (4G Christmas),14271
+14280,Character Pack (3G Suit),14274
+14281,Joy Game Dövmesi Seti,14212
+14282,Character Pack (1st Adult Edition),14280
+14283,Wolf Bowl Dövmesi Seti,14281
+14284,Duane Eddy B Parça Seti,14242
+14285,Duane Eddy C Parts Set,14284
+14286,William Kroll B Parça Seti,14243
+14287,William Kroll C Parts Set,14286
+14288,Christopher A Parça Seti,14105
+14289,Christopher B Parça Seti,14288
+14290,Angela A Parça Seti,14104
+14291,Angela B Parça Seti,14290
+14292,Pedro A Parça Seti,14290
+14293,Pedro B Parça Seti,14292
+14294,Adriana A Parça Seti,14290
+14295,Adriana B Parça Seti,14294
+14296,Reinhard A Parça Seti,14292
+14297,Reinhard B Parça Seti,14296
+14298,Marien A Parça Seti,14294
+14299,Marien B Parça Seti,14298
+14300,Hamadah A Parça Seti,14294
+14301,Hamadah B Parça Seti,14300
+14302,Lin A Parça Seti,14298
+14303,Lin B Parça Seti,14302
+14304,Yigit A Parça Seti,14302
+14305,Yigit B Parça Seti,14304
+14306,Tomita A Parça Seti,14304
+14307,Tomita B Parça Seti,14306
+14308,Geremi A Parça Seti,14292
+14309,Geremi B Parça Seti,14308
+14310,Ivanov A Parça Seti,14302
+14311,Ivanov B Parça Seti,14310
+14312,Riccardo A Parça Seti,14296
+14313,Riccardo B Parça Seti,14312
+14314,Sarah A Parça Seti,14300
+14315,Sarah B Parça Seti,14314
+14316,Matt A Parça Seti,14298
+14317,Matt B Parça Seti,14316
+14318,Kate A Parça Seti,14316
+14319,Kate B Parça Seti,14318
+14320,Character Pack (4G SE),14272
+14321,Character Pack (3G Valentine),14280
+14322,Yıldırım Dövmesi Seti,14059
+14323,Yıldırım Dövmesi Seti (DR),14322
+14324,Yıldırım Dövmesi Seti (SP),14323
+14325,Yıldız Dövmesi Seti,14322
+14326,Yıldız Dövmesi Seti (DB),14325
+14327,Yıldız Dövmesi Seti (SP),14324
+14328,Kasırga Dövmesi Seti,14059
+14329,Kasırga Dövmesi Seti (DP),14328
+14330,Kasırga Dövmesi Seti (SP),14329
+14331,Türk Bayrağı Dövmesi Seti,14059
+14899,Ramazan Paketi,14064
+15077,500 GP Coupon,15076
+15078,1K GP Coupon,15076
+15079,1500 GP Coupon,15076
+15080,2K GP Coupon,15078
+15081,2500 GP Coupon,15077
+15082,3K GP Coupon,15078
+15083,4K GP Coupon,15078
+15084,5K GP Coupon,15078
+15085,6K GP Coupon,15078
+15086,7500 GP Coupon,15077
+15087,8K GP Coupon,15078
+15088,9K GP Coupon,15078
+15089,10K GP Coupon,15078
+15090,15K GP Coupon,15078
+15091,20K GP Coupon,15080
+15092,25K GP Coupon,15080
+15093,30K GP Coupon,15082
+15094,40K GP Coupon,15083
+15095,45K GP Coupon,15083
+15096,50K GP Coupon,15084
+15097,60K GP Coupon,15085
+15098,70K GP Coupon,15089
+15099,75K GP Coupon,15084
+15100,80K GP Coupon,15087
+15101,90K GP Coupon,15088
+15102,100K GP Coupon,15076
+15103,150K GP Coupon,15089
+15104,200K GP Coupon,15091
+15105,250K GP Coupon,15091
+15106,300K GP Coupon,15093
+15107,400K GP Coupon,15094
+15108,500K GP Coupon,15077
+15109,600K GP Coupon,15097
+15110,700K GP Coupon,15098
+15111,750K GP Coupon,15096
+15112,800K GP Coupon,15100
+15113,900K GP Coupon,15101
+15114,1000K GP Coupon,15102
+17017,Yeni Yıl Jackpot Kutusu,17010
+17018,Sevgililer Günü Jackpot Kutusu,17017
+17019,Kurt Parası Kutusu,17010
+19610,Kurt Yeteneği - Hızlı Atılma,19606
+20065,Mommoth DB Dövmesi (Sol),12205
+20066,Flame DB Dövmesi (Sol),12206
+20067,Shark DB Dövmesi (Sol),12207
+20068,Haitai GL Dövmesi (Sol),12208
+20069,Smilodon DR Dövmesi (Sol),12209
+20070,Full Moon Dövmesi (Sol),12210
+20071,Anchor DR Dövmesi (Sol),20054
+20072,Horus DR Dövmesi (Sol),20055
+20073,G-Triceratops DR Dövmesi (Sol),12213
+20074,Sun GL Dövmesi (Sol),12214
+20075,Joy Game Dövmesi (Sol),12215
+20076,Wolf Bowl Dövmesi (Sol),12216
+20077,Thunder Dövmesi (Sol),12217
+20078,Thunder DR Dövmesi (Sol),12218
+20079,Thunder SP Dövmesi (Sol),12219
+20080,Star Dövmesi (Sol),12220
+20081,Star DB Dövmesi (Sol),12221
+20082,Star SP Dövmesi (Sol),12222
+20083,Cyclone Dövmesi (Sol),12223
+20084,Cyclone DP Dövmesi (Sol),12224
+20085,Cyclone SP Dövmesi (Sol),12225
+20086,Turkey Flag Dövmesi (Sol),12226
+21081,Mommoth DB Dövmesi (Sağ),12205
+21082,Flame DB Dövmesi (Sağ),12206
+21083,Shark DB Dövmesi (Sağ),12207
+21084,Haitai GL Dövmesi (Sağ),12208
+21085,Smilodon DR Dövmesi (Sağ),12209
+21086,Full Moon Dövmesi (Sağ),12210
+21087,Anchor DR Dövmesi (Sağ),21070
+21088,Horus DR Dövmesi (Sağ),21071
+21089,G-Triceratops DR Dövmesi (Sağ),12213
+21090,Sun GL Dövmesi (Sağ),12214
+21091,Joy Game Dövmesi (Sağ),12215
+21092,Wolf Bowl Dövmesi (Sağ),12216
+21093,Thunder Dövmesi (Sağ),12217
+21094,Thunder DR Dövmesi (Sağ),12218
+21095,Thunder SP Dövmesi (Sağ),12219
+21096,Star Dövmesi (Sağ),12220
+21097,Star DB Dövmesi (Sağ),12221
+21098,Star SP Dövmesi (Sağ),12222
+21099,Cyclone Dövmesi (Sağ),12223
+21100,Cyclone DP Dövmesi (Sağ),12224
+21101,Cyclone SP Dövmesi (Sağ),12225
+21102,Turkey Flag Dövmesi (Sağ),12226
+30039,Angela SF,30013
+30040,Christopher SF,30013
+30041,Adriana SF,30024
+30042,Pedro SF,30041
+30048,Tomita Yasuko SE,30015
+30049,Yigit Demir SE,30016
+30050,Illude Vaganova Ivanov SE,30017
+30051,Geremi Song SE,30018
+30052,Yavuz Selim,30048
+30053,Geremi Song(3G)-SWAT,30046
+30054,Illude Vaganova Ivanov(3G)-SWAT,30017
+30055,Yigit Demir(3G)-SWAT,30047
+30056,Tomita Yasuko(3G)-SWAT,30015
+30057,Matt Baker(4G)-ECC,30029
+30058,Kate Blume(4G)-ECC,30057
+30059,Alexsandro Del Riccardo(4G)-ECC,30027
+30060,Sarah Linda(4G)-ECC,30028
+30061,Geremi Song(3G)-Suit,30046
+30062,Illude Vaganova Ivanov(3G)-Suit,30054
+30063,Yigit Demir(3G)-Suit,30047
+30064,Tomita Yasuko(3G)-Suit,30056
+30065,Geremi Song(3G)-EVT,30046
+30066,Illude Vaganova Ivanov(3G)-EVT,30054
+30067,Yigit Demir(3G)-EVT,30047
+30068,Tomita Yasuko(3G)-EVT,30056
+30069,Matt Baker SE,30029
+30070,Kate Blume SE,30030
+30071,Alexsandro Del Riccardo SE,30027
+30072,Sarah Linda SE,30028
+31289,DE-H13A+ Helmet,31134
+31290,DE-H14A+ Gözlük,31258
+31291,DE-H15A+ Mask,31262
+31292,WK-H13A+ Cap,31003
+31293,WK-H14A+ Gözlük,31290
+31294,WK-H15A+ Mask,31291
+31295,TY-H16A+ Wolf Helmet,31159
+31296,TY-H17A+ Wolf Goggle,31167
+31297,TY-H18A+ Wolf Mask,31166
+31298,YD-H16A+ Wolf Helmet,31295
+31299,YD-H17A+ Wolf Goggle,31296
+31300,YD-H18A+ Wolf Mask,31297
+31301,IV-H16A+ Wolf Helmet,31295
+31302,IV-H17A+ Wolf Goggle,31296
+31303,IV-H18A+ Wolf Mask,31297
+31304,GS-H16A+ Wolf Helmet,31295
+31305,GS-H17A+ Wolf Goggle,31296
+31306,GS-H18A+ Wolf Mask,31175
+31307,AR-H05A+ Wolf Helmet,31159
+31308,AR-H06A+ Wolf Goggle,31161
+31309,AR-H07A+ Wolf Mask,31160
+31310,SL-H05A+ Wolf Helmet,31307
+31311,SL-H06A+ Wolf Goggle,31308
+31312,SL-H07A+ Wolf Mask,31309
+31313,MB-H05A+ Wolf Helmet,31307
+31314,MB-H06A+ Wolf Goggle,31308
+31315,MB-H07A+ Wolf Mask,31309
+31316,KB-H05A+ Wolf Helmet,31313
+31317,KB-H06A+ Wolf Goggle,31314
+31318,KB-H07A+ Wolf Mask,31315
+31319,DE-H16A+ Gold Helmet,31298
+31320,DE-H17A+ Gold Gözlük,31299
+31321,DE-H18a+ Gold Mask,31300
+31322,WK-H16a+ Gold Cap,31292
+31323,WK-H17a+ Gold Gözlük,31320
+31324,WK-H18a+ Gold Mask,31321
+31325,TY-H19A Gözlük,31257
+31326,YD-H19A Gözlük,31325
+31327,IV-H19A Gözlük,31259
+31328,GS-H19A Gözlük,31260
+32231,DE-U10A+ Yelek,32140
+32232,DE-U11A+ Dirseklik,32068
+32233,DE-U12A+ Eldiven,32224
+32234,WK-U11A+ Yelek,32231
+32235,WK-U12A+ Dirseklik,32213
+32236,WK-U13A+ Eldiven,32217
+32237,TY-U13B Eldiven,32223
+32238,YD-U13B Eldiven,32237
+32239,IV-U13B Eldiven,32225
+32240,GS-U13B Eldiven,32111
+32241,TY-U14A+ Wolf Yelek,32115
+32242,TY-U15A+ Wolf Dirseklik,32122
+32243,TY-U16A+ Wolf Eldiven,32123
+32244,YD-U14A+ Wolf Yelek,32241
+32245,YD-U15A+ Wolf Dirseklik,32242
+32246,YD-U16A+ Wolf Eldiven,32243
+32247,IV-U14A+ Wolf Yelek,32241
+32248,IV-U15A+ Wolf Dirseklik,32242
+32249,IV-U16A+ Wolf Eldiven,32243
+32250,GS-U14A+ Wolf Yelek,32118
+32251,GS-U15A+ Wolf Dirseklik,32119
+32252,GS-U16A+ Wolf Eldiven,32120
+32253,AR-U05A+ Wolf Yelek,32115
+32254,AR-U06A+ Wolf Dirseklik,32116
+32255,AR-U07A+ Wolf Eldiven,32117
+32256,SL-U05A+ Wolf Yelek,32253
+32257,SL-U06A+ Wolf Dirseklik,32254
+32258,SL-U07A+ Wolf Eldiven,32255
+32259,MB-U05A+ Wolf Yelek,32253
+32260,MB-U06A+ Wolf Dirseklik,32254
+32261,MB-U07A+ Wolf Eldiven,32255
+32262,KB-U05A+ Wolf Yelek,32259
+32263,KB-U06A+ Wolf Dirseklik,32260
+32264,KB-U07A+ Wolf Eldiven,32261
+32265,DE-U13a+ Gold Yelek,32244
+32266,DE-U14a+ Gold Dirseklik,32232
+32267,DE-U15a+ Gold Eldiven,32265
+32268,WK-U13a+ Gold Yelek,32265
+32269,WK-U14a+ Gold Dirseklik,32266
+32270,WK-U15a+ Gold Eldiven,32267
+32271,TY-U17A Dirseklik,32069
+32272,TY-U18B Dirseklik,32271
+32273,YD-U17A Dirseklik,32271
+32274,YD-U18B Dirseklik,32272
+32275,IV-U17A Dirseklik,32271
+32276,IV-U18B Dirseklik,32272
+32277,GS-U17A Dirseklik,32070
+32278,GS-U18B Dirseklik,32093
+32279,AR-U08B Dirseklik,32005
+32280,SL-U08B Dirseklik,32016
+32281,MB-U08B Dirseklik,32005
+32282,KB-U08B Dirseklik,32281
+32283,AR-U10B Eldiven,32025
+32284,SL-U10B Eldiven,32031
+32285,MB-U10B Eldiven,32025
+32286,KB-U10B Eldiven,32285
+33096,Kurt Yeteneği - Hızlı Atılma (Özel),19703
+33445,DE-L04A+ Dizlik,33042
+33446,DE-L05A+ Bot,33087
+33447,WK-L04A+ Dizlik,33445
+33448,WK-L05A+ Bot,33446
+33449,TY-L09B Bot,33007
+33450,YD-L09B Bot,33449
+33451,IV-L09B Bot,33088
+33452,GS-L09B Bot,33006
+33453,TY-L10A+ Wolf Dizlik,33074
+33454,TY-L11A+ Wolf Bot,33075
+33455,YD-L10A+ Wolf Dizlik,33453
+33456,YD-L11A+ Wolf Bot,33454
+33457,IV-L10A+ Wolf Dizlik,33453
+33458,IV-L11A+ Wolf Bot,33454
+33459,GS-L10A+ Wolf Dizlik,33453
+33460,GS-L11A+ Wolf Bot,33454
+33461,AR-L03A+ Wolf Dizlik,33070
+33462,AR-L04A+ Wolf Bot,33071
+33463,SL-L03A+ Wolf Dizlik,33459
+33464,SL-L04A+ Wolf Bot,33462
+33465,MB-L03A+ Wolf Dizlik,33461
+33466,MB-L04A+ Wolf Bot,33462
+33467,KB-L03A+ Wolf Dizlik,33465
+33468,KB-L04A+ Wolf Bot,33466
+33469,DE-L06a+ Gold Dizlik,33445
+33470,DE-L07a+ Gold Bot,33446
+33471,WK-L06a+ Gold Dizlik,33469
+33472,WK-L07a+ Gold Bot,33470
+33473,TY-L12A Dizlik,33015
+33474,TY-L13B Dizlik,33473
+33475,YD-L12A Dizlik,33473
+33476,YD-L13B Dizlik,33474
+33477,IV-L12A Dizlik,33473
+33478,IV-L13B Dizlik,33474
+33479,GS-L12A Dizlik,33134
+33480,GS-L13B Dizlik,33022
+33481,AR-L05B Dizlik,33051
+33482,SL-L05B Dizlik,33050
+33483,MB-L05B Dizlik,33050
+33484,KB-L05B Dizlik,33483
+33485,AR-L07B Bot,33034
+33486,SL-L07B Bot,33037
+33487,MB-L07B Bot,33034
+33488,KB-L07B Bot,33487

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Create a community game-server account.">
+  <title>Create account · Community Server</title>
+  <link rel="stylesheet" href="/assets/registration.css">
+  <script src="/assets/registration.js" defer></script>
+</head>
+<body>
+  <div class="ambient ambient--one" aria-hidden="true"></div>
+  <div class="ambient ambient--two" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Community Server home">
+      <span class="brand__mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span><strong>COMMUNITY</strong><small>SERVER // INDEPENDENT PROJECT</small></span>
+    </a>
+    <span class="server-status"><i aria-hidden="true"></i> Registration online</span>
+  </header>
+
+  <main class="shell">
+    <section class="briefing" aria-labelledby="page-title">
+      <p class="eyebrow"><span>01</span> New operative intake</p>
+      <h1 id="page-title">Choose your callsign.<br><em>Join the hunt.</em></h1>
+      <p class="lede">Create one account for the launcher and game. Your username becomes your first in-game callsign.</p>
+
+      <div class="loadout-card">
+        <div class="loadout-card__top">
+          <span>INITIAL DEPLOYMENT KIT</span>
+          <span class="loadout-card__code">WT // 061</span>
+        </div>
+        <div class="loadout-grid">
+          <div><strong>100K</strong><span>Gold</span></div>
+          <div><strong>100K</strong><span>Wolf Coin</span></div>
+          <div><strong>100K</strong><span>Cash</span></div>
+          <div><strong>02</strong><span>Characters</span></div>
+        </div>
+        <p>Starter weapons and the default red and blue characters are issued automatically.</p>
+      </div>
+
+      <ol class="steps" aria-label="Account setup steps">
+        <li class="steps__active"><span>01</span><b>Create identity</b></li>
+        <li><span>02</span><b>Open launcher</b></li>
+        <li><span>03</span><b>Deploy</b></li>
+      </ol>
+    </section>
+
+    <section class="registration-panel" aria-labelledby="form-title">
+      <div class="panel-heading">
+        <p>SECURE ACCOUNT PROVISIONING</p>
+        <h2 id="form-title">Create account</h2>
+        <span>Already equipped? Sign in through the launcher.</span>
+      </div>
+
+      {{if .Created}}
+      <div class="notice notice--success" role="status">
+        <span aria-hidden="true">✓</span>
+        <div><strong>Account ready for deployment</strong><p>Your account was created. You can now sign in through the community launcher.</p></div>
+      </div>
+      {{end}}
+      {{if .Error}}
+      <div class="notice notice--error" role="alert">
+        <span aria-hidden="true">!</span>
+        <div><strong>Registration incomplete</strong><p>{{.Error}}</p></div>
+      </div>
+      {{end}}
+
+      <form method="post" action="/register" novalidate data-registration-form>
+        <input type="hidden" name="csrf_token" value="{{.CSRFToken}}">
+
+        <div class="field{{if index .FieldError "username"}} field--error{{end}}">
+          <div class="field__label"><label for="username">Username / callsign</label><span>Required</span></div>
+          <div class="input-wrap">
+            <span class="input-icon" aria-hidden="true">ID</span>
+            <input id="username" name="username" type="text" value="{{.Username}}" minlength="3" maxlength="12" pattern="[A-Za-z0-9_]{3,12}" autocomplete="username" autocapitalize="none" spellcheck="false" aria-describedby="username-help{{if index .FieldError "username"}} username-error{{end}}" required>
+          </div>
+          <p class="field__help" id="username-help">3–20 letters, numbers, or underscores</p>
+          {{with index .FieldError "username"}}<p class="field__error" id="username-error">{{.}}</p>{{end}}
+        </div>
+
+        <div class="field{{if index .FieldError "password"}} field--error{{end}}">
+          <div class="field__label"><label for="password">Password</label><span>8–64 bytes</span></div>
+          <div class="input-wrap">
+            <span class="input-icon input-icon--key" aria-hidden="true">●</span>
+            <input id="password" name="password" type="password" minlength="8" maxlength="64" autocomplete="new-password" aria-describedby="password-help{{if index .FieldError "password"}} password-error{{end}}" required>
+            <button class="reveal" type="button" data-reveal="password" aria-label="Show password" aria-pressed="false">SHOW</button>
+          </div>
+          <div class="password-meter" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+          <p class="field__help" id="password-help">Use a unique password you do not use elsewhere</p>
+          {{with index .FieldError "password"}}<p class="field__error" id="password-error">{{.}}</p>{{end}}
+        </div>
+
+        <div class="field{{if index .FieldError "password_confirmation"}} field--error{{end}}">
+          <div class="field__label"><label for="password_confirmation">Confirm password</label><span>Required</span></div>
+          <div class="input-wrap">
+            <span class="input-icon input-icon--key" aria-hidden="true">●</span>
+            <input id="password_confirmation" name="password_confirmation" type="password" minlength="8" maxlength="64" autocomplete="new-password" aria-describedby="password_confirmation-help{{if index .FieldError "password_confirmation"}} password_confirmation-error{{end}}" required>
+            <button class="reveal" type="button" data-reveal="password_confirmation" aria-label="Show password confirmation" aria-pressed="false">SHOW</button>
+          </div>
+          <p class="field__help" id="password_confirmation-help" data-password-match>Enter the same password again</p>
+          {{with index .FieldError "password_confirmation"}}<p class="field__error" id="password_confirmation-error">{{.}}</p>{{end}}
+        </div>
+
+        <div class="consent{{if index .FieldError "account_notice"}} consent--error{{end}}">
+          <input id="account_notice" name="account_notice" type="checkbox" value="accepted" aria-describedby="account_notice-help{{if index .FieldError "account_notice"}} account_notice-error{{end}}" required>
+          <label for="account_notice"><span aria-hidden="true"></span>I understand this is a community server account and will keep my credentials private.</label>
+          <p id="account_notice-help" class="sr-only">Confirmation is required to create an account.</p>
+          {{with index .FieldError "account_notice"}}<p class="field__error" id="account_notice-error">{{.}}</p>{{end}}
+        </div>
+
+        <button class="submit" type="submit">
+          <span>CREATE OPERATIVE</span><i aria-hidden="true">→</i>
+        </button>
+        <p class="form-footnote"><span aria-hidden="true">◆</span> Passwords are salted and hashed before they are stored.</p>
+      </form>
+    </section>
+  </main>
+
+  <footer><span>COMMUNITY SERVER</span><span>ACCOUNT SYSTEM // ONLINE</span></footer>
+</body>
+</html>

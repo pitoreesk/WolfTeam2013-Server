@@ -1,0 +1,65 @@
+item_id,name,category,problem,icon
+12011,Kelebek Dövmesi,6,icon file missing,WT_Interface\Item\power\ButterFlyA2.dtx
+17004,Emirlik Seti Piyangosu (7Gün),14,icon file missing,WT_Interface\Item\exitem\Luckybox_7.dtx
+17005,Emirlik Seti Piyangosu (30Gün),14,icon file missing,WT_Interface\Item\exitem\Luckybox_30.DTX
+10037,,14,no exitemdata record,
+10032,,14,no exitemdata record,
+10033,Özel Malzeme,14,no exitemdata record,
+10034,,14,no exitemdata record,
+10035,,14,no exitemdata record,
+10036,,14,no exitemdata record,
+10023,,14,no exitemdata record,
+10024,,14,no exitemdata record,
+14075,National Foundation Item,16,icon file missing,WT_Interface\Item\exitem\C-95_set.dtx
+10044,WP acquire(Gold),15,icon file missing,WT_Interface\Item\exitem\WP_Acquired.dtx
+10045,WP Generator (Cash),15,icon file missing,WT_Interface\Item\exitem\WP_generator.dtx
+19602,Kurt Pençesi,7,icon file missing,WT_Interface\Item\exitem\WolfClaw.dtx
+19603,,7,no exitemdata record,
+19604,,7,no exitemdata record,
+19605,,7,no exitemdata record,
+30039,Angela SF,8,icon file missing,WT_Interface\Item\character\Angela_sf.dtx
+30040,Christopher SF,8,icon file missing,WT_Interface\Item\character\Christopher_sf.dtx
+30041,Adriana SF,9,icon file missing,WT_Interface\Item\character\Adriana_sf.dtx
+30042,Pedro SF,9,icon file missing,WT_Interface\Item\character\Pedro_sf.dtx
+32235,WK-U12A+ Dirseklik,12,icon file missing,AWT_Interface\Item\character\william_kroll_ElbowProtector_Gold.dtx
+17017,Yeni Yıl Jackpot Kutusu,14,icon file missing,WT_Interface\Item\exitem\Happy_New_Year_Jackpot_Box.dtx
+14313,Riccardo B Parça Seti,20,icon file missing,WT_Interface\Item\exitem\Riccardo_B_Parts_Set.dtx
+14315,Sarah B Parça Seti,20,icon file missing,WT_Interface\Item\exitem\Sarah_B_Parts_Set.dtx
+14317,Matt B Parça Seti,20,icon file missing,WT_Interface\Item\exitem\Matt_B_Parts_Set.dtx
+14319,Kate B Parça Seti,20,icon file missing,WT_Interface\Item\exitem\Kate_B_Parts_Set.dtx
+12217,Thunder Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Thunder.dtx
+20077,Thunder Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Thunder.dtx
+21093,Thunder Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Thunder.dtx
+12218,Thunder DR Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Thunder_DR.dtx
+20078,Thunder DR Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Thunder_DR.dtx
+21094,Thunder DR Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Thunder_DR.dtx
+12219,Thunder SP Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Thunder_SP.dtx
+20079,Thunder SP Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Thunder_SP.dtx
+21095,Thunder SP Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Thunder_SP.dtx
+12220,Star Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Star.dtx
+20080,Star Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Star.dtx
+21096,Star Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Star.dtx
+12221,Star DB Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Star_DB.dtx
+20081,Star DB Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Star_DB.dtx
+21097,Star DB Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Star_DB.dtx
+12222,Star SP Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Star_SP.dtx
+20082,Star SP Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Star_SP.dtx
+21098,Star SP Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Star_SP.dtx
+12223,Cyclone Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Cyclone.dtx
+20083,Cyclone Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Cyclone.dtx
+21099,Cyclone Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Cyclone.dtx
+12224,Cyclone DP Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Cyclone_DP.dtx
+20084,Cyclone DP Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Cyclone_DP.dtx
+21100,Cyclone DP Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Cyclone_DP.dtx
+12225,Cyclone SP Dövmesi (Sırt),6,icon file missing,WT_Interface\Item\power\Tattoo_B_Cyclone_SP.dtx
+20085,Cyclone SP Dövmesi (Sol),6,icon file missing,WT_Interface\Item\power\Tattoo_L_Cyclone_SP.dtx
+21101,Cyclone SP Dövmesi (Sağ),6,icon file missing,WT_Interface\Item\power\Tattoo_R_Cyclone_SP.dtx
+14322,Yıldırım Dövmesi Seti,17,icon file missing,WT_Interface\Item\exitem\Tattoo_Thunder_Set.dtx
+14323,Yıldırım Dövmesi Seti (DR),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Thunder_DR_Set.dtx
+14324,Yıldırım Dövmesi Seti (SP),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Thunder_SP_Set.dtx
+14325,Yıldız Dövmesi Seti,17,icon file missing,WT_Interface\Item\exitem\Tattoo_Star_Set.dtx
+14326,Yıldız Dövmesi Seti (DB),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Star_DB_Set.dtx
+14327,Yıldız Dövmesi Seti (SP),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Star_SP_Set.dtx
+14328,Kasırga Dövmesi Seti,17,icon file missing,WT_Interface\Item\exitem\Tattoo_Cyclone_Set.dtx
+14329,Kasırga Dövmesi Seti (DP),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Cyclone_DP_Set.dtx
+14330,Kasırga Dövmesi Seti (SP),17,icon file missing,WT_Interface\Item\exitem\Tattoo_Cyclone_SP_Set.dtx

@@ -1,0 +1,43 @@
+# Environment & secrets
+.env
+docker/.env
+*.local.env
+
+# Compiled binaries & build artifacts
+*.exe
+*.dll
+*.pdb
+*.out
+go-gameserver/wtserver
+go-gameserver/wtadmin
+go-gameserver/wtload
+
+# Runtime logs & local launcher configs
+*.log
+launcher/launcher_config.ini
+client-launcher/launcher_settings.local.json
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Database & backups
+pgdata/
+backups/
+*.sql.gz
+*.pgdump
+*.tar.gz
+*.zip
+*.7z
+*.rar
+
+# Proprietary client payloads (never commit game client files)
+docker/patches/client/
+docker/apex-web/*
+!docker/apex-web/.gitkeep
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

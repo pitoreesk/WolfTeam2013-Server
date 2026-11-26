@@ -1,0 +1,5 @@
+sl_eventnotice1.dtx	0
+sl_eventnotice2.dtx	0
+sl_eventnotice3.dtx	0
+sl_eventnotice4.dtx	0
+sl_eventnotice5.dtx	0
